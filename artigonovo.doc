@@ -2,9 +2,9 @@
 {\fonttbl
 {\f0\fnil\fcharset0\fprq0\fttruetype Arial;}
 {\f1\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
-{\f2\fnil\fcharset0\fprq0\fttruetype Liberation Serif;}
-{\f3\fnil\fcharset0\fprq0\fttruetype Courier New;}
-{\f4\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Liberation Serif;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Courier New;}
 {\f5\fnil\fcharset0\fprq0\fttruetype Tahoma;}}
 {\colortbl
 \red0\green0\blue0;
@@ -12,168 +12,168 @@
 \red255\green255\blue255;
 \red255\green255\blue0;}
 {\stylesheet
-{\s6\tx1584\f2\fs24\lang1046\sbasedon35\snext6 Chapter Heading;}
-{\s53\fi-431\li720\f0\fs24\lang1046\sbasedon38\snext53 Upper Roman List;}
-{\s54\f1\fs24\lang1046\sbasedon34\snext54\uc1 \u205 ?ndice;}
-{\s30\sb120\sa120\f1\fs24\i\lang1046\sbasedon34\snext30 Legenda;}
-{\s32\fi-431\li720\f2\fs24\lang1046\sbasedon38\snext32 Lower Case List;}
-{\s2\li1440\ri1440\sa100\f1\fs24\lang1046\sbasedon34\snext2 Block Text;}
-{\s49\fi-431\li720\f0\fs24\lang1046\snext49 Triangle List;}
-{\s24\keepn\sb440\sa60\f0\fs34\b\lang1046\sbasedon50\snext24 Heading 1;}
-{\s25\keepn\sb440\sa60\f0\fs28\b\lang1046\sbasedon50\snext25 Heading 2;}
-{\s4\fi-431\li720\f0\fs24\lang1046\snext4 Bullet List;}
-{\s27\keepn\sb440\sa60\f0\fs24\b\lang1046\sbasedon50\snext27 Heading 4;}
-{\s28\fi-431\li720\f0\fs24\lang1046\snext19 Heart List;}
-{\s1\fi-431\li720\f0\fs24\lang1046\snext1 Arrowhead List;}
-{\s40\qj\f0\fs28\lang1046\snext40 Recuo de corpo de texto;}
-{\s43\fi-431\li720\f0\fs24\lang1046\snext43 Square List;}
-{\s18\f2\fs24\lang1046\snext18 Endnote Symbol;}
-{\s47\f5\fs16\lang1046\snext47\uc1 Texto de bal\u227 ?o;}
-{\s31\sl288\slmult1\sa140\f1\fs24\lang1046\sbasedon13\snext31 Lista;}
-{\s39\f3\fs24\lang1046\sbasedon34\snext39 Plain Text;}
-{\s22\f1\fs20\lang1046\sbasedon34 Footnote Text;}
-{\s5\tqc\tx4252\tqc\tx8504\f1\fs24\lang1046\sbasedon34\snext22\uc1 Cabe\u231 ?alho;}
-{\s26\keepn\sb440\sa60\f0\fs24\b\lang1046\sbasedon50\snext26 Heading 3;}
-{\s38\fi-431\li720\f0\fs24\lang1046\snext38 Numbered List;}
-{\s15\fi-431\li720\f0\fs24\lang1046\snext15 Diamond List;}
-{\s23\fi-431\li720\f0\fs24\lang1046\snext17 Hand List;}
-{\s41\tqc\tx4252\tqc\tx8504\f1\fs24\lang1046\sbasedon34\snext41\uc1 Rodap\u233 ?;}
-{\s52\fi-431\li720\f0\fs24\lang1046\sbasedon38\snext52 Upper Case List;}
-{\s3\fi-431\li720\f0\fs24\lang1046\snext3 Box List;}
-{\s34\f1\fs24\lang1046\snext34 Normal;}
-{\s51\keepn\sb240\sa120\f4\fs28\lang1046\sbasedon50\snext51\uc1 T\u237 ?tulo do documento;}
-{\s7\f1\fs24\lang1046\sbasedon34\snext7\uc1 Cita\u231 ?\u245 ?es;}
-{\s12\qc\sb240\sa100\f0\fs32\b\lang1046\sbasedon34\snext12 Contents Header;}
-{\s44\fi-431\li720\f0\fs24\lang1046\snext44 Star List;}
-{\s42\tx1584\f2\fs24\lang1046\sbasedon35\snext42 Section Heading;}
-{\s45\keepn\sb240\sa120\f4\fs28\lang1046\sbasedon50\snext45\uc1 Subt\u237 ?tulo;}
-{\s29\fi-431\li720\f0\fs24\lang1046\snext29 Implies List;}
-{\s48\fi-431\li720\f0\fs24\lang1046\snext48 Tick List;}
-{\s13\sl288\slmult1\sa140\f1\fs24\lang1046\sbasedon34\snext13 Corpo do texto;}
-{\s46\f1\fs24\lang1046\snext46 Tabela normal;}
-{\s16\fi-288\li288\sbasedon34 Endnote;}
-{\s50\keepn\sb240\sa120\f4\fs28\lang1046\sbasedon34\snext13\uc1 T\u237 ?tulo;}
-{\s14\fi-431\li720\f0\fs24\lang1046\snext14 Dashed List;}
-{\s33\fi-431\li720\f2\fs24\lang1046\sbasedon34\snext33 Lower Roman List;}
-{\*\cs21\fs20\super Footnote Reference;}
-{\s19\f1\fs24\lang1046\sbasedon34\snext21 Endnote Text;}
-{\*\cs17\fs20\super Endnote Reference;}
-{\s35\tx430\f2\fs24\lang1046\sbasedon24\snext35 Numbered Heading 1;}
-{\s36\tx430\f2\fs24\lang1046\sbasedon25 Numbered Heading 2;}
-{\s37\tx430\f2\fs24\lang1046\sbasedon26\snext38 Numbered Heading 3;}
-{\s20\fi-288\li288\f2\fs20\lang1046\sbasedon34\snext20 Footnote;}
-{\s8\fi-431\li720\f2\fs24\lang1046\sbasedon34\snext8 Contents 1;}
-{\s9\fi-431\li1440\f2\fs24\lang1046\sbasedon34\snext9 Contents 2;}
-{\s10\fi-431\li2160\f2\fs24\lang1046\sbasedon34\snext10 Contents 3;}
-{\s11\fi-431\li2880\f2\fs24\lang1046\sbasedon34\snext11 Contents 4;}}
+{\s7\tx1584\f3\fs24\lang1046\sbasedon36\snext35 Chapter Heading;}
+{\s54\fi-430\li720\f0\fs24\lang1046\sbasedon39 Upper Roman List;}
+{\s46\sb240\sa119\f2\fs28\lang1046\sbasedon47 Subt\u237 ?tulo;}
+{\s45\fi-430\li720\f0\fs24\lang1046 Star List;}
+{\s31\sb119\sa119\f1\fs24\i\lang1046\sbasedon35 Legenda;}
+{\s33\fi-430\li720\f3\fs24\lang1046\sbasedon39 Lower Case List;}
+{\s3\li1440\ri1440\sa99\f1\fs24\lang1046\sbasedon35 Block Text;}
+{\s52\fi-430\li720\f0\fs24\lang1046 Triangle List;}
+{\s25\sb440\sa60\f0\fs34\b\lang1046\sbasedon47\snext35 Heading 1;}
+{\s26\sb440\sa60\f0\fs28\b\lang1046\sbasedon47\snext35 Heading 2;}
+{\s5\fi-430\li720\f0\fs24\lang1046 Bullet List;}
+{\s28\sb440\sa60\f0\fs24\b\lang1046\sbasedon47\snext35 Heading 4;}
+{\s29\fi-430\li720\f0\fs24\lang1046\snext20 Heart List;}
+{\s2\fi-430\li720\f0\fs24\lang1046 Arrowhead List;}
+{\s41\qj\f0\fs28\lang1046 Recuo de corpo de texto;}
+{\s44\fi-430\li720\f0\fs24\lang1046 Square List;}
+{\s19\f3\fs24\lang1046 Endnote Symbol;}
+{\s13\qc\sb240\sa99\f0\fs32\b\lang1046\sbasedon35\snext35 Contents Header;}
+{\s40\f4\fs24\lang1046\sbasedon35 Plain Text;}
+{\s23\f1\fs20\lang1046\sbasedon35 Footnote Text;}
+{\s27\sb440\sa60\f0\fs24\b\lang1046\sbasedon47\snext35 Heading 3;}
+{\s39\fi-430\li720\f0\fs24\lang1046 Numbered List;}
+{\s16\fi-430\li720\f0\fs24\lang1046 Diamond List;}
+{\s24\fi-430\li720\f0\fs24\lang1046\snext18 Hand List;}
+{\s43\tx1584\f3\fs24\lang1046\sbasedon36\snext35 Section Heading;}
+{\s53\fi-430\li720\f0\fs24\lang1046\sbasedon39 Upper Case List;}
+{\s47\sb240\sa119\f2\fs28\lang1046\sbasedon35\snext14 T\u237 ?tulo;}
+{\s4\fi-430\li720\f0\fs24\lang1046 Box List;}
+{\s35\f1\fs24\lang1046 Normal;}
+{\s8\f1\fs24\lang1046\sbasedon35 Cita\u231 ?\u245 ?es;}
+{\s32\sl288\slmult1\sa139\f1\fs24\lang1046\sbasedon14 Lista;}
+{\s1\f1\fs24\lang1046\sbasedon35 ?ndice;}
+{\s42\tqc\tx4252\tqc\tx8504\f1\fs24\lang1046\sbasedon35 Rodap\u233 ?;}
+{\s6\tqc\tx4252\tqc\tx8504\f1\fs24\lang1046\sbasedon35\snext23 Cabe\u231 ?alho;}
+{\s30\fi-430\li720\f0\fs24\lang1046 Implies List;}
+{\s51\fi-430\li720\f0\fs24\lang1046 Tick List;}
+{\s48\sb240\sa119\f2\fs28\lang1046\sbasedon47 T\u237 ?tulo do documento;}
+{\s14\sl288\slmult1\sa139\f1\fs24\lang1046\sbasedon35 Corpo do texto;}
+{\s49\f1\fs24\lang1046 Tabela normal;}
+{\s17\fi-288\li288\sbasedon35 Endnote;}
+{\s50\f5\fs16\lang1046 Texto de bal\u227 ?o;}
+{\s15\fi-430\li720\f0\fs24\lang1046 Dashed List;}
+{\s34\fi-430\li720\f3\fs24\lang1046\sbasedon35 Lower Roman List;}
+{\*\cs22\fs20\super Footnote Reference;}
+{\s20\f1\fs24\lang1046\sbasedon35\snext22 Endnote Text;}
+{\*\cs18\fs20\super Endnote Reference;}
+{\s36\tx429\f3\fs24\lang1046\sbasedon25\snext35 Numbered Heading 1;}
+{\s37\tx429\f3\fs24\lang1046\sbasedon26\snext35 Numbered Heading 2;}
+{\s38\tx429\f3\fs24\lang1046\sbasedon27\snext39 Numbered Heading 3;}
+{\s21\fi-288\li288\f3\fs20\lang1046\sbasedon35 Footnote;}
+{\s9\fi-430\li720\f3\fs24\lang1046\sbasedon35\snext35 Contents 1;}
+{\s10\fi-430\li1440\f3\fs24\lang1046\sbasedon35\snext35 Contents 2;}
+{\s11\fi-430\li2160\f3\fs24\lang1046\sbasedon35\snext35 Contents 3;}
+{\s12\fi-430\li2880\f3\fs24\lang1046\sbasedon35\snext35 Contents 4;}}
 \kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
-\sectd\sbknone\colsx360\footery412\margtsxn1700\margbsxn1132\marglsxn1700\margrsxn1132\pgncont\ltrsect
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch ENSAIO SOBRE A COMPILA\'c7\'c3O JUST-IN-TIME UTILIZANDO PYTHON}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qr\s34\sl360\slmult1\itap0{\s34\f0\fs24\i\lang1046{\*\listtag0}\abinodiroverride\ltrch Hor\'e1cio Dias Baptista Neto}{\s34\f0\fs20\i\super\lang0{\*\listtag0}\chftn}{\footnote
-\pard\plain\ltrpar\ql\itap0{\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s34\itap0{\s34\f0\fs20\lang0{\*\listtag0}\chftn}{\s34\f0\fs20\lang0{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\itap0{\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \line \tab Aluno do XX ano do Curso de XXXXXXX. E-mail: XXXXXXXX. Trabalho orientado pelo Prof. XXXXXXXXXX e apresentado como requisito parcial para a forma\'e7\'e3o no Curso de XXXXXXXXXX, do Centro Universit\'e1rio de Bauru no ano de 2015.}}{\s34\f0\fs24\i\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch Resumo:}{\s34\f0\fs24\lang1046{\*\listtag0} Esta pesquisa visa mostrar as vantagens perform\'e1ticas da Tradu\'e7\'e3o Din\'e2mica (}{\s34\f0\fs24\i\lang1046{\*\listtag0}just-in-time}{\s34\f0\fs24\lang1046{\*\listtag0}) em contraste com a vers\'e3o compilada est\'e1tica. Foi utilizado  como linguagem base para a realiza\'e7\'e3o dos testes o Python por possuir duas implementa\'e7\'f5es que abrangem os t\'f3picos anteriormente citados}{\s34\f0\fs24\i\lang1046{\*\listtag0}.}{\s34\f0\fs24\lang1046{\*\listtag0} Compreender as poss\'edveis melhorias executadas no ambiente }{\s34\f0\fs24\i\lang1046{\*\listtag0}just-in-time (pypy), analisando por meio de dados, gr\'e1ficos, e a execu\'e7\'e3o de testes.}{\s34\f0\fs24\lang1046{\*\listtag0} As estrat\'e9gias de otimiza\'e7\'f5es utilizam heur\'edsticas, que s\'e3o identificadas em tempo de execu\'e7\'e3o}{\s34\f0\fs24\lang1046{\*\listtag0}. H\'e1 tamb\'e9m a possibilidade de executar configura\'e7\'f5es atribu\'eddas \'e0 m\'e1quina virtual, possibilitando a utiliza\'e7\'e3o de implementa\'e7\'f5es diversificadas para algumas estruturas, resultando em melhorias para casos mais espec\'edficos, como redu\'e7\'e3o de mem\'f3ria, performance, etc. As modifica\'e7\'f5es acontecem internamente, sem altera\'e7\'e3o nas defini\'e7\'f5es das chamadas dos m\'e9todos}{\s34\f0\fs24\lang1046{\*\listtag0}. Ou seja, para os desenvolvedores as mudan\'e7as s\'e3o irrelevantes. Os desenvolvedores obt\'e9m um ganho consider\'e1vel de flexibilidade para optar por estrat\'e9gias mais espec\'edficas, ou utilizar configura\'e7\'f5es gen\'e9ricas que s\'e3o habilitadas por padr\'e3o.}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch Palavras-chave: }{\s34\f0\fs24\lang1046{\*\listtag0}Sistemas de Informa\'e7\'e3o}{\s34\f0\fs24\b\lang1046{\*\listtag0}. }{\s34\f0\fs24\lang1046{\*\listtag0}Compila\'e7\'e3o }{\s34\f0\fs24\i\lang1046{\*\listtag0}just-in-time}{\s34\f0\fs24\lang1046{\*\listtag0}. Tradu\'e7\'e3o Din\'e2mica. Compila\'e7\'e3o em tempo de execu\'e7\'e3o.}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch 1 INTRODU\'c7\'c3O}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab }{\s34\f0\fs24\lang1046{\*\listtag0}A percep\'e7\'e3o de que o fazer ci\'eancia se constitui como algo muito variado e rico \'e9 um dos mais importantes resultados dos debates que envolveram os principais fil\'f3sofos da ci\'eancia na segunda metade do s\'e9culo XX. Os debates ente Popper e Kuhn apresentam passagens que s\'e3o reveladoras dessa diversidade. No entanto, esses debates revelaram tamb\'e9m que o fazer ci\'eancia, enquanto realiza\'e7\'e3o humana, n\'e3o est\'e1 imune aos direcionamentos que os seus participantes e a sociedade pretendem lhe imprimir. Em rela\'e7\'e3o a este aspecto, as id\'e9ias de Popper podem dar uma contribui\'e7\'e3o relevante ao debate, na medida em que ele apresenta sua concep\'e7\'e3o de ci\'eancia conscientemente associada a certos valores e a uma determinada vis\'e3o de sociedade. Ao assim proceder, Popper nos conduz a refletir sobre a presen\'e7a ou n\'e3o dessas articula\'e7\'f5es em seus interlocutores e, mais do que isso, ao questionamento sobre a possibilidade ou necessidade de um direcionamento consciente da atividade cient\'edfica a partir  de certos valores e id\'e9ias sociais.}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab De forma semelhante, os debates a respeito do tema da mudan\'e7a conceitual conduziram a uma percep\'e7\'e3o mais adequada a respeito da riqueza do processo de aprender ci\'eancias. E da mesma forma que o fazer ci\'eancia n\'e3o est\'e1 imune \'e0s influ\'eancias de valores e concep\'e7\'f5es de sociedade, o ensinar ci\'eancias tamb\'e9m teria que ser pensado \'e0 luz desses condicionamentos.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Neste sentido, as id\'e9ias de Popper tamb\'e9m devem ser consideradas, pois acabam conduzindo a reflex\'f5es valiosas a respeito das rela\'e7\'f5es existentes entre o Ensino de Ci\'eancias, valores e concep\'e7\'f5es de ci\'eancia e de sociedade. Reflex\'f5es essas que revelam sua import\'e2ncia quando se considera que o ensinar ci\'eancias faz parte de uma atividade humana inevitavelmente ligada a concep\'e7\'f5es sobre a sociedade, a cultura, os valores e a pol\'edtica, estando, portanto, sujeita a m\'faltiplas influ\'eancias que devem ser reconhecidas e avaliadas.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab \tab }{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch  2 O PONTO FORTE DA CONTRIBUI\'c7\'c3O DE ALGUNS INTERLOCUTORES DE POPPER: A COMPLEXIDADE DO PROCESSO DE FAZER CI\'caNCIA}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab }{\s34\f0\fs24\lang1046{\*\listtag0}Um dos questionamentos mais importantes que foram apresentados em rela\'e7\'e3o \'e0 Filosofia da Ci\'eancia de Karl Popper diz respeito \'e0 quest\'e3o da mudan\'e7a te\'f3rica, ou seja, quais seriam os fatores que conduziriam ao abandono de uma teoria e \'e0 ado\'e7\'e3o de uma outra.}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Em rela\'e7\'e3o a este tema, os posicionamentos de Kuhn (1996) e os questionamentos apresentados por ele \'e0s posi\'e7\'f5es de Popper (KUHN,1979a, 1979b), foram fundamentais no desenvolvimento do debate, que teve tamb\'e9m a participa\'e7\'e3o mais destacada, dentre outros, de Imre Lakatos (1983, 1979), que procurou desenvolver as id\'e9ias popperianas \'e0 luz das obje\'e7\'f5es de seus cr\'edticos, e de Paul Feyerabend (1979), com a apresenta\'e7\'e3o de uma vis\'e3o de ci\'eancia bastante diferente daquela apresentada por Popper. Como a polariza\'e7\'e3o mais importante ocorreu com o pensamento de Kuhn, ser\'e3o destacados alguns aspectos deste debate, com a finalidade de se compreender melhor os pontos fortes das cr\'edticas das concep\'e7\'f5es popperianas.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Em rela\'e7\'e3o \'e0 quest\'e3o da mudan\'e7a te\'f3rica, a principal cr\'edtica de Kuhn diz respeito aos testes, ou experimentos cruciais, que Popper considerava como fundamentais no processo de avalia\'e7\'e3o das teorias cient\'edficas. De acordo com Popper, a ci\'eancia continua tendo nos experimentos algo fundamental, mas n\'e3o, como na concep\'e7\'e3o positivista, para confirmar as teorias como verdadeiras, mas sim para test\'e1-las com o objetivo de comprovar sua qualidade. O n\'famero de testes pelo qual uma teoria passou n\'e3o seria garantia de sua veracidade, as teorias estariam sempre sujeitas \'e0 refuta\'e7\'e3o. No entanto, um teste decisivo, um experimento crucial, poderia conduzir ao abandono da teoria.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Uma das contribui\'e7\'f5es importantes de Kuhn diz respeito, portanto, ao questionamento da maneira como Popper descreveu o fazer ci\'eancia, em especial o papel atribu\'eddo ao potencial refutador dos experimentos. Segundo Kuhn, os cientistas n\'e3o abandonam suas teorias em raz\'e3o de um experimento potencialmente refutador; isto seria muito pouco para faz\'ea-los desistir de id\'e9ias que prezam muito, que desenvolveram durante muito tempo, se habituando a elas. Muitas vezes, o que est\'e1 em jogo s\'e3o financiamentos de pesquisas, grupos e estruturas grandes, a pr\'f3pria trajet\'f3ria intelectual do pesquisador ou at\'e9 cargos importantes. Quando um caso potencialmente refutador se apresenta, o cientista teria \'e0 m\'e3o v\'e1rias alternativas para preservar as id\'e9ias que lhe s\'e3o t\'e3o caras, sendo que isto pode ocorrer n\'e3o de maneira refletida e calculada, mas como uma esp\'e9cie de instinto de sobreviv\'eancia, muitas vezes inconsciente. }{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Os exemplos pesquisados por Kuhn na hist\'f3ria das ci\'eancias e os argumentos por ele utilizados abriram espa\'e7o para uma s\'e9rie de pesquisas e debates que levaram a um questionamento da vis\'e3o de ci\'eancia apresentada originalmente por Popper. Ao longo desses debates}{\s34\f0\fs20\super\lang0{\*\listtag0}\chftn}{\footnote
-\pard\plain\ltrpar\ql\s22\itap0{\s22\f0\fs20\lang0{\*\listtag0}\chftn}{\s22\f0\fs24\lang1046{\*\listtag0}\tab  Ver, por exemplo, o quarto volume das atas do Col\'f3quio Internacional sobre Filosofia da Ci\'eancia, realizado em Londres em 1965 (LAKATOS; MUSGRAVE, 1979).}}{\s34\f0\fs24\lang1046{\*\listtag0}, houve um questionamento do falseacionismo popperiano como uma regra que seria usada com freq\'fc\'eancia pelos cientistas, ao mesmo tempo em que se desenvolvia uma percep\'e7\'e3o mais adequada dos v\'e1rios fatores que estariam presentes e influenciando no processo de mudan\'e7a te\'f3rica. Alguns desses fatores foram denominados de }{\s34\f0\fs24\i\lang1046{\*\listtag0}extra-cient\'edficos.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Em rela\'e7\'e3o ao questionamento do falseacionismo a partir de um ponto de vista }{\s34\f0\fs24\i\lang1046{\*\listtag0}intra-cient\'edfico}{\s34\f0\fs24\lang1046{\*\listtag0}, Kuhn e Lakatos (LAKATOS,1979) acabam confluindo para um posicionamento em que se entende que a mudan\'e7a te\'f3rica, quando ocorre, \'e9 em raz\'e3o de um certo esgotamento do }{\s34\f0\fs24\i\lang1046{\*\listtag0}programa de pesquisa}{\s34\f0\fs20\i\super\lang0{\*\listtag0}\chftn}{\footnote
-\pard\plain\ltrpar\ql\s22\itap0{\s22\f0\fs20\lang0{\*\listtag0}\chftn}{\s22\f0\fs24\lang1046{\*\listtag0}\tab  Express\'e3o cunhada por Lakatos.}}{\s34\f0\fs24\lang1046{\*\listtag0} vigente. Lakatos fala em programas de pesquisa regressivo ou mudan\'e7as degenerativas de problemas, para caracterizar situa\'e7\'f5es em que n\'e3o h\'e1 um real aumento de conte\'fado:}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f0\fs20\lang1046{\*\listtag0}\abinodiroverride\ltrch Se apresentarmos uma teoria para resolver uma contradi\'e7\'e3o entre uma teoria anterior e um exemplo contr\'e1rio de tal maneira que a nova teoria, em lugar de oferecer uma }{\s34\f0\fs20\i\lang1046{\*\listtag0}explica\'e7\'e3o}{\s34\f0\fs20\lang1046{\*\listtag0} (cient\'edfica) que aumente o conte\'fado, s\'f3 ofere\'e7a uma }{\s34\f0\fs20\i\lang1046{\*\listtag0}reinterpreta\'e7\'e3o}{\s34\f0\fs20\lang1046{\*\listtag0} (ling\'fc\'edstica) que diminui o conte\'fado, a contradi\'e7\'e3o se resolver\'e1 de modo meramente sem\'e2ntico, n\'e3o-cient\'edfico.(LAKATOS, 1979, p.160). }{\s34\f0\fs20\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab O falseacionismo sofisticado defendido por Lakatos (segundo ele, j\'e1 embrion\'e1rio em Popper) prop\'f5e a avalia\'e7\'e3o de s\'e9ries de teorias que se constituiriam em programas de pesquisa. Seriam esses programas de pesquisa que poderiam ser mais adequadamente avaliados e considerados }{\s34\f0\fs24\i\lang1046{\*\listtag0}progressivos}{\s34\f0\fs24\lang1046{\*\listtag0}, ou seja, promissores quanto ao seu potencial de apresenta\'e7\'e3o e solu\'e7\'e3o de problemas novos; ou }{\s34\f0\fs24\i\lang1046{\*\listtag0}degenerativos}{\s34\f0\fs24\lang1046{\*\listtag0}, que enfrentariam as dificuldades sem apresenta\'e7\'e3o de novos conte\'fados ou descobertas. A esse respeito, Lakatos afirma:}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f0\fs20\lang1046{\*\listtag0}\abinodiroverride\ltrch O exemplo cl\'e1ssico de programa de pesquisa bem-sucedido \'e9 a teoria gravitacional de Newton; talvez seja at\'e9 o mais bem-sucedido programa de pesquisa j\'e1 levado a cabo. Quando foi produzido pela primeira vez, viu-se submerso num oceano de \uc1\u8220\'93anomalias\uc1\u8221\'94 (ou, se quiserem, de \uc1\u8220\'93contra-exemplos\uc1\u8221\'94), e enfrentou a oposi\'e7\'e3o das teorias observacionais que sustentavam tais anomalias. Os newtonianos, contudo, transformaram, com tenacidade e engenho brilhantes, um contra-exemplo depois do outro em exemplos corroborativos, principalmente derrubando as teorias observacionais originais \'e0 cuja luz essa \uc1\u8220\'93evid\'eancia contr\'e1ria\uc1\u8221\'94 foi estabelecida. No processo, eles mesmos produziram novos contra-exemplos, que novamente resolviam. \uc1\u8220\'93Converteram cada nova dificuldade numa nova vit\'f3ria do seu programa\uc1\u8221\'94}{\s34\f0\fs20\super\lang0{\*\listtag0}\chftn}{\footnote
-\pard\plain\ltrpar\ql\s22\itap0{\s22\f0\fs20\lang0{\*\listtag0}\chftn}{\s22\f0\fs24\lang1046{\*\listtag0}\tab  Laplace, Exposition du Syst\'e8me du Monde, 1796, livro IV, cap\'edtulo ii (NOTA DO AUTOR)}}{\s34\f0\fs20\lang1046{\*\listtag0}. (LAKATOS, 1979, p.163).}{\s34\f0\fs20\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\cb3\highlight3\f1\fs24\i\b\lang1046{\*\listtag0}\abinodiroverride\ltrch O restante do artigo estaria no sequ\'eancia completando cerca de 15 p\'e1ginas de texto.}{\s34\cb3\highlight3\f1\fs24\i\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\cb3\highlight3\f1\fs24\i\b\ul\lang1046{\*\listtag0}\abinodiroverride\ltrch Ap\'f3s o \'faltimo t\'edtulo do texto estaria o item conclus\'e3o e logo ap\'f3s o resumo em l\'edngua estrangeira e as refer\'eancias, como se observa abaixo.}{\s34\cb3\highlight3\f1\fs24\i\b\ul\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\itap0
-\sect\sectd\sbknone\colsx360\footery412\margtsxn1700\margbsxn1132\marglsxn1700\margrsxn1132\pgncont\ltrsect
-\pard\plain\ltrpar\ql\itap0{\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s34\itap0{\s34\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch POPPER\uc1\u8217\'92S CONCEPTION OF SCIENCE AND THE TEACHING OF SCIENCES}{\s34\f0\fs24\b\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Abstract:}{\s34\f0\fs24\lang1033{\*\listtag0} This work aimed at identifying the most important consequences of Popper\uc1\u8217\'92s conception of science for the Teaching of Sciences. Popper\uc1\u8217\'92s conception originated a fertile debate in the Philosophy of Sciences. By following this debate, it is possible to notice, on the one hand, the richness of the process of making science, recognizing the contributions brought by those who debated with Popper, and on the other hand, the importance of aspects of science that Popper valued and attempted to preserve. In a similar way, the criticism and the debate over the approaches of conceptual change contributed to the perception of the profuseness and complexity of this process. However, the maintenance of certain aspects, inherent in the process of conceptual change, may be relevant when the institutional objectives of the schools and the social expectations over the appropriate understanding and over the attempt to overcome current paradigms are considered. In this way, Popper\uc1\u8217\'92s work may offer important support to value rational aspects that could lead the process of learning Sciences.}{\s34\f0\fs24\b\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch Keywords:}{\s34\f0\fs24\lang1046{\*\listtag0} Philosophy of Science. }{\s34\f0\fs24\lang1033{\*\listtag0}Popper\uc1\u8217\'92s epistemology. Rational choice and debate. }{\s34\f0\fs24\lang1046{\*\listtag0}Conceptual change}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\itap0
-\sect\sectd\sbknone\colsx360\footery412\margtsxn1700\margbsxn1132\marglsxn1700\margrsxn1132\pgncont\ltrsect
-\pard\plain\ltrpar\ql\itap0{\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s34\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch REFER\'caNCIAS}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch FEYERABEND, P. Consolando o especialista. In: LAKATOS,I.; MUSGRAVE, A.(Orgs.).}{\s40\f0\fs24\i\lang1046{\*\listtag0} A cr\'edtica e o desenvolvimento do conhecimento}{\s40\f0\fs24\lang1046{\*\listtag0}. S\'e3o Paulo: Cultrix/Edusp, 1979. p.244-284.}{\s40\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch KUHN, T. S. }{\s40\f0\fs24\i\lang1046{\*\listtag0}A estrutura das revolu\'e7\'f5es cient\'edficas. }{\s40\f0\fs24\lang1046{\*\listtag0}4.ed. S\'e3o Paulo: Perspectiva, 1996.}{\s40\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch ________. L\'f3gica da descoberta ou psicologia da pesquisa? In: LAKATOS, I. ; MUSGRAVE, A. }{\s40\f0\fs24\i\lang1046{\*\listtag0}A cr\'edtica e o desenvolvimento do conhecimento}{\s40\f0\fs24\lang1046{\*\listtag0}.S\'e3o Paulo: Cultrix/Edusp, 1979a. p.5-32.}{\s40\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch ________. Reflex\'f5es sobre os meus cr\'edticos. }{\s40\f0\fs24\lang1033{\*\listtag0}In: LAKATOS,I.; MUSGRAVE, A.(Orgs.).}{\s40\f0\fs24\i\lang1033{\*\listtag0} }{\s40\f0\fs24\i\lang1046{\*\listtag0}A cr\'edtica e o desenvolvimento do conhecimento}{\s40\f0\fs24\lang1046{\*\listtag0}. S\'e3o Paulo: Cultrix/Edusp, 1979b. }{\s40\f0\fs24\lang1034{\*\listtag0}p.285-343.}{\s40\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs24\lang1034{\*\listtag0}\abinodiroverride\ltrch LAKATOS, I. }{\s40\f0\fs24\i\lang1034{\*\listtag0}La metodologia de los programas de investigaci\'f3n cient\'edfica.}{\s40\f0\fs24\lang1034{\*\listtag0} Madri: Alianza editorial, 1983.}{\s40\f0\fs24\lang1034{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch LAKATOS, I. O Falseamento e a metodologia dos programas de pesquisa cient\'edfica. In: LAKATOS, I. ; MUSGRAVE, A.(Orgs.) }{\s40\f0\fs24\i\lang1046{\*\listtag0}A cr\'edtica e o desenvolvimento do conhecimento. }{\s40\f0\fs24\lang1046{\*\listtag0}S\'e3o Paulo: Cultrix/Edusp, 1979.}{\s40\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\abinodiroverride\ltrch Ver os modelos de refer\'eancias no \uc1\u8220\'93Manual para a elabora\'e7\'e3o de trabalhos acad\'eamicos\uc1\u8221\'94 no site da ITE.}{\s40\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\abinodiroverride\ltrch Nos casos dos artigos cient\'edficos, constam nas refer\'eancias apenas as fontes efetivamente citadas no corpo do texto.}{\s40\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s40\itap0{\s40\f0\fs28\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\itap0
-\sect\sectd\sbknone\colsx360\footery412\margtsxn1700\margbsxn1132\marglsxn1700\margrsxn1132\pgncont\ltrsect
-\pard\plain\ltrpar\ql\itap0{\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch AP\'caNDICE(S) }{\s34\cb3\highlight3\f1\fs24\b\lang1046{\*\listtag0}(ELEMENTO OPCIONAL)}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch Texto ou documento }{\s34\f0\fs24\ul\lang1046{\*\listtag0}elaborado pelo autor}{\s34\f0\fs24\lang1046{\*\listtag0}, de natureza complementar. Os ap\'eandices n\'e3o s\'e3o muito utilizados nos artigos cient\'edficos em raz\'e3o do car\'e1ter compacto deste tipo de documento.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Ver o modelo (como ficaria um ap\'eandice na p\'e1gina de um artigo) a seguir.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\i\lang1046{\*\listtag0}\abinodiroverride\ltrch  }{\s34\f0\fs24\b\lang1046{\*\listtag0}ANEXO(S) }{\s34\cb3\highlight3\f1\fs24\b\lang1046{\*\listtag0}(ELEMENTO OPCIONAL)}{\s34\f0\fs24\i\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch Texto ou documento }{\s34\f0\fs24\ul\lang1046{\*\listtag0}n\'e3o elaborado pelo autor}{\s34\f0\fs24\lang1046{\*\listtag0}, que serve de fundamenta\'e7\'e3o,comprova\'e7\'e3o e ilustra\'e7\'e3o, tendo um car\'e1ter complementar. Os ap\'eandices n\'e3o s\'e3o muito utilizados nos artigos cient\'edficos, dado o car\'e1ter compacto deste tipo de documento.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Ver o modelo (como ficaria um ap\'eandice na p\'e1gina de um artigo) a seguir.}{\s34\f0\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\itap0
-\sect\sectd\sbknone\colsx360\footery412\margtsxn1700\margbsxn1132\marglsxn1700\margrsxn1132\pgncont\ltrsect
-\pard\plain\ltrpar\ql\itap0{\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qj\s34\sl360\slmult1\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch AP\'caNDICE  A- }{\s34\f0\fs24\lang1046{\*\listtag0}Gr\'e1fico sobre os \'edndices de audi\'eancia das emissoras de canal aberto}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\itap0
-\sect\sectd\sbknone\colsx360\footery412\margtsxn1700\margbsxn1132\marglsxn1700\margrsxn1132\pgncont\ltrsect
-\pard\plain\ltrpar\ql\itap0{\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch \page }{\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s34\itap0{\s34\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch ANEXO A \uc1\u8211\'96 }{\s34\f0\fs24\lang1046{\*\listtag0}Exemplos de diagrama\'e7\'e3o de p\'e1ginas iniciais dos peri\'f3dicos analisados}{\s34\f0\fs24\b\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\qc\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s34\itap0{\s34\f1\fs24\lang1046{\*\listtag0}\par}}
+\sectd\sbknone\colsx360\footery411\margtsxn1700\margbsxn1131\marglsxn1700\margrsxn1131\pgncont\ltrsect
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch ENSAIO SOBRE A COMPILA\'c7\'c3O JUST-IN-TIME UTILIZANDO PYTHON}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qr\s35\sl360\slmult1\itap0{\s35\f0\fs24\i\lang1046{\*\listtag0}\abinodiroverride\ltrch Hor\'e1cio Dias Baptista Neto}{\s35\f0\fs20\i\super\lang0{\*\listtag0}\chftn}{\footnote
+\pard\plain\ltrpar\ql\itap0{\f0\fs24\i\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\f0\fs20\lang0{\*\listtag0}\chftn}{\s35\f0\fs24\i\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \line \tab Aluno do XX ano do Curso de XXXXXXX. E-mail: XXXXXXXX. Trabalho orientado pelo Prof. XXXXXXXXXX e apresentado como requisito parcial para a forma\'e7\'e3o no Curso de XXXXXXXXXX, do Centro Universit\'e1rio de Bauru no ano de 2015.}}{\s35\f0\fs24\i\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch Resumo:}{\s35\f0\fs24\lang1046{\*\listtag0} Esta pesquisa visa mostrar as vantagens perform\'e1ticas da Tradu\'e7\'e3o Din\'e2mica (}{\s35\f0\fs24\i\lang1046{\*\listtag0}just-in-time}{\s35\f0\fs24\lang1046{\*\listtag0}) em contraste com a vers\'e3o compilada est\'e1tica. Foi utilizado  como linguagem base para a realiza\'e7\'e3o dos testes o Python por possuir duas implementa\'e7\'f5es que abrangem os t\'f3picos anteriormente citados}{\s35\f0\fs24\i\lang1046{\*\listtag0}.}{\s35\f0\fs24\lang1046{\*\listtag0} Compreender as poss\'edveis melhorias executadas no ambiente }{\s35\f0\fs24\i\lang1046{\*\listtag0}just-in-time (pypy), analisando por meio de dados, gr\'e1ficos, e a execu\'e7\'e3o de testes.}{\s35\f0\fs24\lang1046{\*\listtag0} As estrat\'e9gias de otimiza\'e7\'f5es utilizam heur\'edsticas, que s\'e3o identificadas em tempo de execu\'e7\'e3o. H\'e1 tamb\'e9m a possibilidade de executar configura\'e7\'f5es atribu\'eddas \'e0 m\'e1quina virtual, possibilitando a utiliza\'e7\'e3o de implementa\'e7\'f5es diversificadas para algumas estruturas, resultando em melhorias para casos mais espec\'edficos, como redu\'e7\'e3o de mem\'f3ria, performance, etc. As modifica\'e7\'f5es acontecem internamente, sem altera\'e7\'e3o nas defini\'e7\'f5es das chamadas dos m\'e9todos. Ou seja, para os desenvolvedores as mudan\'e7as s\'e3o irrelevantes. Os desenvolvedores obt\'e9m um ganho consider\'e1vel de flexibilidade para optar por estrat\'e9gias mais espec\'edficas, ou utilizar configura\'e7\'f5es gen\'e9ricas que s\'e3o habilitadas por padr\'e3o.}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch Palavras-chave: }{\s35\f0\fs24\lang1046{\*\listtag0}Sistemas de Informa\'e7\'e3o}{\s35\f0\fs24\b\lang1046{\*\listtag0}. }{\s35\f0\fs24\lang1046{\*\listtag0}Compila\'e7\'e3o }{\s35\f0\fs24\i\lang1046{\*\listtag0}just-in-time}{\s35\f0\fs24\lang1046{\*\listtag0}. Tradu\'e7\'e3o Din\'e2mica. Compila\'e7\'e3o em tempo de execu\'e7\'e3o.}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch 1 INTRODU\'c7\'c3O}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab }{\s35\f0\fs24\lang1046{\*\listtag0}Python \'e9 uma linguagem din\'e2mica largamente utilizada, com uma comunidade ativa}{\s35\f0\fs24\lang1046{\*\listtag0}. }{\s35\f0\fs24\lang1046{\*\listtag0}Sendo conhecida por possuir \uc1\u8220\'93baterias inclu\'eddas\uc1\u8221\'94, ela vem com uma grande quantidade de bibliotecas padr\'f5es, uma boa documenta\'e7\'e3o}{\s35\f0\fs24\lang1046{\*\listtag0}. Possui uma curta curva de aprendizado, considerando as funcionalidades padr\'f5es, e para os usu\'e1rios avan\'e7ados ela possui uma alta gama de possibilidades, utilizando metaprograma\'e7\'e3o, e outros recursos espec\'edficos do Python. Em rela\'e7\'e3o a este aspecto, as id\'e9ias de Popper podem dar uma contribui\'e7\'e3o relevante ao debate, na medida em que ele apresenta sua concep\'e7\'e3o de ci\'eancia conscientemente associada a certos valores e a uma determinada vis\'e3o de sociedade. Ao assim proceder, Popper nos conduz a refletir sobre a presen\'e7a ou n\'e3o dessas articula\'e7\'f5es em seus interlocutores e, mais do que isso, ao questionamento sobre a possibilidade ou necessidade de um direcionamento consciente da atividade cient\'edfica a partir  de certos valores e id\'e9ias sociais.}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab De forma semelhante, os debates a respeito do tema da mudan\'e7a conceitual conduziram a uma percep\'e7\'e3o mais adequada a respeito da riqueza do processo de aprender ci\'eancias. E da mesma forma que o fazer ci\'eancia n\'e3o est\'e1 imune \'e0s influ\'eancias de valores e concep\'e7\'f5es de sociedade, o ensinar ci\'eancias tamb\'e9m teria que ser pensado \'e0 luz desses condicionamentos.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Neste sentido, as id\'e9ias de Popper tamb\'e9m devem ser consideradas, pois acabam conduzindo a reflex\'f5es valiosas a respeito das rela\'e7\'f5es existentes entre o Ensino de Ci\'eancias, valores e concep\'e7\'f5es de ci\'eancia e de sociedade. Reflex\'f5es essas que revelam sua import\'e2ncia quando se considera que o ensinar ci\'eancias faz parte de uma atividade humana inevitavelmente ligada a concep\'e7\'f5es sobre a sociedade, a cultura, os valores e a pol\'edtica, estando, portanto, sujeita a m\'faltiplas influ\'eancias que devem ser reconhecidas e avaliadas.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab \tab }{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch  2 O PONTO FORTE DA CONTRIBUI\'c7\'c3O DE ALGUNS INTERLOCUTORES DE POPPER: A COMPLEXIDADE DO PROCESSO DE FAZER CI\'caNCIA}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab }{\s35\f0\fs24\lang1046{\*\listtag0}Um dos questionamentos mais importantes que foram apresentados em rela\'e7\'e3o \'e0 Filosofia da Ci\'eancia de Karl Popper diz respeito \'e0 quest\'e3o da mudan\'e7a te\'f3rica, ou seja, quais seriam os fatores que conduziriam ao abandono de uma teoria e \'e0 ado\'e7\'e3o de uma outra.}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Em rela\'e7\'e3o a este tema, os posicionamentos de Kuhn (1996) e os questionamentos apresentados por ele \'e0s posi\'e7\'f5es de Popper (KUHN,1979a, 1979b), foram fundamentais no desenvolvimento do debate, que teve tamb\'e9m a participa\'e7\'e3o mais destacada, dentre outros, de Imre Lakatos (1983, 1979), que procurou desenvolver as id\'e9ias popperianas \'e0 luz das obje\'e7\'f5es de seus cr\'edticos, e de Paul Feyerabend (1979), com a apresenta\'e7\'e3o de uma vis\'e3o de ci\'eancia bastante diferente daquela apresentada por Popper. Como a polariza\'e7\'e3o mais importante ocorreu com o pensamento de Kuhn, ser\'e3o destacados alguns aspectos deste debate, com a finalidade de se compreender melhor os pontos fortes das cr\'edticas das concep\'e7\'f5es popperianas.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Em rela\'e7\'e3o \'e0 quest\'e3o da mudan\'e7a te\'f3rica, a principal cr\'edtica de Kuhn diz respeito aos testes, ou experimentos cruciais, que Popper considerava como fundamentais no processo de avalia\'e7\'e3o das teorias cient\'edficas. De acordo com Popper, a ci\'eancia continua tendo nos experimentos algo fundamental, mas n\'e3o, como na concep\'e7\'e3o positivista, para confirmar as teorias como verdadeiras, mas sim para test\'e1-las com o objetivo de comprovar sua qualidade. O n\'famero de testes pelo qual uma teoria passou n\'e3o seria garantia de sua veracidade, as teorias estariam sempre sujeitas \'e0 refuta\'e7\'e3o. No entanto, um teste decisivo, um experimento crucial, poderia conduzir ao abandono da teoria.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Uma das contribui\'e7\'f5es importantes de Kuhn diz respeito, portanto, ao questionamento da maneira como Popper descreveu o fazer ci\'eancia, em especial o papel atribu\'eddo ao potencial refutador dos experimentos. Segundo Kuhn, os cientistas n\'e3o abandonam suas teorias em raz\'e3o de um experimento potencialmente refutador; isto seria muito pouco para faz\'ea-los desistir de id\'e9ias que prezam muito, que desenvolveram durante muito tempo, se habituando a elas. Muitas vezes, o que est\'e1 em jogo s\'e3o financiamentos de pesquisas, grupos e estruturas grandes, a pr\'f3pria trajet\'f3ria intelectual do pesquisador ou at\'e9 cargos importantes. Quando um caso potencialmente refutador se apresenta, o cientista teria \'e0 m\'e3o v\'e1rias alternativas para preservar as id\'e9ias que lhe s\'e3o t\'e3o caras, sendo que isto pode ocorrer n\'e3o de maneira refletida e calculada, mas como uma esp\'e9cie de instinto de sobreviv\'eancia, muitas vezes inconsciente. }{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Os exemplos pesquisados por Kuhn na hist\'f3ria das ci\'eancias e os argumentos por ele utilizados abriram espa\'e7o para uma s\'e9rie de pesquisas e debates que levaram a um questionamento da vis\'e3o de ci\'eancia apresentada originalmente por Popper. Ao longo desses debates}{\s35\f0\fs20\super\lang0{\*\listtag0}\chftn}{\footnote
+\pard\plain\ltrpar\ql\itap0{\f0\fs20\lang0{\*\listtag0}\chftn}{\f0\fs24\lang1046{\*\listtag0}\tab  Ver, por exemplo, o quarto volume das atas do Col\'f3quio Internacional sobre Filosofia da Ci\'eancia, realizado em Londres em 1965 (LAKATOS; MUSGRAVE, 1979).}}{\s35\f0\fs24\lang1046{\*\listtag0}, houve um questionamento do falseacionismo popperiano como uma regra que seria usada com freq\'fc\'eancia pelos cientistas, ao mesmo tempo em que se desenvolvia uma percep\'e7\'e3o mais adequada dos v\'e1rios fatores que estariam presentes e influenciando no processo de mudan\'e7a te\'f3rica. Alguns desses fatores foram denominados de }{\s35\f0\fs24\i\lang1046{\*\listtag0}extra-cient\'edficos.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Em rela\'e7\'e3o ao questionamento do falseacionismo a partir de um ponto de vista }{\s35\f0\fs24\i\lang1046{\*\listtag0}intra-cient\'edfico}{\s35\f0\fs24\lang1046{\*\listtag0}, Kuhn e Lakatos (LAKATOS,1979) acabam confluindo para um posicionamento em que se entende que a mudan\'e7a te\'f3rica, quando ocorre, \'e9 em raz\'e3o de um certo esgotamento do }{\s35\f0\fs24\i\lang1046{\*\listtag0}programa de pesquisa}{\s35\f0\fs20\i\super\lang0{\*\listtag0}\chftn}{\footnote
+\pard\plain\ltrpar\ql\itap0{\f0\fs20\lang0{\*\listtag0}\chftn}{\f0\fs24\lang1046{\*\listtag0}\tab  Express\'e3o cunhada por Lakatos.}}{\s35\f0\fs24\lang1046{\*\listtag0} vigente. Lakatos fala em programas de pesquisa regressivo ou mudan\'e7as degenerativas de problemas, para caracterizar situa\'e7\'f5es em que n\'e3o h\'e1 um real aumento de conte\'fado:}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs20\lang1046{\*\listtag0}\abinodiroverride\ltrch Se apresentarmos uma teoria para resolver uma contradi\'e7\'e3o entre uma teoria anterior e um exemplo contr\'e1rio de tal maneira que a nova teoria, em lugar de oferecer uma }{\s35\f0\fs20\i\lang1046{\*\listtag0}explica\'e7\'e3o}{\s35\f0\fs20\lang1046{\*\listtag0} (cient\'edfica) que aumente o conte\'fado, s\'f3 ofere\'e7a uma }{\s35\f0\fs20\i\lang1046{\*\listtag0}reinterpreta\'e7\'e3o}{\s35\f0\fs20\lang1046{\*\listtag0} (ling\'fc\'edstica) que diminui o conte\'fado, a contradi\'e7\'e3o se resolver\'e1 de modo meramente sem\'e2ntico, n\'e3o-cient\'edfico.(LAKATOS, 1979, p.160). }{\s35\f0\fs20\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs20\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab O falseacionismo sofisticado defendido por Lakatos (segundo ele, j\'e1 embrion\'e1rio em Popper) prop\'f5e a avalia\'e7\'e3o de s\'e9ries de teorias que se constituiriam em programas de pesquisa. Seriam esses programas de pesquisa que poderiam ser mais adequadamente avaliados e considerados }{\s35\f0\fs24\i\lang1046{\*\listtag0}progressivos}{\s35\f0\fs24\lang1046{\*\listtag0}, ou seja, promissores quanto ao seu potencial de apresenta\'e7\'e3o e solu\'e7\'e3o de problemas novos; ou }{\s35\f0\fs24\i\lang1046{\*\listtag0}degenerativos}{\s35\f0\fs24\lang1046{\*\listtag0}, que enfrentariam as dificuldades sem apresenta\'e7\'e3o de novos conte\'fados ou descobertas. A esse respeito, Lakatos afirma:}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs20\lang1046{\*\listtag0}\abinodiroverride\ltrch O exemplo cl\'e1ssico de programa de pesquisa bem-sucedido \'e9 a teoria gravitacional de Newton; talvez seja at\'e9 o mais bem-sucedido programa de pesquisa j\'e1 levado a cabo. Quando foi produzido pela primeira vez, viu-se submerso num oceano de \uc1\u8220\'93anomalias\uc1\u8221\'94 (ou, se quiserem, de \uc1\u8220\'93contra-exemplos\uc1\u8221\'94), e enfrentou a oposi\'e7\'e3o das teorias observacionais que sustentavam tais anomalias. Os newtonianos, contudo, transformaram, com tenacidade e engenho brilhantes, um contra-exemplo depois do outro em exemplos corroborativos, principalmente derrubando as teorias observacionais originais \'e0 cuja luz essa \uc1\u8220\'93evid\'eancia contr\'e1ria\uc1\u8221\'94 foi estabelecida. No processo, eles mesmos produziram novos contra-exemplos, que novamente resolviam. \uc1\u8220\'93Converteram cada nova dificuldade numa nova vit\'f3ria do seu programa\uc1\u8221\'94}{\s35\f0\fs20\super\lang0{\*\listtag0}\chftn}{\footnote
+\pard\plain\ltrpar\ql\itap0{\f0\fs20\lang0{\*\listtag0}\chftn}{\f0\fs24\lang1046{\*\listtag0}\tab  Laplace, Exposition du Syst\'e8me du Monde, 1796, livro IV, cap\'edtulo ii (NOTA DO AUTOR)}}{\s35\f0\fs20\lang1046{\*\listtag0}. (LAKATOS, 1979, p.163).}{\s35\f0\fs20\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs20\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs20\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\cb3\highlight3\f1\fs24\i\b\lang1046{\*\listtag0}\abinodiroverride\ltrch O restante do artigo estaria no sequ\'eancia completando cerca de 15 p\'e1ginas de texto.}{\s35\cb3\highlight3\f1\fs24\i\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\cb3\highlight3\f1\fs24\i\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\cb3\highlight3\f1\fs24\i\b\ul\lang1046{\*\listtag0}\abinodiroverride\ltrch Ap\'f3s o \'faltimo t\'edtulo do texto estaria o item conclus\'e3o e logo ap\'f3s o resumo em l\'edngua estrangeira e as refer\'eancias, como se observa abaixo.}{\s35\cb3\highlight3\f1\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\cb3\highlight3\f1\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\cb3\highlight3\f1\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0
+\sect\sectd\sbknone\colsx360\footery411\margtsxn1700\margbsxn1131\marglsxn1700\margrsxn1131\pgncont\ltrsect
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\cb3\highlight3\f1\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s35\sl240\slmult1\itap0{\s35\cb3\highlight3\f1\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch POPPER\uc1\u8217\'92S CONCEPTION OF SCIENCE AND THE TEACHING OF SCIENCES}{\s35\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Abstract:}{\s35\f0\fs24\lang1033{\*\listtag0} This work aimed at identifying the most important consequences of Popper\uc1\u8217\'92s conception of science for the Teaching of Sciences. Popper\uc1\u8217\'92s conception originated a fertile debate in the Philosophy of Sciences. By following this debate, it is possible to notice, on the one hand, the richness of the process of making science, recognizing the contributions brought by those who debated with Popper, and on the other hand, the importance of aspects of science that Popper valued and attempted to preserve. In a similar way, the criticism and the debate over the approaches of conceptual change contributed to the perception of the profuseness and complexity of this process. However, the maintenance of certain aspects, inherent in the process of conceptual change, may be relevant when the institutional objectives of the schools and the social expectations over the appropriate understanding and over the attempt to overcome current paradigms are considered. In this way, Popper\uc1\u8217\'92s work may offer important support to value rational aspects that could lead the process of learning Sciences.}{\s35\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch Keywords:}{\s35\f0\fs24\lang1046{\*\listtag0} Philosophy of Science. }{\s35\f0\fs24\lang1033{\*\listtag0}Popper\uc1\u8217\'92s epistemology. Rational choice and debate. }{\s35\f0\fs24\lang1046{\*\listtag0}Conceptual change}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0
+\sect\sectd\sbknone\colsx360\footery411\margtsxn1700\margbsxn1131\marglsxn1700\margrsxn1131\pgncont\ltrsect
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s35\sl240\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch REFER\'caNCIAS}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch FEYERABEND, P. Consolando o especialista. In: LAKATOS,I.; MUSGRAVE, A.(Orgs.).}{\s41\f0\fs24\i\lang1046{\*\listtag0} A cr\'edtica e o desenvolvimento do conhecimento}{\s41\f0\fs24\lang1046{\*\listtag0}. S\'e3o Paulo: Cultrix/Edusp, 1979. p.244-284.}{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch KUHN, T. S. }{\s41\f0\fs24\i\lang1046{\*\listtag0}A estrutura das revolu\'e7\'f5es cient\'edficas. }{\s41\f0\fs24\lang1046{\*\listtag0}4.ed. S\'e3o Paulo: Perspectiva, 1996.}{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch ________. L\'f3gica da descoberta ou psicologia da pesquisa? In: LAKATOS, I. ; MUSGRAVE, A. }{\s41\f0\fs24\i\lang1046{\*\listtag0}A cr\'edtica e o desenvolvimento do conhecimento}{\s41\f0\fs24\lang1046{\*\listtag0}.S\'e3o Paulo: Cultrix/Edusp, 1979a. p.5-32.}{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch ________. Reflex\'f5es sobre os meus cr\'edticos. }{\s41\f0\fs24\lang1033{\*\listtag0}In: LAKATOS,I.; MUSGRAVE, A.(Orgs.).}{\s41\f0\fs24\i\lang1033{\*\listtag0} }{\s41\f0\fs24\i\lang1046{\*\listtag0}A cr\'edtica e o desenvolvimento do conhecimento}{\s41\f0\fs24\lang1046{\*\listtag0}. S\'e3o Paulo: Cultrix/Edusp, 1979b. }{\s41\f0\fs24\lang1034{\*\listtag0}p.285-343.}{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1034{\*\listtag0}\abinodiroverride\ltrch LAKATOS, I. }{\s41\f0\fs24\i\lang1034{\*\listtag0}La metodologia de los programas de investigaci\'f3n cient\'edfica.}{\s41\f0\fs24\lang1034{\*\listtag0} Madri: Alianza editorial, 1983.}{\s41\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch LAKATOS, I. O Falseamento e a metodologia dos programas de pesquisa cient\'edfica. In: LAKATOS, I. ; MUSGRAVE, A.(Orgs.) }{\s41\f0\fs24\i\lang1046{\*\listtag0}A cr\'edtica e o desenvolvimento do conhecimento. }{\s41\f0\fs24\lang1046{\*\listtag0}S\'e3o Paulo: Cultrix/Edusp, 1979.}{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\abinodiroverride\ltrch Ver os modelos de refer\'eancias no \uc1\u8220\'93Manual para a elabora\'e7\'e3o de trabalhos acad\'eamicos\uc1\u8221\'94 no site da ITE.}{\s41\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\abinodiroverride\ltrch Nos casos dos artigos cient\'edficos, constam nas refer\'eancias apenas as fontes efetivamente citadas no corpo do texto.}{\s41\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s41\sl240\slmult1\itap0{\s41\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0
+\sect\sectd\sbknone\colsx360\footery411\margtsxn1700\margbsxn1131\marglsxn1700\margrsxn1131\pgncont\ltrsect
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\cb3\highlight3\f0\fs24\i\b\ul\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch AP\'caNDICE(S) }{\s35\cb3\highlight3\f1\fs24\b\lang1046{\*\listtag0}(ELEMENTO OPCIONAL)}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\cb3\highlight3\f1\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch Texto ou documento }{\s35\f0\fs24\ul\lang1046{\*\listtag0}elaborado pelo autor}{\s35\f0\fs24\lang1046{\*\listtag0}, de natureza complementar. Os ap\'eandices n\'e3o s\'e3o muito utilizados nos artigos cient\'edficos em raz\'e3o do car\'e1ter compacto deste tipo de documento.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Ver o modelo (como ficaria um ap\'eandice na p\'e1gina de um artigo) a seguir.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\i\lang1046{\*\listtag0}\abinodiroverride\ltrch  }{\s35\f0\fs24\b\lang1046{\*\listtag0}ANEXO(S) }{\s35\cb3\highlight3\f1\fs24\b\lang1046{\*\listtag0}(ELEMENTO OPCIONAL)}{\s35\f0\fs24\i\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\cb3\highlight3\f1\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch Texto ou documento }{\s35\f0\fs24\ul\lang1046{\*\listtag0}n\'e3o elaborado pelo autor}{\s35\f0\fs24\lang1046{\*\listtag0}, que serve de fundamenta\'e7\'e3o,comprova\'e7\'e3o e ilustra\'e7\'e3o, tendo um car\'e1ter complementar. Os ap\'eandices n\'e3o s\'e3o muito utilizados nos artigos cient\'edficos, dado o car\'e1ter compacto deste tipo de documento.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\abinodiroverride\ltrch \tab Ver o modelo (como ficaria um ap\'eandice na p\'e1gina de um artigo) a seguir.}{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0
+\sect\sectd\sbknone\colsx360\footery411\margtsxn1700\margbsxn1131\marglsxn1700\margrsxn1131\pgncont\ltrsect
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s35\sl360\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch AP\'caNDICE  A- }{\s35\f0\fs24\lang1046{\*\listtag0}Gr\'e1fico sobre os \'edndices de audi\'eancia das emissoras de canal aberto}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0
+\sect\sectd\sbknone\colsx360\footery411\margtsxn1700\margbsxn1131\marglsxn1700\margrsxn1131\pgncont\ltrsect
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch \page }{\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\f0\fs24\b\lang1046{\*\listtag0}\abinodiroverride\ltrch ANEXO A \uc1\u8211\'96 }{\s35\f0\fs24\lang1046{\*\listtag0}Exemplos de diagrama\'e7\'e3o de p\'e1ginas iniciais dos peri\'f3dicos analisados}{\s35\f0\fs24\b\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s35\sl240\slmult1\itap0{\s35\f0\fs24\lang1046{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s35\sl240\slmult1\itap0{\s35\f1\fs24\lang1046{\*\listtag0}\par}}
