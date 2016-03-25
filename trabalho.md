@@ -15,6 +15,7 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
             Python é uma linguagem de programação com ampla utilização no mercado, empregada em diversas áreas como educacionais, comerciais, científicos, plataformas web, desktop e móvel. Possui uma baixa curva de aprendizado, é concisa e muito produtiva, sua adoção tem crescido bastante. É uma linguagem gratuita e de código-fonte aberto, com versões para os mais variados sistemas. Possui uma grande biblioteca padrão e uma documentação muito intuitiva, o que possibilita sua utilização para vários fins sem a necessidade de bibliotecas externas. Python é uma linguagem de alto nível interpretada, comporta vários paradigmas sendo os mais utilizados o estruturado, orientado à objetos e funcional. É uma linguagem com tipagem forte e dinâmica, também conhecido como Duck Typing, onde os objetos que se comportam de maneira similar são tratados iguais. A linguagem possui um gerenciamento automático de memória, algumas estruturas de dados embutidas na sintaxe da linguagem reduzindo a verbosidade, e é muito conhecida por possuir baterias inclusas, fazendo referência a grande biblioteca padrão que possui vários utilitários.Possui uma comunidade forte e ativa, que é um de seus grandes pontos fortes. Ela se diversifica da maioria das linguagens por utilizar a indentação para definir os blocos de código.
 
         -Implementações
+            Python é uma linguagem interpretada e seu funcionamento é semelhante aos de outras linguagens, como o Java onde o código-fonte é compilado para um bytecode, que é posteriormente interpretado por sua máquina virtual (Python Virtual Machine). Dessa forma podemos ter várias implementações do Python, que por sua vez utilizam mecanismos diferentes para a compilação do código-fonte e interpretação dos bytecodes. Existem várias implementações do Python, como Jython (em java), IronPython(.NET), Stackeless Python, Pypy e a mais famosa é o CPython. Por ser uma linguagem dinamicamente tipada a performance de seu interpretador pode não ser tão eficiente, e é justamente com o foco em eficiência que surgiu o Pypy.
 
         -Pypy
 
@@ -48,3 +49,4 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
 
     -https://www.packtpub.com/books/content/brief-history-python
     -Python Escreva seus primeiros programas, Casa do Código, Felipe Cruz
+    -http://www.rudamoura.com/python-bytecode.html
