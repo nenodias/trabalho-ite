@@ -50,3 +50,4 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
     -https://www.packtpub.com/books/content/brief-history-python
     -Python Escreva seus primeiros programas, Casa do Código, Felipe Cruz
     -http://www.rudamoura.com/python-bytecode.html
+    -https://www.toptal.com/python/por-que-h-tantos-pythons/pt
