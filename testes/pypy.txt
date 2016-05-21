@@ -1,6 +1,0 @@
-2.7.10 (b0a649e90b66, Apr 28 2016, 08:57:01)
-[PyPy 5.1.1 with GCC 4.8.2]
-Função: operacao_arquivo 
-Início: 1463836368.16
-Termino: 1463836368.19
-Execução em 0.0251359939575 

@@ -18,9 +18,10 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
             Python é uma linguagem interpretada e seu funcionamento é semelhante aos de outras linguagens, como o Java onde o código-fonte é compilado para um bytecode, que é posteriormente interpretado por sua máquina virtual (Python Virtual Machine). Dessa forma podemos ter várias implementações do Python, que por sua vez utilizam mecanismos diferentes para a compilação do código-fonte e interpretação dos bytecodes. Existem várias implementações do Python, como Jython (em java), IronPython(.NET), Stackeless Python, Pypy e a mais famosa é o CPython. Por ser uma linguagem dinamicamente tipada a performance de seu interpretador pode não ser tão eficiente, e é justamente com o foco em eficiência que surgiu o Pypy.
 
         -Pypy
-            
-
+            O Pypy é um interprtador para a linguagem python que utiliza JIT em seu funcionamento.
         -JIT
+
+        -Apache JMeter
 
     --Configurações
         
@@ -52,3 +53,4 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
     -Python Escreva seus primeiros programas, Casa do Código, Felipe Cruz
     -http://www.rudamoura.com/python-bytecode.html
     -https://www.toptal.com/python/por-que-h-tantos-pythons/pt
+    -https://www.infoq.com/br/news/2011/11/py-py17
