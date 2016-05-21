@@ -1,0 +1,4 @@
+Pypy perde velocidade utilizando decorator
+Pypy usa mais memória que o Python 2 padrão
+Pypy é mais rápido na leitura e escrita i/o
+Pypy + numpy https://bitbucket.org/pypy/numpy é mais rápido que a versão padrão
