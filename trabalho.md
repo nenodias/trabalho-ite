@@ -18,10 +18,14 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
             Python é uma linguagem interpretada e seu funcionamento é semelhante aos de outras linguagens, como o Java onde o código-fonte é compilado para um bytecode, que é posteriormente interpretado por sua máquina virtual (Python Virtual Machine). Dessa forma podemos ter várias implementações do Python, que por sua vez utilizam mecanismos diferentes para a compilação do código-fonte e interpretação dos bytecodes. Existem várias implementações do Python, como Jython (em java), IronPython(.NET), Stackeless Python, Pypy e a mais famosa é o CPython. Por ser uma linguagem dinamicamente tipada a performance de seu interpretador pode não ser tão eficiente, e é justamente com o foco em eficiência que surgiu o Pypy.
 
         -Pypy
-            O Pypy é um interprtador para a linguagem python que utiliza JIT em seu funcionamento.
+            O Pypy é um projeto que resultou em um novo interpretador python mais flexível e rápido que o convencional(CPython). Ele possui esse nome pois o sua implementação utiliza o RPython, que é um dialeto da linguagem Python com algumas restrições.
         -JIT
 
         -Apache JMeter
+            O Apache JMeter é uma ferramenta de código aberto que é executado na plataforma do Java, é utilizada para realizar testes de carga em sistemas web. O mesmo possui uma gama gigantesca de plugins e possibilidades de configurações possíbilitando simular uma carga grando de requisições. O funcionamento dele segue a ideia de simular várias requisições simultâneas, que são disparadas para o servidor com os cabeçalhos e dados configurados pelo usuário, conforme as requisições são atendidas os dados colhidos são salvos. O JMeter conta com vários gráficos de saída, métodos de asserção, métodos de confirmação de erro ou determinado status de resposta. Nos exemplos utilizamos o Gráfico Agregado e o Gráfico de Resultados. Os gráficos escolhidos provém os mesmos dados, porém de maneira diferente. O gráfico agregado simplemente exibe o tempo médio, a mediana, o minimo e o tempo máximo decorrido em um gráfico de barras. O gráfico de resultados exibe os mesmos dados em um gráfico de linhas, mostrando esses dados e o desvio conforme os testes são realizados.
+
+        -Matplotlib e Numpy
+            O Mathplotlib é uma biblioteca do python utilizada para gerar gŕaficos em geral, normalmente utilizada em conjunto com o Numpy, que uma biblioteca famosa do python na área acadêmica e científica, onde várias operações matemáticas complexas foram implementadas de uma maneira rápida e eficiênciente
 
     --Configurações
         
@@ -54,3 +58,6 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
     -http://www.rudamoura.com/python-bytecode.html
     -https://www.toptal.com/python/por-que-h-tantos-pythons/pt
     -https://www.infoq.com/br/news/2011/11/py-py17
+    -http://jmeter.apache.org/
+    -https://www.udacity.com/wiki/plotting-graphs-with-python
+    -http://wiki.python.org.br/PyPy
