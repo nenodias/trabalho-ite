@@ -18,7 +18,16 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
             Python é uma linguagem interpretada e seu funcionamento é semelhante aos de outras linguagens, como o Java onde o código-fonte é compilado para um bytecode, que é posteriormente interpretado por sua máquina virtual (Python Virtual Machine). Dessa forma podemos ter várias implementações do Python, que por sua vez utilizam mecanismos diferentes para a compilação do código-fonte e interpretação dos bytecodes. Existem várias implementações do Python, como Jython (em java), IronPython(.NET), Stackeless Python, Pypy e a mais famosa é o CPython. Por ser uma linguagem dinamicamente tipada a performance de seu interpretador pode não ser tão eficiente, e é justamente com o foco em eficiência que surgiu o Pypy.
 
         -Pypy
-            O Pypy é um projeto que resultou em um novo interpretador python mais flexível e rápido que o convencional(CPython). Ele possui esse nome pois o sua implementação utiliza o RPython, que é um dialeto da linguagem Python com algumas restrições.
+            O Pypy é um projeto que resultou em um novo interpretador python mais flexível e rápido que o convencional(CPython). Ele possui esse nome pois o sua implementação utiliza o RPython, que é um dialeto da linguagem Python com algumas restrições. Pypy significa Python in Python
+
+            --http://doc.pypy.org/en/latest/jit-hooks.html JIT HOOKS
+
+        -RPython
+            Segundo a documentação do RPython ele é um framework para a implementação de interpretadores e máquinas virtuais para linguagens de programação, especialmente linguagens dinâmicas. Eles enfatizam que o RPython não é um compilador de código Python.
+            O RPython é um subconjunto restrito da linguagem Python, ele faz uma restrição na tipagem dinâmica para garantir a inferência de tipos. Normalmente as restrições limitam a capacidade de misturar tipos arbitrários, RPython não permite a ligação de dois tipos diferentes na mesma variável, o que lembra linguagens estáticamente tipadas como o JAVA. RPython limita os métodos especiais do python __xxx__ (Utilizam a nomenclatura de "dunders" ou seja double underscores), com exceção para o __init__ e __del__ e recursos de reflexão (reflections) como __dict__.
+
+            -- http://rpython.readthedocs.io/en/latest/faq.html#what-is-rpython
+            
         -JIT
 
         -Apache JMeter
@@ -61,3 +70,14 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
     -http://jmeter.apache.org/
     -https://www.udacity.com/wiki/plotting-graphs-with-python
     -http://wiki.python.org.br/PyPy
+    -http://docs.oracle.com/cd/E15289_01/doc.40/e15058/underst_jit.htm Referência da Oracle sobre JIT
+    -https://www.caelum.com.br/apostila-java-orientacao-objetos/o-que-e-java/#2-4-java-lento-hotspot-e-jit Caelum JIT
+    -http://pycursos.com/pypy-o-interpretador-mais-rapido-do-velho-oeste/ apresentação
+    -https://speakerdeck.com/andrewsmedina/pypy-o-interpretador-mais-rapido-do-velho-oeste
+    -http://www.decom.ufop.br/imobilis/metodologia-de-testes-tutorial-jmeter-para-testes-de-performance-em-plataforma-web/ Apache JMeter
+    -https://www.youtube.com/watch?v=uAwHWQoAki4 Python in Python Stanford
+    -http://web.stanford.edu/class/ee380/Abstracts/110302-pypy.pdf
+    -http://rpython.readthedocs.io/en/latest/jit/overview.html
+    -http://rpython.readthedocs.io/en/latest/jit/
+    -http://rpython.readthedocs.io/en/latest/getting-started.html
+    -https://rpython.readthedocs.io/en/latest/
