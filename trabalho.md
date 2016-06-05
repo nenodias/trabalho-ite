@@ -81,6 +81,8 @@ Esta pesquisa visa mostrar as vantagens performáticas da Tradução Dinâmica (
     -http://rpython.readthedocs.io/en/latest/jit/
     -http://rpython.readthedocs.io/en/latest/getting-started.html
     -https://rpython.readthedocs.io/en/latest/
+	-https://denmartins.wordpress.com/2010/08/12/compilacao-jit-e-msil/
+	-http://www.ibm.com/support/knowledgecenter/pt-br/SSYKE2_8.0.0/com.ibm.java.zos.80.doc/diag/understanding/jit_overview.html
 
 --Dados
     -http://dados.gov.br/dataset/upa--unidade-de-pronto-atendimento
