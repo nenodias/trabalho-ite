@@ -1,450 +1,417 @@
 {\rtf1\ansi\deff3\adeflang1025
-{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\fswiss\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f5\froman\fprq2\fcharset0 Arial;}{\f6\froman\fprq2\fcharset0 Times New Roman;}{\f7\froman\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f8\froman\fprq2\fcharset0 Courier New;}{\f9\froman\fprq2\fcharset0 Tahoma;}{\f10\fnil\fprq0\fcharset0 arial{\*\falt sans-serif};}{\f11\fnil\fprq2\fcharset0 Droid Sans Fallback;}{\f12\fnil\fprq2\fcharset0 Times New Roman;}{\f13\fnil\fprq2\fcharset0 FreeSans;}{\f14\fswiss\fprq0\fcharset128 FreeSans;}{\f15\fnil\fprq2\fcharset0 Courier New;}}
-{\colortbl;\red0\green0\blue0;\red0\green0\blue128;\red34\green34\blue34;\red102\green0\blue153;\red255\green255\blue0;\red128\green128\blue128;}
-{\stylesheet{\s0\snext0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046 Normal;}
-{\s1\sbasedon20\snext1\ql\widctlpar\sb440\sa60\keepn\ltrpar\b\dbch\af11\dbch\af13\afs28\loch\f4\fs34\lang1046 T\u237\'edtulo 1;}
-{\s2\sbasedon20\snext2\ql\widctlpar\sb440\sa60\keepn\ltrpar\b\dbch\af11\dbch\af13\afs28\loch\f4\fs28\lang1046 T\u237\'edtulo 2;}
-{\s3\sbasedon20\snext3\ql\widctlpar\sb440\sa60\keepn\ltrpar\b\dbch\af11\dbch\af13\afs28\loch\f4\fs24\lang1046 T\u237\'edtulo 3;}
-{\s4\sbasedon20\snext4\ql\widctlpar\sb440\sa60\keepn\ltrpar\b\dbch\af11\dbch\af13\afs28\loch\f4\fs24\lang1046 T\u237\'edtulo 4;}
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\fswiss\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f5\froman\fprq2\fcharset0 Times New Roman;}{\f6\froman\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f7\froman\fprq2\fcharset0 Arial;}{\f8\froman\fprq2\fcharset0 Courier New;}{\f9\froman\fprq2\fcharset0 Tahoma;}{\f10\fnil\fprq2\fcharset0 Courier New;}{\f11\fnil\fprq2\fcharset0 FreeSans;}{\f12\fnil\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue128;\red255\green255\blue0;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046 Normal;}
+{\s1\sbasedon20\snext1\ql\widctlpar\sb440\sa60\keepn\ltrpar\cf1\b\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f4\fs34\lang1046 T\u237\'edtulo 1;}
+{\s2\sbasedon20\snext2\ql\widctlpar\sb440\sa60\keepn\ltrpar\cf1\b\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f4\fs28\lang1046 T\u237\'edtulo 2;}
+{\s3\sbasedon20\snext3\ql\widctlpar\sb440\sa60\keepn\ltrpar\cf1\b\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f4\fs24\lang1046 T\u237\'edtulo 3;}
+{\s4\sbasedon20\snext4\ql\widctlpar\sb440\sa60\keepn\ltrpar\cf1\b\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f4\fs24\lang1046 T\u237\'edtulo 4;}
 {\*\cs15\snext15\super\fs20 \u194\'c2ncora da nota de fim;}
 {\*\cs16\snext16\super\fs20 \u194\'c2ncora da nota de rodap\u233\'e9;}
 {\*\cs17\snext17 Caracteres de nota de fim;}
 {\*\cs18\snext18 Caracteres de nota de rodap\u233\'e9;}
-{\*\cs19\snext19\cf2\ul\ulc0\langfe255\alang255\lang255 Link da Internet;}
-{\s20\sbasedon0\snext21\ql\widctlpar\sb240\sa120\keepn\ltrpar\dbch\af11\dbch\af13\afs28\loch\f4\fs28\lang1046 T\u237\'edtulo;}
-{\s21\sbasedon0\snext21\sl288\slmult1\ql\widctlpar\sb0\sa140\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Corpo do texto;}
-{\s22\sbasedon21\snext22\sl288\slmult1\ql\widctlpar\sb0\sa140\ltrpar\dbch\af12\dbch\af14\afs24\loch\f6\fs24\lang1046 Lista;}
-{\s23\sbasedon0\snext23\ql\widctlpar\sb120\sa120\noline\ltrpar\i\dbch\af12\dbch\af14\afs24\ai\loch\f6\fs24\lang1046 Legenda;}
-{\s24\sbasedon0\snext24\ql\widctlpar\noline\ltrpar\dbch\af12\dbch\af14\afs24\loch\f6\fs24\lang1046 \u205\'cdndice;}
-{\s25\snext25\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Arrowhead List;}
-{\s26\snext26\li1440\ri1440\lin1440\rin1440\fi0\sb0\sa120\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f3\fs24\lang1046 Block Text;}
-{\s27\snext27\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Box List;}
-{\s28\snext28\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Bullet List;}
-{\s29\sbasedon0\snext29\ql\widctlpar\tqc\tx4252\tqc\tx8504\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Cabe\u231\'e7alho;}
-{\s30\snext30\tx1584\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f3\fs24\lang1046 Chapter Heading;}
-{\s31\sbasedon0\snext31\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Contents 1;}
-{\s32\sbasedon0\snext32\ql\widctlpar\li1440\ri0\lin1440\rin0\fi-431\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Contents 2;}
-{\s33\sbasedon0\snext33\ql\widctlpar\li2160\ri0\lin2160\rin0\fi-431\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Contents 3;}
-{\s34\sbasedon0\snext34\ql\widctlpar\li2880\ri0\lin2880\rin0\fi-431\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Contents 4;}
-{\s35\snext35\qc\sb240\sa120\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\b\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f7\fs32\lang1046 Contents Header;}
-{\s36\snext36\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Dashed List;}
-{\s37\snext37\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Diamond List;}
-{\s38\sbasedon0\snext38\ql\widctlpar\li288\ri0\lin288\rin0\fi-288\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Nota de fim;}
-{\s39\sbasedon0\snext39\ql\widctlpar\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Endnote Symbol;}
-{\s40\sbasedon0\snext40\ql\widctlpar\li288\ri0\lin288\rin0\fi-288\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs20\lang1046 Footnote;}
-{\s41\sbasedon0\snext41\ql\widctlpar\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs20\lang1046 Nota de rodap\u233\'e9;}
-{\s42\snext42\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Hand List;}
-{\s43\snext43\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Heart List;}
-{\s44\snext44\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Implies List;}
-{\s45\snext45\li720\ri0\lin720\rin0\fi-431\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f3\fs24\lang1046 Lower Case List;}
-{\s46\sbasedon0\snext46\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Lower Roman List;}
-{\s47\sbasedon1\snext47\ql\widctlpar\tx431\sb440\sa60\keepn\ltrpar\b\dbch\af11\dbch\af13\afs28\loch\f4\fs34\lang1046 Numbered Heading 1;}
-{\s48\sbasedon2\snext48\ql\widctlpar\tx431\sb440\sa60\keepn\ltrpar\b\dbch\af11\dbch\af13\afs28\loch\f4\fs28\lang1046 Numbered Heading 2;}
-{\s49\sbasedon3\snext49\ql\widctlpar\tx431\sb440\sa60\keepn\ltrpar\b\dbch\af11\dbch\af13\afs28\loch\f4\fs24\lang1046 Numbered Heading 3;}
-{\s50\snext50\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Numbered List;}
-{\s51\snext51\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f8\fs24\lang1046 Plain Text;}
-{\s52\snext52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046 Recuo de corpo de texto;}
-{\s53\sbasedon0\snext53\ql\widctlpar\tqc\tx4252\tqc\tx8504\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Rodap\u233\'e9;}
-{\s54\snext54\tx1584\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f3\fs24\lang1046 Section Heading;}
-{\s55\snext55\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Square List;}
-{\s56\snext56\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Star List;}
-{\s57\snext57\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046 Tabela normal;}
-{\s58\sbasedon0\snext58\ql\widctlpar\ltrpar\dbch\af12\dbch\af15\afs24\loch\f9\fs16\lang1046 Texto de bal\u227\'e3o;}
-{\s59\snext59\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Tick List;}
-{\s60\snext60\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f5\fs24\lang1046 Triangle List;}
-{\s61\sbasedon50\snext61\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar\dbch\af12\dbch\af15\afs24\loch\f5\fs24 Upper Case List;}
-{\s62\snext62\li720\ri0\lin720\rin0\fi-431\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f3\fs24\lang1046 Upper Roman List;}
-{\s63\sbasedon0\snext63\ql\widctlpar\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs24\lang1046 Cita\u231\'e7\u245\'f5es;}
-{\s64\sbasedon20\snext64\ql\widctlpar\sb240\sa120\keepn\ltrpar\dbch\af11\dbch\af13\afs28\loch\f4\fs28\lang1046 T\u237\'edtulo do documento;}
-{\s65\sbasedon20\snext65\ql\widctlpar\sb240\sa120\keepn\ltrpar\dbch\af11\dbch\af13\afs28\loch\f4\fs28\lang1046 Subt\u237\'edtulo;}
-}{\*\generator LibreOffice/4.4.7.2$Linux_X86_64 LibreOffice_project/40m0$Build-2}{\info{\author rufatto}{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2016\mo6\dy1\hr22\min58}{\printim\yr0\mo0\dy0\hr0\min0}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+{\*\cs19\snext19\cf2\ul\ulc0\langfe255\lang255 Link da Internet;}
+{\s20\sbasedon0\snext21\ql\widctlpar\sb240\sa120\keepn\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f6\fs28\lang1046 T\u237\'edtulo;}
+{\s21\sbasedon0\snext21\sl288\slmult1\ql\widctlpar\sb0\sa140\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Corpo do texto;}
+{\s22\sbasedon21\snext22\sl288\slmult1\ql\widctlpar\sb0\sa140\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Lista;}
+{\s23\sbasedon0\snext23\ql\widctlpar\sb120\sa120\ltrpar\cf1\i\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Legenda;}
+{\s24\sbasedon0\snext24\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 \u205\'cdndice;}
+{\s25\snext25\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Arrowhead List;}
+{\s26\snext26\ql\nowidctlpar\li1440\ri1440\lin1440\rin1440\fi0\sb0\sa120\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f3\fs24\lang1046 Block Text;}
+{\s27\snext27\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Box List;}
+{\s28\snext28\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Bullet List;}
+{\s29\sbasedon0\snext29\ql\widctlpar\tqc\tx4252\tqc\tx8504\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Cabe\u231\'e7alho;}
+{\s30\snext30\ql\nowidctlpar\tx1584\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f3\fs24\lang1046 Chapter Heading;}
+{\s31\sbasedon0\snext31\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Contents 1;}
+{\s32\sbasedon0\snext32\ql\widctlpar\li1440\ri0\lin1440\rin0\fi-431\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Contents 2;}
+{\s33\sbasedon0\snext33\ql\widctlpar\li2160\ri0\lin2160\rin0\fi-431\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Contents 3;}
+{\s34\sbasedon0\snext34\ql\widctlpar\li2880\ri0\lin2880\rin0\fi-431\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Contents 4;}
+{\s35\snext35\qc\nowidctlpar\sb240\sa120\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\b\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f6\fs32\lang1046 Contents Header;}
+{\s36\snext36\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Dashed List;}
+{\s37\snext37\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Diamond List;}
+{\s38\sbasedon0\snext38\ql\widctlpar\li288\ri0\lin288\rin0\fi-288\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Nota de fim;}
+{\s39\sbasedon0\snext39\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Endnote Symbol;}
+{\s40\sbasedon0\snext40\ql\widctlpar\li288\ri0\lin288\rin0\fi-288\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs20\lang1046 Footnote;}
+{\s41\sbasedon0\snext41\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs20\lang1046 Nota de rodap\u233\'e9;}
+{\s42\snext42\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Hand List;}
+{\s43\snext43\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Heart List;}
+{\s44\snext44\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Implies List;}
+{\s45\snext45\ql\nowidctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f3\fs24\lang1046 Lower Case List;}
+{\s46\sbasedon0\snext46\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Lower Roman List;}
+{\s47\sbasedon1\snext47\ql\widctlpar\tx431\sb440\sa60\keepn\ltrpar\cf1\b\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f4\fs34\lang1046 Numbered Heading 1;}
+{\s48\sbasedon2\snext48\ql\widctlpar\tx431\sb440\sa60\keepn\ltrpar\cf1\b\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f4\fs28\lang1046 Numbered Heading 2;}
+{\s49\sbasedon3\snext49\ql\widctlpar\tx431\sb440\sa60\keepn\ltrpar\cf1\b\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f4\fs24\lang1046 Numbered Heading 3;}
+{\s50\snext50\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Numbered List;}
+{\s51\snext51\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f8\fs24\lang1046 Plain Text;}
+{\s52\snext52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046 Recuo de corpo de texto;}
+{\s53\sbasedon0\snext53\ql\widctlpar\tqc\tx4252\tqc\tx8504\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Rodap\u233\'e9;}
+{\s54\snext54\ql\nowidctlpar\tx1584\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f3\fs24\lang1046 Section Heading;}
+{\s55\snext55\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Square List;}
+{\s56\snext56\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Star List;}
+{\s57\snext57\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046 Tabela normal;}
+{\s58\sbasedon0\snext58\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f9\fs16\lang1046 Texto de bal\u227\'e3o;}
+{\s59\snext59\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Tick List;}
+{\s60\snext60\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs24\lang1046 Triangle List;}
+{\s61\sbasedon50\snext61\ql\widctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f7\fs24\lang1046 Upper Case List;}
+{\s62\snext62\ql\nowidctlpar\li720\ri0\lin720\rin0\fi-431\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f3\fs24\lang1046 Upper Roman List;}
+{\s63\sbasedon0\snext63\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs24\lang1046 Cita\u231\'e7\u245\'f5es;}
+{\s64\sbasedon20\snext64\ql\widctlpar\sb240\sa120\keepn\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f6\fs28\lang1046 T\u237\'edtulo do documento;}
+{\s65\sbasedon20\snext65\ql\widctlpar\sb240\sa120\keepn\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\loch\f6\fs28\lang1046 Subt\u237\'edtulo;}
+}{\*\generator LibreOffice/4.4.7.2$Linux_X86_64 LibreOffice_project/40m0$Build-2}{\info{\author rufatto}{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2016\mo6\dy4\hr21\min23}{\printim\yr0\mo0\dy0\hr0\min0}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
 \viewscale100
 {\*\pgdsctbl
 {\pgdsc0\pgdscuse451\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\pgdscnxt0 Estilo padr\u227\'e3o;}
-{\pgdsc1\pgdscuse451\pgndec\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt1 Nota de fim;}
-{\pgdsc2\pgdscuse451\pgndec\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\pgdscnxt2 Converted1;}
-{\pgdsc3\pgdscuse451\pgndec\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt3 Converted2;}}
+{\pgdsc1\pgdscuse451\pgndec\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt1 Nota de fim;}}
 \formshade\paperh16838\paperw11906\margl1700\margr1133\margt1700\margb1133\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnar
-{\*\ftnsep}\pgndec\sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qc\ltrpar\rtlch \ltrch\loch
+{\*\ftnsep}\pgndec\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\rtlch \ltrch\loch\loch\f3
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qc\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
+
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 ESTUDO DE CASO PYTHON COM JIT}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qc\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qc\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \ql\ltrpar\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qr\ltrpar{\i\rtlch \ltrch\loch\loch\f5
-Hor\u225\'e1cio Dias Baptista Neto}{{\super \chftn{\*\footnote \chftn\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\i\rtlch \ltrch\loch\rtlch \ltrch\loch\fs24\lang1046
+\par \ql\widctlpar\ltrpar\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\i\rtlch \ltrch\loch\loch\f7
+Hor\u225\'e1cio Dias Baptista Neto}{{\super \chftn{\*\footnote \chftn\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\i\cf1\i\kerning1\dbch\af10\langfe1081\rtlch \ltrch\loch\rtlch \ltrch\loch\fs24\lang1046
 
-\par \pard\plain \s41\ql\widctlpar\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs20\lang1046{\rtlch \ltrch\loch\fs24\lang1046\loch\f5
-\tab Aluno do 4\u186\'ba ano do Curso de Sistemas de Informa\u231\'e7\u227\'e3o. E-mail: horacio.dias92@gmail.com. Trabalho orientado pelo Prof. }{\rtlch \ltrch\loch\fs24\lang1046\loch\f5
-Kleber de Oliveira}{\rtlch \ltrch\loch\fs24\lang1046\loch\f5
- e apresentado como requisito parcial para a forma\u231\'e7\u227\'e3o no Curso de Sistemas de Informa\u231\'e7\u227\'e3o, do Centro Universit\u225\'e1rio de Bauru no ano de 2016.}
-}}\loch\f5
+\par \pard\plain \s41\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs20\lang1046{\dbch\af10\rtlch \ltrch\loch\fs24\lang1046\loch\f7
+\tab Aluno do 4\u186\'ba ano do Curso de Sistemas de Informa\u231\'e7\u227\'e3o. E-mail: horacio.dias92@gmail.com. Trabalho orientado pelo Prof. Kleber de Oliveira e apresentado como requisito parcial para a forma\u231\'e7\u227\'e3o no Curso de Sistemas de Informa\u231\'e7\u227\'e3o, do Centro Universit\u225\'e1rio de Bauru no ano de 2016.}
+}}\loch\f7
 }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-Resumo:}{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+Resumo:}{\rtlch \ltrch\loch\loch\f7
  Esta pesquisa visa mostrar as vantagens perform\u225\'e1ticas da Tradu\u231\'e7\u227\'e3o Din\u226\'e2mica conhecida como JIT ou \u8220\'93Just In Time\u8221\'94, em contraste com a vers\u227\'e3o compilada est\u225\'e1tica. Foi escolhida para base para a realiza\u231\'e7\u227\'e3o dos teste a linguagem Python por possuir duas implementa\u231\'e7\u245\'f5es que abrangem os t\u243\'f3picos anteriormente citados. Compreender as poss\u237\'edveis melhorias executadas no ambiente just-in-time, analisando a performance, e carga por meio de dados, gr\u225\'e1ficos e a execu\u231\'e7\u227\'e3o de testes. As estrat\u233\'e9gias de otimiza\u231\'e7\u227\'e3o, suas heur\u237\'edsticas e crit\u233\'e9rios de otimiza\u231\'e7\u227\'e3o utilizados em tempo de execu\u231\'e7\u227\'e3o ser\u227\'e3o abordados. Algumas configura\u231\'e7\u245\'f5es atribu\u237\'eddas \u224\'e0 m\u225\'e1quina virtual, com a possibilidade de customizar estruturas que resultam em melhorias para alguns caso espec\u237\'edficos, como redu\u231\'e7\u227\'e3o do uso de mem\u243\'f3ria, ganho de performance, etc. As modifica\u231\'e7\u245\'f5es acontecem internamente, sem altera\u231\'e7\u227\'e3o nas defini\u231\'e7\u245\'f5es das chamadas dos m\u233\'e9todos, algo extremamente produtivo para os desenvolvedores. }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-Palavras-chave: }{\rtlch \ltrch\loch\loch\f5
-JIT}{\b\rtlch \ltrch\loch\loch\f5
-. }{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+Palavras-chave: }{\rtlch \ltrch\loch\loch\f7
+JIT}{\b\rtlch \ltrch\loch\loch\f7
+. }{\rtlch \ltrch\loch\loch\f7
 Python. Tradu\u231\'e7\u227\'e3o Din\u226\'e2mica.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li-357\ri-674\lin-357\rin-674\fi0\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li-357\ri-674\lin-357\rin-674\fi0\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 1 INTRODU\u199\'c7\u195\'c3O}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-\tab }{\rtlch \ltrch\loch\loch\f5
-Antigamente o modelo de programa\u231\'e7\u227\'e3o era baseado em aplica\u231\'e7\u245\'f5es compiladas onde as poss\u237\'edveis otimiza\u231\'e7\u245\'f5es de c\u243\'f3digo s\u243\'f3 eram executados tempo de compila\u231\'e7\u227\'e3o, ou seja o compilador por meio de crit\u233\'e9rios executa altera\u231\'e7\u245\'f5es para que o arquivo bin\u225\'e1rio gerado. O novo modelo baseia-se em m\u225\'e1quinas virtuais que interpretam um c\u243\'f3digo intermedi\u225\'e1rio, que foi compilado a partir do c\u243\'f3digo-fonte. Essa arquitetura possibilita a utiliza\u231\'e7\u227\'e3o de softwares em plataformas distintas, cada qual utilizando sua implementa\u231\'e7\u227\'e3o de m\u225\'e1quina virtual.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
-\tab }{\rtlch \ltrch\loch\loch\f5
-Esse }{\rtlch \ltrch\loch\loch\f5
-sobre a presen\u231\'e7a ou n\u227\'e3o dessas articula\u231\'e7\u245\'f5es em seus interlocutores e, mais do que isso, ao questionamento sobre a possibilidade ou necessidade de um direcionamento consciente da atividade cient\u237\'edfica a partir  de certos valores e id\u233\'e9ias sociais.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
-\tab De forma semelhante, os debates a respeito do tema da mudan\u231\'e7a conceitual conduziram a uma percep\u231\'e7\u227\'e3o mais adequada a respeito da riqueza do processo de aprender ci\u234\'eancias. E da mesma forma que o fazer ci\u234\'eancia n\u227\'e3o est\u225\'e1 imune \u224\'e0s influ\u234\'eancias de valores e concep\u231\'e7\u245\'f5es de sociedade, o ensinar ci\u234\'eancias tamb\u233\'e9m teria que ser pensado \u224\'e0 luz desses condicionamentos.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
-\tab Neste sentido, as id\u233\'e9ias de Popper tamb\u233\'e9m devem ser consideradas, pois acabam conduzindo a reflex\u245\'f5es valiosas a respeito das rela\u231\'e7\u245\'f5es existentes entre o Ensino de Ci\u234\'eancias, valores e concep\u231\'e7\u245\'f5es de ci\u234\'eancia e de sociedade. Reflex\u245\'f5es essas que revelam sua import\u226\'e2ncia quando se considera que o ensinar ci\u234\'eancias faz parte de uma atividade humana inevitavelmente ligada a concep\u231\'e7\u245\'f5es sobre a sociedade, a cultura, os valores e a pol\u237\'edtica, estando, portanto, sujeita a m\u250\'faltiplas influ\u234\'eancias que devem ser reconhecidas e avaliadas.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+\tab }{\rtlch \ltrch\loch\loch\f7
+A}{\rtlch \ltrch\loch\loch\f7
+s primeiras vers\u245\'f5es de linguagens interpretadas focavam na disponibiliza\u231\'e7\u227\'e3o de m\u225\'e1quinas virtuais eficazes provendo portabilidade do c\u243\'f3digo possibilitando a execu\u231\'e7\u227\'e3o em plataformas distintas}{\rtlch \ltrch\loch\loch\f7
+. }{\rtlch \ltrch\loch\loch\f7
+Recentemente as pesquisas tem tomado outra dire\u231\'e7\u227\'e3o, al\u233\'e9m de prover a portabilidade de plataformas h\u225\'e1 uma busca por uma melhor utiliza\u231\'e7\u227\'e3o dos recursos e redu\u231\'e7\u227\'e3o do tempo de execu\u231\'e7\u227\'e3o.}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
+\tab Nas linguagens que utilizam JIT, }{\rtlch \ltrch\loch\loch\f7
+\u233\'e9 importante destacar que o c\u243\'f3digo \u233\'e9 compilado sob demanda, ou seja o fonte \u233\'e9 inicialmente compilado e executado. A partir da execu\u231\'e7\u227\'e3o podem ser identificados pontos quentes (Hotspots), sendo eles trechos que precisam de alguma otimiza\u231\'e7\u227\'e3o, dessa forma a m\u225\'e1quina virtual identifica a necessidade de recompilar esse trecho de c\u243\'f3digo aplicando otimiza\u231\'e7\u245\'f5es, o que resulta em um ganho de performance.}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 2 OBJETIVO}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-\tab }{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+\tab }{\rtlch \ltrch\loch\loch\f7
 Um dos questionamentos mais importantes que foram apresentados em rela\u231\'e7\u227\'e3o \u224\'e0 Filosofia da Ci\u234\'eancia de Karl Popper diz respeito \u224\'e0 quest\u227\'e3o da mudan\u231\'e7a te\u243\'f3rica, ou seja, quais seriam os fatores que conduziriam ao abandono de uma teoria e \u224\'e0 ado\u231\'e7\u227\'e3o de uma outra.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li2267\ri0\lin2267\rin0\fi0\ltrpar{\rtlch \ltrch\loch\fs20\loch\f5
-O exemplo cl\u225\'e1ssico de programa de pesquisa bem-sucedido \u233\'e9 a teoria gravitacional de Newton; talvez seja at\u233\'e9 o mais bem-sucedido programa de pesquisa j\u225\'e1 levado a cabo. Quando foi produzido pela primeira vez, viu-se submerso num oceano de \u8220\'93anomalias\u8221\'94 (ou, se quiserem, de \u8220\'93contra-exemplos\u8221\'94), e enfrentou a oposi\u231\'e7\u227\'e3o das teorias observacionais que sustentavam tais anomalias. Os newtonianos, contudo, transformaram, com tenacidade e engenho brilhantes, um contra-exemplo depois do outro em exemplos corroborativos, principalmente derrubando as teorias observacionais originais \u224\'e0 cuja luz essa \u8220\'93evid\u234\'eancia contr\u225\'e1ria\u8221\'94 foi estabelecida. No processo, eles mesmos produziram novos contra-exemplos, que novamente resolviam. \u8220\'93Converteram cada nova dificuldade numa nova vit\u243\'f3ria do seu programa\u8221\'94}{{\super \chftn{\*\footnote \chftn\pard\plain \s41\ql\widctlpar\ltrpar\dbch\af12\dbch\af15\afs24\loch\f6\fs20\lang1046{\rtlch \ltrch\loch\fs20\rtlch \ltrch\fs24\lang1046\loch\f5
-\tab  }{\rtlch \ltrch\loch\fs24\lang1046\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li2267\ri0\lin2267\rin0\fi0\ltrpar{\rtlch \ltrch\loch\fs20\loch\f7
+O exemplo cl\u225\'e1ssico de programa de pesquisa bem-sucedido \u233\'e9 a teoria gravitacional de Newton; talvez seja at\u233\'e9 o mais bem-sucedido programa de pesquisa j\u225\'e1 levado a cabo. Quando foi produzido pela primeira vez, viu-se submerso num oceano de \u8220\'93anomalias\u8221\'94 (ou, se quiserem, de \u8220\'93contra-exemplos\u8221\'94), e enfrentou a oposi\u231\'e7\u227\'e3o das teorias observacionais que sustentavam tais anomalias. Os newtonianos, contudo, transformaram, com tenacidade e engenho brilhantes, um contra-exemplo depois do outro em exemplos corroborativos, principalmente derrubando as teorias observacionais originais \u224\'e0 cuja luz essa \u8220\'93evid\u234\'eancia contr\u225\'e1ria\u8221\'94 foi estabelecida. No processo, eles mesmos produziram novos contra-exemplos, que novamente resolviam. \u8220\'93Converteram cada nova dificuldade numa nova vit\u243\'f3ria do seu programa\u8221\'94}{{\super \chftn{\*\footnote \chftn\pard\plain \s41\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\loch\f5\fs20\lang1046{\dbch\af10\rtlch \ltrch\loch\fs20\rtlch \ltrch\fs24\lang1046\loch\f7
+\tab  }{\dbch\af10\rtlch \ltrch\loch\fs24\lang1046\loch\f7
 Laplace, Exposition du Syst\u232\'e8me du Monde, 1796, livro IV, cap\u237\'edtulo ii (NOTA DO AUTOR)}
-}}\loch\f5
-}{\rtlch \ltrch\loch\fs20\loch\f5
+}}\loch\f7
+}{\rtlch \ltrch\loch\fs20\loch\f7
 . (LAKATOS, 1979, p.163).}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-3}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-ESTRUTURA DO ARTIGO}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+3 ESTRUTURA DO ARTIGO}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-MATERIAIS E M\u201\'c9TODOS}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4 MATERIAIS E M\u201\'c9TODOS}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4.1}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-PYTHON}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4.1 PYTHON}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-\tab }{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+\tab }{\rtlch \ltrch\loch\loch\f7
 Foi criada em dezembro de 1989, criada por Guido von Rossum, um programador dos Pa\u237\'edses Baixos, que desenvolveu a linguagem em algumas semanas, em um per\u237\'edodo pr\u243\'f3ximo ao natal. Segundo Guido, o nome da linguagem n\u227\'e3o \u233\'e9 refer\u234\'eancia a serpente, mas sim uma refer\u234\'eancia ao grupo de com\u233\'e9dia ingl\u234\'eas chamado Monty Python, do qual Guido \u233\'e9 um f\u227\'e3. A linguagem teve v\u225\'e1rias influ\u234\'eancias sendo a mais forte delas a da ABC.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab Python \u233\'e9 uma linguagem de programa\u231\'e7\u227\'e3o com ampla utiliza\u231\'e7\u227\'e3o no mercado, empregada em diversas \u225\'e1reas, como educacionais, comerciais, cient\u237\'edficas, plataformas web, desktop e m\u243\'f3vel. Comparada com outras linguagens Python possui uma baixa curva de aprendizado, o que explica sua utiliza\u231\'e7\u227\'e3o em universidades como MIT para ensino de l\u243\'f3gica e algoritmos. A linguagem \u233\'e9 concisa e muito produtiva, sua ado\u231\'e7\u227\'e3o tem crescido bastante. \u201\'c9 uma linguagem gratuita e de c\u243\'f3digo aberto, com vers\u245\'f5es para diversos sistemas operacionais.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab Conhecida por possuir baterias inclusas, Python possui uma grande biblioteca padr\u227\'e3o e uma documenta\u231\'e7\u227\'e3o muito intuitiva, o que possibilita sua utiliza\u231\'e7\u227\'e3o para fins sem a necessidade de bibliotecas externas.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
-\tab \u201\'c9 uma linguagem de alto n\u237\'edvel interpretada, comporta v\u225\'e1rios paradigmas de programa\u231\'e7\u227\'e3o, sendo os mais utilizados o estruturado, o orientado \u224\'e0 objetos e funcional. Possui uma tipagem forte e din\u226\'e2mica, tamb\u233\'e9m conhecida como DuckTyping, onde os objetos que se comportam de maneira similar s\u227\'e3o tratados como iguais por essas similaridades. }{\rtlch \ltrch\loch\loch\f5
-Possui um gerenciamento autom\u225\'e1tico de mem\u243\'f3ria, abstraindo dos desenvolvedores problemas de aloca\u231\'e7\u227\'e3o de mem\u243\'f3ria, arquitetura, etc. Algumas estruturas de dados j\u225\'e1 est\u227\'e3o embutidas na linguagem, como por exemplo as listas que s\u227\'e3o representadas por \u8220\'93[ ]\u8221\'94, o que reduz a verbosidade, algo conhecido como }{\i\ai\rtlch \ltrch\loch\loch\f5
-Syntatic Sugar}{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
+\tab \u201\'c9 uma linguagem de alto n\u237\'edvel interpretada, comporta v\u225\'e1rios paradigmas de programa\u231\'e7\u227\'e3o, sendo os mais utilizados o estruturado, o orientado \u224\'e0 objetos e funcional. Possui uma tipagem forte e din\u226\'e2mica, tamb\u233\'e9m conhecida como DuckTyping, onde os objetos que se comportam de maneira similar s\u227\'e3o tratados como iguais por essas similaridades. Possui um gerenciamento autom\u225\'e1tico de mem\u243\'f3ria, abstraindo dos desenvolvedores problemas de aloca\u231\'e7\u227\'e3o de mem\u243\'f3ria, arquitetura, etc. Algumas estruturas de dados j\u225\'e1 est\u227\'e3o embutidas na linguagem, como por exemplo as listas que s\u227\'e3o representadas por \u8220\'93[ ]\u8221\'94, o que reduz a verbosidade, algo conhecido como }{\i\rtlch \ltrch\loch\loch\f7
+Syntatic Sugar}{\rtlch \ltrch\loch\loch\f7
  (A\u231\'e7\u250\'facar Sint\u225\'e1tico), onde a complexidade dos comandos \u233\'e9 reduzida para uma forma mais amig\u225\'e1vel e f\u225\'e1cil de se entender. Podemos citar como exemplos as listas, dicion\u225\'e1rios, tuplas, o fato da endenta\u231\'e7\u227\'e3o do c\u243\'f3digo delimitar os blocos, geradores, etc. A comunidade que apoia a linguagem Python tamb\u233\'e9m \u233\'e9 um dos grandes pontos fortes da linguagem, com v\u225\'e1rias contribui\u231\'e7\u245\'f5es, frameworks de c\u243\'f3digo aberto.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4.2}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-IMPLEMENTA\u199\'c7\u213\'d5ES ALTERNATIVAS}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\b\ab0\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4.2 IMPLEMENTA\u199\'c7\u213\'d5ES ALTERNATIVAS}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\b0\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-\tab }{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+\tab }{\rtlch \ltrch\loch\loch\f7
 Por ser uma linguagem interpretada seu funcionamento \u233\'e9 semelhante ao de outras linguagens interpretadas, como o Java por exemplo. Onde o c\u243\'f3digo-fonte \u233\'e9 compilado para um bytecode que \u233\'e9 um formato intermedi\u225\'e1rio, que posteriormente \u233\'e9 interpretado por sua m\u225\'e1quina virtual (Python Virtual Machine). Isso permite que seu c\u243\'f3digo (c\u243\'f3digo-fonte ou intermedi\u225\'e1rio) seja executado em diversos ambientes desde que possua uma m\u225\'e1quina virtual que possa ser executada na plataforma escolhida.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
-\tab A partir do conceito de compiladores e m\u225\'e1quina virtual surgiram outras implementa\u231\'e7\u245\'f5es de compiladores e interpretadores para a linguagem Python. }{\rtlch \ltrch\loch\loch\f5
-O interpretador padr\u227\'e3o da linguagem Python \u233\'e9 conhecido como CPython, pois foi desenvolvido em C, p}{\rtlch \ltrch\loch\loch\f5
-odemos citar o Jython, que \u233\'e9 uma implementa\u231\'e7\u227\'e3o constru\u237\'edda em Java, temos o IronPython que trabalha na plataforma .NET da Microsoft, }{\rtlch \ltrch\loch\loch\f5
-entre outros existe o Pypy que foi desenvolvido utilizando Rpython e possui JIT, o que permite um ganho de performance em alguns casos.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
+\tab A partir do conceito de compiladores e m\u225\'e1quina virtual surgiram outras implementa\u231\'e7\u245\'f5es de compiladores e interpretadores para a linguagem Python. O interpretador padr\u227\'e3o da linguagem Python \u233\'e9 conhecido como CPython, pois foi desenvolvido em C, podemos citar o Jython, que \u233\'e9 uma implementa\u231\'e7\u227\'e3o constru\u237\'edda em Java, temos o IronPython que trabalha na plataforma .NET da Microsoft, entre outros existe o Pypy que foi desenvolvido utilizando Rpython e possui JIT, o que permite um ganho de performance em alguns casos.}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4.3}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-RPYTHON}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\b\ab0\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4.3 RPYTHON}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\b0\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b0\ab0\rtlch \ltrch\loch\loch\f5
-\tab }{\b0\ab0\rtlch \ltrch\loch\loch\f5
-Segundo sua documenta\u231\'e7\u227\'e3o o RPython \u233\'e9 um framework para a implementa\u231\'e7\u227\'e3o de interpretadores e m\u225\'e1quinas virtuais para linguagens de programa\u231\'e7\u227\'e3o, especialmente linguagens din\u226\'e2micas. Eles enfatizam que o RPython n\u227\'e3o \u233\'e9 um compilador de c\u243\'f3digo Python.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b0\ab0\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b0\rtlch \ltrch\loch\loch\f7
+\tab Segundo sua documenta\u231\'e7\u227\'e3o o RPython \u233\'e9 um framework para a implementa\u231\'e7\u227\'e3o de interpretadores e m\u225\'e1quinas virtuais para linguagens de programa\u231\'e7\u227\'e3o, especialmente linguagens din\u226\'e2micas. Eles enfatizam que o RPython n\u227\'e3o \u233\'e9 um compilador de c\u243\'f3digo Python.}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b0\rtlch \ltrch\loch\loch\f7
 \tab O RPython \u233\'e9 um subconjunto restrito da linguagem Python, ele faz uma restri\u231\'e7\u227\'e3o na tipagem din\u226\'e2mica para garantir a infer\u234\'eancia de tipos. Normalmente as restri\u231\'e7\u245\'f5es limitam a capacidade de misturar tipos arbitr\u225\'e1rios, sendo assim o RPython n\u227\'e3o permite a liga\u231\'e7\u227\'e3o de dois tipos diferentes na mesma vari\u225\'e1vel, o que lembra linguagens estaticamente tipadas como o JAVA. Tamb\u233\'e9 s\u227\'e3o limitados os m\u233\'e9todos especiais do python __xxx__ (Utilizam a nomenclatura de "dunders" ou seja double underscores), com exce\u231\'e7\u227\'e3o para o __init__ e __del__ e recursos de reflex\u227\'e3o (reflections) como __dict__.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4.4}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-PYPY}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\b\ab0\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4.4 PYPY}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\b0\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b0\ab0\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b0\rtlch \ltrch\loch\loch\f7
 \tab O Pypy \u233\'e9 um projeto que resultou em um novo interpretador python mais flex\u237\'edvel e r\u225\'e1pido que o convencional(CPython). Ele possui esse nome pois o sua implementa\u231\'e7\u227\'e3o utiliza o RPython, que \u233\'e9 um dialeto da linguagem Python com algumas restri\u231\'e7\u245\'f5es. Pypy significa Python in Python.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4.5}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-JUST-IN-TIME COMPILATION ( JIT )}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4.5 JUST-IN-TIME COMPILATION ( JIT )}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4.6}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-APACHE JMETER}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4.6 APACHE JMETER}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4.7}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-MATPLOTLIB}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4.7 MATPLOTLIB}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-4.8}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-NUMPY}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+4.8 NUMPY}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-5}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-CONFIGURA\u199\'c7\u213\'d5ES}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+5 CONFIGURA\u199\'c7\u213\'d5ES}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-5.1}{\b\rtlch \ltrch\loch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-CUSTOMIZA\u199\'c7\u213\'d5ES DA M\u193\'c1QUINA VIRTUAL}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+5.1 CUSTOMIZA\u199\'c7\u213\'d5ES DA M\u193\'c1QUINA VIRTUAL}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 5.2 ESTRAT\u201\'c9GIAS DE OTIMIZA\u199\'c7\u195\'c3O}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 6 RESULTADOS}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 6.1 APLICA\u199\'c7\u195\'c3O WEB}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 6.1.1 DADOS AMOSTRAIS SOBRE PERFORMANCE}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 6.1.2 DADOS AMOSTRAIS SOBRE TESTE DE CARGA}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 6.1.3 DADOS AMOSTRAIS  SOBRE TEMPO DE RESPOSTA}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 6.2 PROCESSAMENTO DE DADOS}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 6.2.1 DADOS AMOSTRAIS SOBRE PERFORMANCE}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 6.2.2 DADOS AMOSTRAIS SOBRE VOLUME DE DADOS}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab \tab }
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
 7 CONCLUS\u213\'d5ES}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\i\b\highlight5\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\i\b\highlight3\rtlch \ltrch\loch\loch\f7
 O restante do artigo estaria no sequ\u234\'eancia completando cerca de 15 p\u225\'e1ginas de texto.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\i\ul\ulc0\b\highlight5\rtlch \ltrch\loch\loch\f5
-Ap\u243\'f3s o \u250\'faltimo t\u237\'edtulo do texto estaria o item conclus\u227\'e3o}{\i\ul\ulc0\b\rtlch \ltrch\loch\loch\f5
- }{\i\ul\ulc0\b\highlight5\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\i\ul\ulc0\b\highlight3\rtlch \ltrch\loch\loch\f7
+Ap\u243\'f3s o \u250\'faltimo t\u237\'edtulo do texto estaria o item conclus\u227\'e3o}{\i\ul\ulc0\b\rtlch \ltrch\loch\loch\f7
+ }{\i\ul\ulc0\b\highlight3\rtlch \ltrch\loch\loch\f7
 e logo ap\u243\'f3s o resumo em l\u237\'edngua estrangeira e as refer\u234\'eancias, como se observa abaixo.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\ql\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qc\ltrpar\b\rtlch \ltrch\loch\lang1033\loch\f5
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\lang1033\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qc\ltrpar{\b\rtlch \ltrch\loch\lang1033\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\lang1033\loch\f7
 POPPER\u8217\'92S CONCEPTION OF SCIENCE AND THE TEACHING OF SCIENCES}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b\rtlch \ltrch\loch\lang1033\loch\f5
-Abstract:}{\rtlch \ltrch\loch\lang1033\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\lang1033\loch\f7
+Abstract:}{\rtlch \ltrch\loch\lang1033\loch\f7
  This work aimed at identifying the most important consequences of Popper\u8217\'92s conception of science for the Teaching of Sciences. Popper\u8217\'92s conception originated a fertile debate in the Philosophy of Sciences. By following this debate, it is possible to notice, on the one hand, the richness of the process of making science, recognizing the contributions brought by those who debated with Popper, and on the other hand, the importance of aspects of science that Popper valued and attempted to preserve. In a similar way, the criticism and the debate over the approaches of conceptual change contributed to the perception of the profuseness and complexity of this process. However, the maintenance of certain aspects, inherent in the process of conceptual change, may be relevant when the institutional objectives of the schools and the social expectations over the appropriate understanding and over the attempt to overcome current paradigms are considered. In this way, Popper\u8217\'92s work may offer important support to value rational aspects that could lead the process of learning Sciences.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-Keywords:}{\rtlch \ltrch\loch\loch\f5
- Philosophy of Science. }{\rtlch \ltrch\loch\lang1033\loch\f5
-Popper\u8217\'92s epistemology. Rational choice and debate. }{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+Keywords:}{\rtlch \ltrch\loch\loch\f7
+ Philosophy of Science. }{\rtlch \ltrch\loch\lang1033\loch\f7
+Popper\u8217\'92s epistemology. Rational choice and debate. }{\rtlch \ltrch\loch\loch\f7
 Conceptual change}
-\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qc\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qc\ltrpar{\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 REFER\u202\'caNCIAS}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qc\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
 FEYERABEND, P. Consolando o especialista. In: LAKATOS,I.; MUSGRAVE, A.(Orgs.).}{\i\rtlch \ltrch\loch\fs24
  A cr\u237\'edtica e o desenvolvimento do conhecimento}{\rtlch \ltrch\loch\fs24
 . S\u227\'e3o Paulo: Cultrix/Edusp, 1979. p.244-284.}
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
 KUHN, T. S. }{\i\rtlch \ltrch\loch\fs24
 A estrutura das revolu\u231\'e7\u245\'f5es cient\u237\'edficas. }{\rtlch \ltrch\loch\fs24
 4.ed. S\u227\'e3o Paulo: Perspectiva, 1996.}
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
 ________. L\u243\'f3gica da descoberta ou psicologia da pesquisa? In: LAKATOS, I. ; MUSGRAVE, A. }{\i\rtlch \ltrch\loch\fs24
 A cr\u237\'edtica e o desenvolvimento do conhecimento}{\rtlch \ltrch\loch\fs24
 .S\u227\'e3o Paulo: Cultrix/Edusp, 1979a. p.5-32.}
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
 ________. Reflex\u245\'f5es sobre os meus cr\u237\'edticos. }{\rtlch \ltrch\loch\fs24\lang1033
 In: LAKATOS,I.; MUSGRAVE, A.(Orgs.).}{\i\rtlch \ltrch\loch\fs24\lang1033
  }{\i\rtlch \ltrch\loch\fs24
 A cr\u237\'edtica e o desenvolvimento do conhecimento}{\rtlch \ltrch\loch\fs24
 . S\u227\'e3o Paulo: Cultrix/Edusp, 1979b. }{\rtlch \ltrch\loch\fs24\lang3082
 p.285-343.}
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qc\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24\lang3082
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24\lang3082
 LAKATOS, I. }{\i\rtlch \ltrch\loch\fs24\lang3082
 La metodologia de los programas de investigaci\u243\'f3n cient\u237\'edfica.}{\rtlch \ltrch\loch\fs24\lang3082
  Madri: Alianza editorial, 1983.}
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\fs24
 LAKATOS, I. O Falseamento e a metodologia dos programas de pesquisa cient\u237\'edfica. In: LAKATOS, I. ; MUSGRAVE, A.(Orgs.) }{\i\rtlch \ltrch\loch\fs24
 A cr\u237\'edtica e o desenvolvimento do conhecimento. }{\rtlch \ltrch\loch\fs24
 S\u227\'e3o Paulo: Cultrix/Edusp, 1979.}
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\i\ul\ulc0\b\highlight5\rtlch \ltrch\loch\fs24
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\i\ul\ulc0\b\highlight3\rtlch \ltrch\loch\fs24
 Ver os modelos de refer\u234\'eancias no \u8220\'93Manual para a elabora\u231\'e7\u227\'e3o de trabalhos acad\u234\'eamicos\u8221\'94 no site da ITE.}
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\i\ul\ulc0\b\highlight5\rtlch \ltrch\loch\fs24
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\i\ul\ulc0\b\highlight3\rtlch \ltrch\loch\fs24
 Nos casos dos artigos cient\u237\'edficos, constam nas refer\u234\'eancias apenas as fontes efetivamente citadas no corpo do texto.}
-\par \pard\plain \s52\qj\li0\ri0\lin0\rin0\fi708\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af11\langfe2052\dbch\af13\afs24\alang1081\loch\f5\fs28\lang1046\qj\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s52\qj\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af12\afs24\alang1081\loch\f7\fs28\lang1046\ql\nowidctlpar\li0\ri0\lin0\rin0\fi708\ltrpar\rtlch \ltrch\loch
 
-\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-AP\u202\'caNDICE(S) }{\b\highlight5\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+AP\u202\'caNDICE(S) }{\b\highlight3\rtlch \ltrch\loch\loch\f7
 (ELEMENTO OPCIONAL)}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\loch\f5
-Texto ou documento }{\ul\ulc0\rtlch \ltrch\loch\loch\f5
-elaborado pelo autor}{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\loch\f7
+Texto ou documento }{\ul\ulc0\rtlch \ltrch\loch\loch\f7
+elaborado pelo autor}{\rtlch \ltrch\loch\loch\f7
 , de natureza complementar. Os ap\u234\'eandices n\u227\'e3o s\u227\'e3o muito utilizados nos artigos cient\u237\'edficos em raz\u227\'e3o do car\u225\'e1ter compacto deste tipo de documento.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab Ver o modelo (como ficaria um ap\u234\'eandice na p\u225\'e1gina de um artigo) a seguir.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\i\rtlch \ltrch\loch\f5
- }{\b\rtlch \ltrch\loch\loch\f5
-ANEXO(S) }{\b\highlight5\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\i\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+ANEXO(S) }{\b\highlight3\rtlch \ltrch\loch\loch\f7
 (ELEMENTO OPCIONAL)}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\loch\f5
-Texto ou documento }{\ul\ulc0\rtlch \ltrch\loch\loch\f5
-n\u227\'e3o elaborado pelo autor}{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\li0\ri0\lin0\rin0\fi708\ltrpar{\rtlch \ltrch\loch\loch\f7
+Texto ou documento }{\ul\ulc0\rtlch \ltrch\loch\loch\f7
+n\u227\'e3o elaborado pelo autor}{\rtlch \ltrch\loch\loch\f7
 , que serve de fundamenta\u231\'e7\u227\'e3o,comprova\u231\'e7\u227\'e3o e ilustra\u231\'e7\u227\'e3o, tendo um car\u225\'e1ter complementar. Os ap\u234\'eandices n\u227\'e3o s\u227\'e3o muito utilizados nos artigos cient\u237\'edficos, dado o car\u225\'e1ter compacto deste tipo de documento.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab Ver o modelo (como ficaria um ap\u234\'eandice na p\u225\'e1gina de um artigo) a seguir.}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\sl360\slmult1\qj\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-AP\u202\'caNDICE  A- }{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+AP\u202\'caNDICE  A- }{\rtlch \ltrch\loch\loch\f7
 Gr\u225\'e1fico sobre os \u237\'edndices de audi\u234\'eancia das emissoras de canal aberto}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\ql\ltrpar\b\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\b\rtlch \ltrch\loch\loch\f7
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\ql\ltrpar{\b\rtlch \ltrch\loch\loch\f5
-ANEXO A \u8211\'96 }{\rtlch \ltrch\loch\loch\f5
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
+ANEXO A \u8211\'96 }{\rtlch \ltrch\loch\loch\f7
 Exemplos de diagrama\u231\'e7\u227\'e3o de p\u225\'e1ginas iniciais dos peri\u243\'f3dicos analisados}
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\qc\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\dbch\af12\dbch\af15\afs24\cf0\kerning1\langfe2052\alang1081\loch\f6\fs24\lang1046\ql\ltrpar\rtlch \ltrch\loch
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af10\langfe1081\dbch\af12\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
-\par }
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\pgndec\sbknone}
