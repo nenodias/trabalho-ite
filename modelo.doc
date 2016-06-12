@@ -57,7 +57,7 @@
 {\s63\sbasedon0\snext63\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\loch\f5\fs24\lang1046 Cita\u231\'e7\u245\'f5es;}
 {\s64\sbasedon20\snext64\ql\widctlpar\sb240\sa120\keepn\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\loch\f6\fs28\lang1046 T\u237\'edtulo do documento;}
 {\s65\sbasedon20\snext65\ql\widctlpar\sb240\sa120\keepn\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\loch\f6\fs28\lang1046 Subt\u237\'edtulo;}
-}{\*\generator LibreOffice/4.4.7.2$Linux_X86_64 LibreOffice_project/40m0$Build-2}{\info{\author rufatto}{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2016\mo6\dy5\hr13\min24}{\printim\yr0\mo0\dy0\hr0\min0}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+}{\*\generator LibreOffice/4.4.7.2$Linux_X86_64 LibreOffice_project/40m0$Build-2}{\info{\author rufatto}{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2016\mo6\dy12\hr16\min55}{\printim\yr0\mo0\dy0\hr0\min0}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
 \viewscale100
 {\*\pgdsctbl
 {\pgdsc0\pgdscuse451\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\pgdscnxt0 Estilo padr\u227\'e3o;}
@@ -68,7 +68,7 @@
 \par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
-ESTUDO DE CASO PYTHON COM JIT}
+ENSAIO SOBRE APLICA\u199\'c7\u195\'c3O JIT USANDO PYTHON E PYPY}
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch
@@ -102,9 +102,18 @@ Python. Tradu\u231\'e7\u227\'e3o Din\u226\'e2mica.}
 
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab }{\rtlch \ltrch\loch\loch\f7
-As primeiras vers\u245\'f5es de linguagens interpretadas focavam na disponibiliza\u231\'e7\u227\'e3o de m\u225\'e1quinas virtuais eficazes provendo portabilidade do c\u243\'f3digo possibilitando a execu\u231\'e7\u227\'e3o em plataformas distintas. Recentemente as pesquisas tem tomado outra dire\u231\'e7\u227\'e3o, al\u233\'e9m de prover a portabilidade de plataformas h\u225\'e1 uma busca por uma melhor utiliza\u231\'e7\u227\'e3o dos recursos e redu\u231\'e7\u227\'e3o do tempo de execu\u231\'e7\u227\'e3o.}
+Na computa\u231\'e7\u227\'e3o o termo }{\i\ai\rtlch \ltrch\loch\loch\f7
+just-in-time compilation}{\rtlch \ltrch\loch\loch\f7
+, tamb\u233\'e9m conhecida como tradu\u231\'e7\u227\'e3o din\u226\'e2mica, \u233\'e9 uma forma de melhorar a performance de programas baseados em byte code (c\u243\'f3digo de m\u225\'e1quina virtual). Normalmente a execu\u231\'e7\u227\'e3o de c\u243\'f3digos interpretados \u233\'e9 mais lenta que a de c\u243\'f3digos compilados para a linguagem de m\u225\'e1quina. Para contornar esse problema, o byte code \u233\'e9 carregado em mem\u243\'f3ria, e o programa pode ser executado. Posteriormente a m\u225\'e1quina virtual identifica a ocorr\u234\'eancia de v\u225\'e1rias chamadas (Hotspots) para algum arquivo, m\u233\'e9todo ou bloco de c\u243\'f3digo (byte code), que \u233\'e9 compilado para linguagem de m\u225\'e1quina e \u233\'e9 salvo em cache para que seja executado mais r\u225\'e1pido nas pr\u243\'f3ximas ocorr\u234\'eancias.}
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
-\tab Nas linguagens que utilizam JIT, \u233\'e9 importante destacar que o c\u243\'f3digo \u233\'e9 compilado sob demanda, ou seja o fonte \u233\'e9 inicialmente compilado e executado. A partir da execu\u231\'e7\u227\'e3o podem ser identificados pontos quentes (Hotspots), sendo eles trechos que precisam de alguma otimiza\u231\'e7\u227\'e3o, dessa forma a m\u225\'e1quina virtual identifica a necessidade de recompilar esse trecho de c\u243\'f3digo aplicando otimiza\u231\'e7\u245\'f5es, o que resulta em um ganho de performance.}
+\tab A compila\u231\'e7\u227\'e3o JIT representa uma abordagem h\u237\'edbrida, onde parte do c\u243\'f3digo executado \u233\'e9 interpretado, em conjunto com c\u243\'f3digo compilado em tempo de execu\u231\'e7\u227\'e3o para reduzir os impactos no desempenho.(http://www.ebooklibrary.org/articles/Just-in-time_compiler, World Heritage Encyclopedia)}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
+\tab \tab }
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
+ }{\b\rtlch \ltrch\loch\loch\f7
+1.1 PYTHON}
+\par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar\rtlch \ltrch\loch\loch\f7
+
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab \tab }
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\li425\ri0\lin425\rin0\fi-425\ltrpar{\b\rtlch \ltrch\loch\f7
@@ -141,7 +150,7 @@ Laplace, Exposition du Syst\u232\'e8me du Monde, 1796, livro IV, cap\u237\'edtul
 
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab }{\rtlch \ltrch\loch\loch\f7
-Foi criada em dezembro de 1989, criada por Guido von Rossum, um programador dos Pa\u237\'edses Baixos, que desenvolveu a linguagem em algumas semanas, em um per\u237\'edodo pr\u243\'f3ximo ao natal. Segundo Guido, o nome da linguagem n\u227\'e3o \u233\'e9 refer\u234\'eancia a serpente, mas sim uma refer\u234\'eancia ao grupo de com\u233\'e9dia ingl\u234\'eas chamado Monty Python, do qual Guido \u233\'e9 um f\u227\'e3. A linguagem teve v\u225\'e1rias influ\u234\'eancias sendo a mais forte delas a da ABC.}
+Foi criada em dezembro de 1989, por Guido von Rossum, um programador dos Pa\u237\'edses Baixos que desenvolveu a linguagem em algumas semanas, em um per\u237\'edodo pr\u243\'f3ximo ao natal. Segundo Guido, o nome da linguagem n\u227\'e3o \u233\'e9 refer\u234\'eancia a serpente, mas sim uma refer\u234\'eancia ao grupo de com\u233\'e9dia ingl\u234\'eas chamado Monty Python, do qual Guido \u233\'e9 um f\u227\'e3. A linguagem teve v\u225\'e1rias influ\u234\'eancias sendo a mais forte delas a da ABC.}
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab Python \u233\'e9 uma linguagem de programa\u231\'e7\u227\'e3o com ampla utiliza\u231\'e7\u227\'e3o no mercado, empregada em diversas \u225\'e1reas, como educacionais, comerciais, cient\u237\'edficas, plataformas web, desktop e m\u243\'f3vel. Comparada com outras linguagens Python possui uma baixa curva de aprendizado, o que explica sua utiliza\u231\'e7\u227\'e3o em universidades como MIT para ensino de l\u243\'f3gica e algoritmos. A linguagem \u233\'e9 concisa e muito produtiva, sua ado\u231\'e7\u227\'e3o tem crescido bastante. \u201\'c9 uma linguagem gratuita e de c\u243\'f3digo aberto, com vers\u245\'f5es para diversos sistemas operacionais.}
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
@@ -409,6 +418,12 @@ Exemplos de diagrama\u231\'e7\u227\'e3o de p\u225\'e1ginas iniciais dos peri\u24
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
+
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
+
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
+
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
 \par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
