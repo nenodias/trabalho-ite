@@ -57,7 +57,7 @@
 {\s63\sbasedon0\snext63\ql\widctlpar\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\loch\f5\fs24\lang1046 Cita\u231\'e7\u245\'f5es;}
 {\s64\sbasedon20\snext64\ql\widctlpar\sb240\sa120\keepn\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\loch\f6\fs28\lang1046 T\u237\'edtulo do documento;}
 {\s65\sbasedon20\snext65\ql\widctlpar\sb240\sa120\keepn\ltrpar\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\loch\f6\fs28\lang1046 Subt\u237\'edtulo;}
-}{\*\generator LibreOffice/4.4.7.2$Linux_X86_64 LibreOffice_project/40m0$Build-2}{\info{\author rufatto}{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2016\mo6\dy12\hr16\min55}{\printim\yr0\mo0\dy0\hr0\min0}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+}{\*\generator LibreOffice/4.4.7.2$Linux_X86_64 LibreOffice_project/40m0$Build-2}{\info{\author rufatto}{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2016\mo7\dy6\hr22\min27}{\printim\yr0\mo0\dy0\hr0\min0}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
 \viewscale100
 {\*\pgdsctbl
 {\pgdsc0\pgdscuse451\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\pgdscnxt0 Estilo padr\u227\'e3o;}
@@ -102,9 +102,20 @@ Python. Tradu\u231\'e7\u227\'e3o Din\u226\'e2mica.}
 
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\b\rtlch \ltrch\loch\loch\f7
 \tab }{\rtlch \ltrch\loch\loch\f7
-Na computa\u231\'e7\u227\'e3o o termo }{\i\ai\rtlch \ltrch\loch\loch\f7
+Na computa\u231\'e7\u227\'e3o o termo }{\i\rtlch \ltrch\loch\loch\f7
 just-in-time compilation}{\rtlch \ltrch\loch\loch\f7
-, tamb\u233\'e9m conhecida como tradu\u231\'e7\u227\'e3o din\u226\'e2mica, \u233\'e9 uma forma de melhorar a performance de programas baseados em byte code (c\u243\'f3digo de m\u225\'e1quina virtual). Normalmente a execu\u231\'e7\u227\'e3o de c\u243\'f3digos interpretados \u233\'e9 mais lenta que a de c\u243\'f3digos compilados para a linguagem de m\u225\'e1quina. Para contornar esse problema, o byte code \u233\'e9 carregado em mem\u243\'f3ria, e o programa pode ser executado. Posteriormente a m\u225\'e1quina virtual identifica a ocorr\u234\'eancia de v\u225\'e1rias chamadas (Hotspots) para algum arquivo, m\u233\'e9todo ou bloco de c\u243\'f3digo (byte code), que \u233\'e9 compilado para linguagem de m\u225\'e1quina e \u233\'e9 salvo em cache para que seja executado mais r\u225\'e1pido nas pr\u243\'f3ximas ocorr\u234\'eancias.}
+, tamb\u233\'e9m conhecida como tradu\u231\'e7\u227\'e3o din\u226\'e2mica, \u233\'e9 uma forma de melhorar a performance de programas baseados em bytecode (c\u243\'f3digo de m\u225\'e1quina virtual). Normalmente a execu\u231\'e7\u227\'e3o de c\u243\'f3digos interpretados \u233\'e9 mais lenta que a de c\u243\'f3digos compilados para a linguagem de m\u225\'e1quina. Para contornar esse problema, o byte code \u233\'e9 carregado em mem\u243\'f3ria, e o programa pode ser executado. Posteriormente a m\u225\'e1quina virtual identifica a ocorr\u234\'eancia de v\u225\'e1rias chamadas para algum arquivo, m\u233\'e9todo ou bloco de c\u243\'f3digo (Hotspots). }{\rtlch \ltrch\loch\loch\f7
+Com esse }{\i\b\ai\ab\rtlch \ltrch\loch\loch\f7
+hotspot}{\rtlch \ltrch\loch\loch\f7
+ }{\rtlch \ltrch\loch\loch\f7
+identificado, a m\u225\'e1quina virtual}{\rtlch \ltrch\loch\loch\f7
+ }{\rtlch \ltrch\loch\loch\f7
+faz a }{\rtlch \ltrch\loch\loch\f7
+compila}{\rtlch \ltrch\loch\loch\f7
+\u231\'e7\u227\'e3o desse bytecode}{\rtlch \ltrch\loch\loch\f7
+ para linguagem de m\u225\'e1quina, }{\rtlch \ltrch\loch\loch\f7
+que}{\rtlch \ltrch\loch\loch\f7
+ e \u233\'e9 salvo em cache para que seja executado mais r\u225\'e1pido nas pr\u243\'f3ximas ocorr\u234\'eancias.}
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
 \tab A compila\u231\'e7\u227\'e3o JIT representa uma abordagem h\u237\'edbrida, onde parte do c\u243\'f3digo executado \u233\'e9 interpretado, em conjunto com c\u243\'f3digo compilado em tempo de execu\u231\'e7\u227\'e3o para reduzir os impactos no desempenho.(http://www.ebooklibrary.org/articles/Just-in-time_compiler, World Heritage Encyclopedia)}
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\sl360\slmult1\ql\widctlpar\ltrpar{\rtlch \ltrch\loch\loch\f7
@@ -418,6 +429,8 @@ Exemplos de diagrama\u231\'e7\u227\'e3o de p\u225\'e1ginas iniciais dos peri\u24
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
 \par \pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
+
+\par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
 \par \sect\sectd\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1700\margrsxn1133\margtsxn1700\margbsxn1133\ltrsect\sbknone\pard\plain \s0\ql\widctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf1\kerning1\dbch\af11\langfe1081\dbch\af11\afs24\alang1081\loch\f5\fs24\lang1046\ql\widctlpar\ltrpar\rtlch \ltrch\loch
 
