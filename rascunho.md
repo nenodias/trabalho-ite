@@ -20,12 +20,12 @@ Enquanto essa fase é executada algumas informações correspondentes a execuç�
 Just-In-Time Compilation - Optimization Phase and Code Generation Phase / Fase de Otimizações e Fase de Geração
 A fase de otimização do trace é fácil, já que eles são representações apenas de um caminho de execução.
 As otimizações possíveis são:
- - Constant Subexpression Elimination
- - Dead Code Elimination
- - Register Allocation
- - invariant code motion
- - contant folding
- - escape analysis
+ - Constant Subexpression Elimination (Eliminação de Subexpressões por Constantes)
+ - Dead Code Elimination (Eliminação de Código Morto)
+ - Register Allocation (Alocação de Registros)
+ - invariant code motion (Movimento de Código Invariável)
+ - contant folding (Dobramento de Contantes)
+ - escape analysis (Análise de Escape)
  
 Depois das otimizações o trace é transformado em código de máquina.
 
@@ -33,9 +33,6 @@ Depois das otimizações o trace é transformado em código de máquina.
 Just-In-Time Compilation - Execution Phase / Fase de Execução
 
 Depois que o trace é compilado ele pode ser executado, ele será executado até que uma instrução de guarda falhar.
-
-História
-A primeira implementação de JIT tracing foi no Dynamo. Dynamo é um sistema de otimização dinâmica capaz de melhorar o fluxo de instruções nativas medidas que é executado em um processador. Para fazer isto o fluxo de instruções nativa é interpretado até que uma sequência de intruções "quentes" é encontrada. Para essa sequência será gerada uma versão otimizada, que será armazenada em cache e depois executada.
 
 
 (http://www.ebooklibrary.org/article/WHEBN0035604013/Tracing%20just-in-time%20compilation)
