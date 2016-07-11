@@ -34,6 +34,8 @@ Just-In-Time Compilation - Execution Phase / Fase de Execução
 
 Depois que o trace é compilado ele pode ser executado, ele será executado até que uma instrução de guarda falhar.
 
+História
+
 (http://www.ebooklibrary.org/article/WHEBN0035604013/Tracing%20just-in-time%20compilation)
 (http://www.ebooklibrary.org/article/WHEBN0000023862/Python%20(programming%20language) )
 (http://www.ebooklibrary.org/articles/eng/RPython)
