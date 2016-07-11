@@ -26,7 +26,7 @@ As otimizações possíveis são:
  - invariant code motion
  - contant folding
  - escape analysis
-
+ 
 Depois das otimizações o trace é transformado em código de máquina.
 
 
@@ -35,6 +35,8 @@ Just-In-Time Compilation - Execution Phase / Fase de Execução
 Depois que o trace é compilado ele pode ser executado, ele será executado até que uma instrução de guarda falhar.
 
 História
+A primeira implementação de JIT tracing foi no Dynamo. Dynamo é um sistema de otimização dinâmica capaz de melhorar o fluxo de instruções nativas medidas que é executado em um processador. Para fazer isto o fluxo de instruções nativa é interpretado até que uma sequência de intruções "quentes" é encontrada. Para essa sequência será gerada uma versão otimizada, que será armazenada em cache e depois executada.
+
 
 (http://www.ebooklibrary.org/article/WHEBN0035604013/Tracing%20just-in-time%20compilation)
 (http://www.ebooklibrary.org/article/WHEBN0000023862/Python%20(programming%20language) )
