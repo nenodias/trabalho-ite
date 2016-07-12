@@ -17,6 +17,10 @@ Nesta fase o bloco é executado normalmente, porém cada operação executada é
 Após o registro das operações do bloco, o fluxo de execução desse bloco percorrido procurando os caminhos onde operações a serem executadas podem divergir. Nesses pontos são inseridos no trace uma instrução especial de guarda, um exemplo de um local é onde existem declarações "if". A guarda é uma verificação rápida para determinar se a condição original ainda é verdadeira. Caso a verificação falhe a execução do trace é abortada.
 Enquanto essa fase é executada algumas informações correspondentes a execução desse bloco são armazenadas, como por exemplo o tipo dos dados, pois essas informações podem ser utilizadas nas fases de otimização.
 
+(http://www.ebooklibrary.org/article/WHEBN0035604013/Tracing%20just-in-time%20compilation)
+
+## Pesquisar referências sobre os passos das otimizações possíveis
+ 
 Just-In-Time Compilation - Optimization Phase and Code Generation Phase / Fase de Otimizações e Fase de Geração
 A fase de otimização do trace é fácil, já que eles são representações apenas de um caminho de execução.
 As otimizações possíveis são:
@@ -34,8 +38,8 @@ Just-In-Time Compilation - Execution Phase / Fase de Execução
 
 Depois que o trace é compilado ele pode ser executado, ele será executado até que uma instrução de guarda falhar.
 
+documento - https://drive.google.com/file/d/0Bx5VjHTESJ_xZlVxMEVxZHFQMmM/view?usp=sharing
 
-(http://www.ebooklibrary.org/article/WHEBN0035604013/Tracing%20just-in-time%20compilation)
 (http://www.ebooklibrary.org/article/WHEBN0000023862/Python%20(programming%20language) )
 (http://www.ebooklibrary.org/articles/eng/RPython)
 
