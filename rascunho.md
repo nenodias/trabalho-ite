@@ -38,6 +38,17 @@ Just-In-Time Compilation - Execution Phase / Fase de Execução
 
 Depois que o trace é compilado ele pode ser executado, ele será executado até que uma instrução de guarda falhar.
 
+
+Python
+
+-Introdução
+"Python é uma linguagem de altíssimo nível (em inglês, Very High Level Language) orientada a objeto, de tipagem dinâmica e forte, interpretada e interativa."
+(Eduardo Borges, 2010, p13) "Python para Desenvolvedores"
+
+-Características
+
+
+
 documento - https://drive.google.com/file/d/0Bx5VjHTESJ_xZlVxMEVxZHFQMmM/view?usp=sharing
 
 (http://www.ebooklibrary.org/article/WHEBN0000023862/Python%20(programming%20language) )
