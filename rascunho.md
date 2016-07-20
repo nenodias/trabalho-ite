@@ -42,6 +42,7 @@ Depois que o trace é compilado ele pode ser executado, ele será executado até
 Python
 
 -Introdução
+Python é uma linguagem fácil e de baixa curva de aprendizado,
 "Python é uma linguagem de altíssimo nível (em inglês, Very High Level Language) orientada a objeto, de tipagem dinâmica e forte, interpretada e interativa."
 (Eduardo Borges, 2010, p13) "Python para Desenvolvedores"
 
