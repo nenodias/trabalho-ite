@@ -41,9 +41,32 @@ Depois que o trace é compilado ele pode ser executado, ele será executado até
 
 Python
 
+
+-História
+A linguagem de programação Python surgiu em 1990. Criada por Guido van Rossum, no Instituto Nacional de Pesquisas para Matemática e Ciência da Computação da Holanda (CWI) e focava originalmente nos físicos e engenheiros como principais usuários. O Python nasceu sob forte influência da linguagem ABC.
+(Eduardo Borges, 2010, p14) "Python para Desenvolvedores"
+
+
 -Introdução
-"Python é uma linguagem de altíssimo nível (em inglês, Very High Level Language) orientada a objeto, de tipagem dinâmica e forte, interpretada e interativa."
-(Eduardo Borges, 2010, p13) "Python para Desenvolvedores"
+
+//////PARTES
+
+*É uma linguagem com código-fonte aberto e uso gratuito com uma forte comunidade, compatível
+com os sistemas operacionais predominantes no mercado, exemplos: Linux, OSX, Windows, BSDs
+etc.
+
+*Ela possui uma vasta biblioteca padrão em conjunto a uma documentação rica de exemplos , possibilitando que muitas coisas sejam feitas sem a utilização de dependências adicionais.
+
+*Python é uma linguagem de programação que vem sendo aplicada no desenvolvimento de projetos para os mais diversos fins: científicos, educacionais, comerciais, plataformas web, desktop e mais recentemente móvel.
+
+
+*É uma linguagem de baixa complexidade, significativa, sucinta e de alta produtividade.
+Seu uso teve crescente aumento nos últimos anos em diversos áreas de atuação: no meio científico e acadêmico, tanto para desenvolvimento de ferramentas quanto para ensino de algoritmos e introdução à programação.
+
+*Apesar da simplicidade, Python é uma linguagem extremamente robusta e versátil. Resultando em um ecossistema produtivo e e eficiênte para os desenvolvedores.
+
+
+//////PARTES
 
 -Características
 
@@ -55,3 +78,9 @@ documento - https://drive.google.com/file/d/0Bx5VjHTESJ_xZlVxMEVxZHFQMmM/view?us
 (http://www.ebooklibrary.org/articles/eng/RPython)
 
 (http://www.aosabook.org/en/pypy.html)
+
+Otimizações
+(https://cseweb.ucsd.edu/classes/fa03/cse231/lec8seq.pdf)
+(http://www.dca.fee.unicamp.br/cursos/EA876/apostila/HTML/node76.html)
+(https://books.google.com.br/books?id=s0MgLntZBjsC&pg=PA31&lpg=PA31&dq=Constant+Subexpression+Elimination+referência&source=bl&ots=mVr86JKlHp&sig=s-t3ugAjPb7zLyzJli8HY3_j2K0&hl=pt-BR&sa=X&ved=0ahUKEwiPlNrxhIPOAhUFS5AKHaEWAPsQ6AEIWDAJ#v=onepage&q=Constant%20Subexpression%20Elimination%20refer%C3%AAncia&f=false)
+(http://gersonc.anahy.org/repcomp/Compiladores15-Otimizacao.pdf)
