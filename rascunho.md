@@ -85,3 +85,13 @@ Otimizações
 (http://www.dca.fee.unicamp.br/cursos/EA876/apostila/HTML/node76.html)
 (https://books.google.com.br/books?id=s0MgLntZBjsC&pg=PA31&lpg=PA31&dq=Constant+Subexpression+Elimination+referência&source=bl&ots=mVr86JKlHp&sig=s-t3ugAjPb7zLyzJli8HY3_j2K0&hl=pt-BR&sa=X&ved=0ahUKEwiPlNrxhIPOAhUFS5AKHaEWAPsQ6AEIWDAJ#v=onepage&q=Constant%20Subexpression%20Elimination%20refer%C3%AAncia&f=false)
 (http://gersonc.anahy.org/repcomp/Compiladores15-Otimizacao.pdf)
+
+
+
+1.2 - Objetivos
+
+O objetivo deste trabalho é fazer um ensaio de uma aplicação web, comparando dois interpretadores Python, o padrão chamado CPython e a versão que utiliza JIT conhecida como PYPY. Os resultados serão analisados em relação à performance, tempo de resposta, carga de requisições, leituras e gravações em disco.
+
+1.3 - Metodologia
+
+O Trabalho foi desenvolvido em ambiente Linux, e todos os scripts foram executados a partir dos interpretadores instalados por meio do pyenv, que gerencia diferentes versões do python em uma mesma máquina.
