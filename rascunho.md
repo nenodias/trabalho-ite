@@ -90,7 +90,14 @@ Otimizações
 
 1.2 - Objetivos
 
-O objetivo deste trabalho é fazer um ensaio de uma aplicação web, comparando dois interpretadores Python, o padrão chamado CPython e a versão que utiliza JIT conhecida como PYPY. Os resultados serão analisados em relação à performance, tempo de resposta, carga de requisições, leituras e gravações em disco.
+O objetivo deste trabalho é fazer um ensaio de uma aplicação web, comparando dois interpretadores Python, o padrão chamado CPython e a versão que utiliza JIT em seu funcionamento, conhecida por PYPY. Os resultados serão analisados com base no tempo de resposta, carga de requisições, leituras e gravações em disco.
+O objetivo é mostrar o comportamento dos interpretadores diante dos cenários estudados.
+
+Os cenários analisados são:
+a. Páginas Estáticas
+b. Gravação de Dados via métodos POST e recuperação via métodos GET
+c. Geração de Relatórios em PDF
+d. Recuperação de Dados em Formato Criptografado //*****
 
 1.3 - Metodologia
 
