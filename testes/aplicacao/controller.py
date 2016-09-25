@@ -19,17 +19,19 @@ class RelatorioHandler(tornado.web.RequestHandler):
         #self.set_header("Content-Disposition", "attachment; filename=test.pdf") # Download
         self.write(gerar_pdf().read())
 
-class MainHandler(tornado.web.RequestHandler):
+class UsersHandler(tornado.web.RequestHandler):
 
     lista = []
 
-    def post(self):
+    def prepare(self):
         self.set_header("Content-Type", 'application/json; charset="utf-8"')
+
+    def post(self, pk=None):
         try:
             print(self.request.body.encode('utf-8') )
             data = json.loads(self.request.body.encode('utf-8'))
             if data.get('nome') and data.get('idade'):
-                MainHandler.lista.append(data)
+                self.lista.append(data)
                 md5 = hashlib.md5()
                 md5.update( data['nome'] )
                 print(md5.hexdigest())
@@ -39,11 +41,11 @@ class MainHandler(tornado.web.RequestHandler):
         except Exception as ex:
             self.write('{"success":1,"message":"JSON não pode ser parseado %s"}'%(ex))
 
-    def get(self):
-        self.set_header("Content-Type", 'application/json; charset="utf-8"')
-        if MainHandler.lista:
-            self.write(json.dumps(MainHandler.lista))
-            for data in MainHandler.lista:
+    def get(self, pk=None):
+        print(pk)
+        if self.lista:
+            self.write(json.dumps(self.lista))
+            for data in self.lista:
                 md5 = hashlib.md5()
                 md5.update( data['nome'] )
                 print(md5.hexdigest())
