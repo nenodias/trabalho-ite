@@ -1,0 +1,5 @@
+tornado
+reportlab
+jsonschema # talvez nã ovou usar
+motor # mongodb engine for tornado
+#pymongo #
