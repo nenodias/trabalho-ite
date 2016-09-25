@@ -1,10 +1,11 @@
+# -*- coding: utf-8 -*-
 import io
 from reportlab.pdfgen import canvas
 
 '''
-SEEK_SET or 0 – start of the stream (the default); offset should be zero or positive
-SEEK_CUR or 1 – current stream position; offset may be negative
-SEEK_END 
+SEEK_SET or 0 – Posição Inicial do arquivo
+SEEK_CUR or 1 – Posição Atual do arquivo whence é passado
+SEEK_END or 2 – Posição Final do arquivo
 '''
 
 def gerar_pdf():

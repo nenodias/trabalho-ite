@@ -1,6 +1,8 @@
+# -*- coding: utf-8 -*-
 import tornado.web
 import json
 import hashlib
+from tornado.escape import json_encode
 
 from relatorio import gerar_pdf
 

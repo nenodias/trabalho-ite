@@ -1,4 +1,4 @@
-# *-* coding:utf-8 *-*
+# -*- coding: utf-8 -*-
 import os, os.path,sys, getopt
 import tornado.ioloop
 import tornado.web
@@ -10,7 +10,7 @@ sys.setdefaultencoding("latin-1")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 settings = {
-    'debug': True,
+    'debug': False,
     "template_path": r"templates/",
     "static_path": os.path.join(BASE_DIR, 'static'),
     "static_url_prefix": "/static/",
