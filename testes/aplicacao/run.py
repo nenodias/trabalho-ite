@@ -2,7 +2,7 @@
 import os, os.path,sys, getopt
 import tornado.ioloop
 import tornado.web
-from controller import MainHandler, IndexHandler
+from controller import MainHandler, IndexHandler, RelatorioHandler
 
 reload(sys)
 sys.setdefaultencoding("latin-1")
@@ -19,7 +19,8 @@ settings = {
 def make_app():
     handlers = [
         (r"/", IndexHandler),
-        (r"/users", MainHandler)
+        (r"/users", MainHandler),
+        (r'/relatorio', RelatorioHandler)
     ]
     return tornado.web.Application(handlers, **settings)
 
