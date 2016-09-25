@@ -44,9 +44,19 @@ class UsersHandler(tornado.web.RequestHandler):
 
     def get(self, pk=None):
         self.set_header("Content-Type", "application/json")
+        self.set_status(200)
         if not pk:
             users = self.db.users.find()
             self.write( json.dumps( list(users), default=json_util.default ) )
         else:
             user = self.db.users.find({"_id" : ObjectId(pk) })
             self.write( json_util.dumps(user) )
+
+
+    def delete(self, pk=None):
+        if pk:
+            self.db.users.remove({"_id" : ObjectId(pk) })
+            self.set_status(200)
+        else:
+            self.set_status(500)
+
