@@ -4,16 +4,25 @@ import tornado.ioloop
 import tornado.web
 from controller import UsersHandler, IndexHandler, RelatorioHandler
 
+from pymongo import MongoClient
+
 reload(sys)
 sys.setdefaultencoding("latin-1")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
+MONGODB_DB_URL = os.environ.get('MONGODB_DB_URL') if os.environ.get('MONGODB_DB_URL') else 'mongodb://localhost:27017/'
+MONGODB_DB_NAME = os.environ.get('APP_NAME') if os.environ.get('APP_NAME') else 'users'
+ 
+client = MongoClient(MONGODB_DB_URL)
+db = client[MONGODB_DB_NAME]
+
 settings = {
-    'debug': False,
+    "debug": False,
     "template_path": r"templates/",
     "static_path": os.path.join(BASE_DIR, 'static'),
     "static_url_prefix": "/static/",
+    "db":db
     }
 
 def make_app():

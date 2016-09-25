@@ -4,7 +4,11 @@ import json
 import hashlib
 from tornado.escape import json_encode
 
+from bson import json_util
+from bson.objectid import ObjectId
+
 from relatorio import gerar_pdf
+from validation import validate_user
 
 class IndexHandler(tornado.web.RequestHandler):
 
@@ -21,33 +25,28 @@ class RelatorioHandler(tornado.web.RequestHandler):
 
 class UsersHandler(tornado.web.RequestHandler):
 
-    lista = []
-
     def prepare(self):
-        self.set_header("Content-Type", 'application/json; charset="utf-8"')
+        self.db = self.settings['db']
 
     def post(self, pk=None):
+        self.set_header("Content-Type", "application/json")
+        user_data = json.loads(self.request.body, encoding= "ISO-8859-1")
         try:
-            print(self.request.body.encode('utf-8') )
-            data = json.loads(self.request.body.encode('utf-8'))
-            if data.get('nome') and data.get('idade'):
-                self.lista.append(data)
-                md5 = hashlib.md5()
-                md5.update( data['nome'] )
-                print(md5.hexdigest())
-                self.write('{"success":1,"message":"OK"}')
-            else:
-                self.write('{"success":1,"message":"Objeto não contém os atributos nome e idade "}')
+            validate_user(user_data)
+            user_id = self.db.users.insert(user_data)
+            print('User created with id ' + str(user_id))
+            self.set_status(201)
         except Exception as ex:
-            self.write('{"success":1,"message":"JSON não pode ser parseado %s"}'%(ex))
+            message = {}
+            message['message'] = str(ex)
+            self.write( json_util.dumps(message) )
+            self.set_status(500)
 
     def get(self, pk=None):
-        print(pk)
-        if self.lista:
-            self.write(json.dumps(self.lista))
-            for data in self.lista:
-                md5 = hashlib.md5()
-                md5.update( data['nome'] )
-                print(md5.hexdigest())
+        self.set_header("Content-Type", "application/json")
+        if not pk:
+            users = self.db.users.find()
+            self.write( json.dumps( list(users), default=json_util.default ) )
         else:
-            self.write('[]')
+            user = self.db.users.find({"_id" : ObjectId(pk) })
+            self.write( json_util.dumps(user) )
