@@ -101,4 +101,6 @@ d. Recuperação de Dados em Formato Criptografado //*****
 
 1.3 - Metodologia
 
-O Trabalho foi desenvolvido em ambiente Linux, e todos os scripts foram executados a partir dos interpretadores instalados por meio do pyenv, que gerencia diferentes versões do python em uma mesma máquina.
+Esse trabalho é baseado em um estudo prático sobre a performance de um servidor web assíncrono em um ambiente controlado. As situações e cenários escolhidos foram selecionados para abranger de âmbito geral os cenários característicos de um sistemas web.
+
+(Colocar alguma coisa sobre pesquisas que utilizam dados quantitativos)
