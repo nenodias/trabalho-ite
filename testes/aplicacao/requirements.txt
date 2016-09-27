@@ -2,5 +2,4 @@ tornado
 reportlab
 jsonschema
 pymongo
-bson
 PollyReports
