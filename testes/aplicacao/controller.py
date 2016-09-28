@@ -8,7 +8,9 @@ from bson import json_util
 from bson.objectid import ObjectId
 
 from relatorio import gerar_pdf
-from validation import validate_user
+from validation import validate_user, serializar
+
+from datetime import datetime, date
 
 class IndexHandler(tornado.web.RequestHandler):
 
@@ -17,11 +19,18 @@ class IndexHandler(tornado.web.RequestHandler):
 
 class RelatorioHandler(tornado.web.RequestHandler):
 
+    def prepare(self):
+        self.db = self.settings['db']
+
     def get(self):
         self.set_header("Content-Type", 'application/pdf; charset="utf-8"')
         self.set_header("Content-Disposition", 'inline; filename="filename.pdf') # Visualizar
         #self.set_header("Content-Disposition", "attachment; filename=test.pdf") # Download
-        self.write(gerar_pdf().read())
+        users = self.db.users.find()
+        dados = []
+        for user in users:
+            dados.append(serializar(user))
+        self.write(gerar_pdf(dados).read())
 
 class UsersHandler(tornado.web.RequestHandler):
 
@@ -32,7 +41,7 @@ class UsersHandler(tornado.web.RequestHandler):
         self.set_header("Content-Type", "application/json")
         user_data = json.loads(self.request.body, encoding= "ISO-8859-1")
         try:
-            validate_user(user_data)
+            validate_user(user_data)            
             user_id = self.db.users.insert(user_data)
             print('User created with id ' + str(user_id))
             self.set_status(201)
@@ -47,7 +56,10 @@ class UsersHandler(tornado.web.RequestHandler):
         self.set_status(200)
         if not pk:
             users = self.db.users.find()
-            self.write( json.dumps( list(users), default=json_util.default ) )
+            dados = []
+            for user in users:
+                dados.append( serializar(user) )
+            self.write( json.dumps( dados ) )
         else:
             user = self.db.users.find({"_id" : ObjectId(pk) })
             self.write( json_util.dumps(user) )
