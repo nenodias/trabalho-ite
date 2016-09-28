@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import io
 from reportlab.pdfgen import canvas
+from reportlab.platypus import BaseDocTemplate, PageTemplate
 
 '''
 SEEK_SET or 0 – Posição Inicial do arquivo
