@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block conteudo %}
+<div class="mdl-grid">
+    
+    <div class="mdl-cell mdl-cell--12-col">
+        <h3>Usuários</h3>
+        <div class="background-cinza">
+            <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp mdl-data-table--selectable">
+                <thead>
+                    <tr>
+                        <th class="mdl-data-table__cell--non-numeric">Nome</th>
+                        <th>E-mail</th>
+                        <th>Data Nascimento</th>
+                        <th>CPF</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% if usuarios %}
+                        {% for u in usuarios %}
+                        <tr>
+                            <td class="mdl-data-table__cell--non-numeric">{{ u['nome'] }}</td>
+                            <td>{{ u['email'] }}</td>
+                            <td>{{ u['data_nascimento'] }}</td>
+                            <td>{{ u['cpf'] }}</td>
+                        </tr>
+                        {% end %}
+                    {% else %}
+                    <tr>
+                        <td colspan="4">Nenhum usuário encontrado</td>
+                    </tr>
+                    {% end %}
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+</div>
+{% end %}

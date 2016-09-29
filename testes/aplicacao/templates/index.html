@@ -1,163 +1,65 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="UTF-8">
-    <title>Material Design Lite</title>
-    <link rel="stylesheet" type="text/css" href="static/mdl/material.css">
-    <link rel="stylesheet" type="text/css" href="static/mdl/fonts/icon.css">
-    <link rel="shortcut icon" type="image/ico" href="/static/favicon.ico"/>
-    <script type="text/javascript" src="static/mdl/material.js"></script>
-</head>
-<body>
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-        <header class="mdl-layout__header">
-            <div class="mdl-layout__header-row ">
-                <span class="mdl-layout-title">Aplicação</span>
-                <div class="mdl-layout-spacer"></div>
-            </div>
-        </header>
-        <div class="mdl-layout__drawer">
-            <span class="mdl-layout-title">Menu</span>
-            <nav class="mdl-navigation">
-                <a href="#" class="mdl-navigation__link">Usuários</a>
-                <a href="/relatorio" class="mdl-navigation__link">Relatórios</a>
-            </nav>
-        </div>
-        <div class="mdl-layout__content">
-            <main>
-                <h3>{{mensagem}}</h3>
-                <div class="mdl-grid">
+{% extends "base.html" %}
+{% block conteudo %}
+<h3>{{mensagem}}</h3>
+<div class="mdl-grid">
 
-                    <div class="mdl-cell mdl-cell--4-col">
-                        <h3>Text Fields</h3>
-                        <div class="background-cinza">
-                            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                                <input class="mdl-textfield__input" type="text" id="usuario" pattern="[A-Z,a-z, ]*" />
-                                <label class="mdl-textfield__label" for="usuario">
-                                    Usuário
-                                </label>
-                                <span class="mdl-textfield__error">
-                                    Apenas Letras e Espaços
-                                </span>
-                            </div>
-
-                            <div class="mdl-textfield mdl-js-textfield">
-                                <input class="mdl-textfield__input" type="text" id="numero" pattern="[0-9]*" />
-                                <label class="mdl-textfield__label" for="numero">
-                                    Número
-                                </label>
-                                <span class="mdl-textfield__error">
-                                    Apenas Números
-                                </span>
-                            </div>
-
-                            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                                <textarea class="mdl-textfield__input" id="end"></textarea>
-                                <label class="mdl-textfield__label" for="usuario">
-                                    Usuário
-                                </label>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-
-                    <div class="mdl-cell mdl-cell--6-col">
-                        <h3>Tabelas</h3>
-                        <div class="background-cinza">
-                            <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp mdl-data-table--selectable">
-                                <thead>
-                                    <tr>
-                                        <th class="mdl-data-table__cell--non-numeric">Nome</th>
-                                        <th>Idade</th>
-                                        <th>Id</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td class="mdl-data-table__cell--non-numeric">João Gabriel</td>
-                                        <td>22</td>
-                                        <td>9807</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="mdl-data-table__cell--non-numeric">Juliano Gomes Junior</td>
-                                        <td>25</td>
-                                        <td>9808</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="mdl-data-table__cell--non-numeric">Arthur Gabriel de Lira</td>
-                                        <td>20</td>
-                                        <td>9809</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="mdl-data-table__cell--non-numeric">Manuela Joaquina Santos</td>
-                                        <td>21</td>
-                                        <td>9810</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-
-                    <div class="mdl-cell mdl-cell--6-col">
-                        <h3>Tooltips</h3>
-                        <div class="background-cinza">
-                            <p>
-                                <span id="tool1">HTML</span>
-                            </p>
-                            <span class="mdl-tooltip" for="tool1">HyperText Markup Language</span>
-
-                            <span class="mdl-tooltip" for="tool2">
-                                <b>H</b>yper<b>T</b>ext <b>M</b>arkup <b>L</b>anguage
-                            </span>
-                            <p>
-                                A Linguagem de Narcação mais utilizada na web é o <span id="tool2">HTML</span>
-                            </p>
-
-                            <p>
-                                <span id="tool3">HTML</span>
-                            </p>
-                            <span class="mdl-tooltip mdl-tooltip--large" for="tool3">HyperText Markup Language</span>
-
-                            <span class="mdl-tooltip" for="tool4">
-                                <b>H</b>yper<b>T</b>ext <b>M</b>arkup <b>L</b>anguage <br/>Linguagem de Marcação de Hipertextos
-                            </span>
-                            <p>
-                                A Linguagem de Narcação mais utilizada na web é o <span id="tool4">HTML</span>
-                            </p>
-
-
-                            <p>
-                                <span id="tool5">HTML</span>
-                            </p>
-                        </div>
-                    </div>
-
-
-
-                    <div class="mdl-cell mdl-cell--6-col">
-                        <h3>Menus</h3>
-                        <div class="background-cinza">
-                            
-
-                        </div>
-                    </div>
-
-
-                </div>
-            </main>
-
-            <footer class="mdl-mega-footer">
-                <div class="mdl-mega-footer--bottom-section">
-                    <span class="mdl-logo">Links Uteis</span>
-                    <ul class="mdl-mega-footer--link-list">
-                        <li><a href="#">Canal no Youtube</a></li>
-                        <li><a href="#">Twitter</a></li>
-                    </ul>
-                </div>
-            </footer>
+    <div class="mdl-cell mdl-cell--6-col">
+        <h3>Python</h3>
+        <img src="/static/img/python-logo.png" />
+        <div class="background-cinza">
+            <ul>
+                <li>Comunidade</li>
+                <li>Programas Legíveis</li>
+                <li>Integração com C</li>
+            </ul>
         </div>
     </div>
-</body>
-</html>
+    
+
+    <div class="mdl-cell mdl-cell--6-col">
+        <h3>Pypy</h3>
+        <img src="/static/img/pypy-logo.png" />
+        <div class="background-cinza">
+            <ul>
+                <li>JIT</li>
+                <li>Velocidade</li>
+                <li>Possibilidade de integrar com Stackless</li>
+                <li>Sandbox</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="mdl-cell mdl-cell--6-col">
+        <h3>Cursos</h3>
+        <div class="background-cinza">
+            <h4>Python para Zumbis</h4>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/6La690qlH5w?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+    
+
+    <div class="mdl-cell mdl-cell--6-col">
+        <h3>Comunidade</h3>
+        <div class="background-cinza">
+            <ul>
+                <li>
+                    <a href="http://python.org.br/">Python Brasil</a>
+                </li>
+                <li>
+                    <a href="http://wiki.python.org.br/">Wiki Python Brasil</a>
+                </li>
+                <li>
+                    <a href="http://pythonclub.com.br/">Python Club</a>
+                </li>
+                <li>
+                    <a href="http://www.djangobrasil.org/">Django Brasil</a>
+                </li>
+                <li>
+                    <a href="https://tutorial.djangogirls.org/pt/">Tutorial Django Girls</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+{% end %}

@@ -2,7 +2,7 @@
 import os, os.path,sys, getopt
 import tornado.ioloop
 import tornado.web
-from controller import UsersHandler, IndexHandler, RelatorioHandler
+from controller import UsersHandler, UsersAPIHandler, IndexHandler, RelatorioHandler
 
 from pymongo import MongoClient
 
@@ -28,7 +28,8 @@ settings = {
 def make_app():
     handlers = [
         (r"/", IndexHandler),
-        (r"/users/(?P<pk>[^\/]+)?", UsersHandler),
+        (r"/users", UsersHandler),
+        (r"/users/(?P<pk>[^\/]+)?", UsersAPIHandler),
         (r'/relatorio', RelatorioHandler)
     ]
     return tornado.web.Application(handlers, **settings)

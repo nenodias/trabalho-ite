@@ -17,6 +17,18 @@ class IndexHandler(tornado.web.RequestHandler):
     def get(self):
         self.render('index.html',mensagem='Bem-Vindo!')
 
+class UsersHandler(tornado.web.RequestHandler):
+
+    def prepare(self):
+        self.db = self.settings['db']
+
+    def get(self):
+        users = self.db.users.find()
+        dados = []
+        for user in users:
+            dados.append(serializar(user))
+        self.render('usuarios.html',usuarios=dados)
+
 class RelatorioHandler(tornado.web.RequestHandler):
 
     def prepare(self):
@@ -32,7 +44,7 @@ class RelatorioHandler(tornado.web.RequestHandler):
             dados.append(serializar(user))
         self.write(gerar_pdf(dados).read())
 
-class UsersHandler(tornado.web.RequestHandler):
+class UsersAPIHandler(tornado.web.RequestHandler):
 
     def prepare(self):
         self.db = self.settings['db']
