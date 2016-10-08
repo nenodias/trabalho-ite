@@ -3,3 +3,4 @@ reportlab
 jsonschema
 pymongo
 PollyReports
+gunicorn
