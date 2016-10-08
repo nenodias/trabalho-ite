@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1475950837776,1314,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-93,text,true,,48506,301,301,1313,0
+1475950837733,1384,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-36,text,true,,48520,302,302,1384,0
+1475950837733,1453,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-14,text,true,,48518,308,308,1453,0
+1475950837731,1666,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-81,text,true,,48512,323,323,1665,0
+1475950837773,1826,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-92,text,true,,48506,343,343,1826,0
+1475950837732,2143,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-80,text,true,,48506,371,371,2143,0
+1475950837753,2312,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-15,text,true,,48518,387,387,2312,0
+1475950837738,2745,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-18,text,true,,48506,427,427,2744,0
+1475950837738,2773,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-52,text,true,,48506,429,429,2772,0
+1475950837733,2810,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-83,text,true,,48520,432,432,2806,0
+1475950837737,2914,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-84,text,true,,48518,441,441,2914,0
+1475950837953,2935,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-173,text,true,,48512,465,465,2935,0
+1475950837983,3173,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-187,text,true,,48506,492,492,3173,0
+1475950837980,3226,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-186,text,true,,48506,494,494,3226,0
+1475950837732,3746,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-7,text,true,,48520,515,515,3746,0
+1475950837979,3523,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-185,text,true,,48518,514,514,3523,0
+1475950837961,3646,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-174,text,true,,48512,514,514,3645,0
+1475950837978,3777,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-184,text,true,,48506,533,533,3776,0
+1475950837976,4064,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-183,text,true,,48520,575,575,4064,0
+1475950837740,4321,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-54,text,true,,48506,577,577,4321,0
+1475950837975,4341,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-182,text,true,,48512,597,597,4341,0
+1475950837740,4586,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-47,text,true,,48506,596,596,4586,0
+1475950837741,4711,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-10,text,true,,48518,621,621,4711,0
+1475950837970,4857,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-179,text,true,,48512,651,651,4856,0
+1475950837973,4867,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-181,text,true,,48520,651,651,4864,0
+1475950837969,4889,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-178,text,true,,48506,652,652,4889,0
+1475950837972,4920,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-180,text,true,,48506,655,655,4920,0
+1475950837967,5093,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-177,text,true,,48518,669,669,5093,0
+1475950837964,5458,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-176,text,true,,48512,701,701,5458,0
+1475950837838,5648,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-21,text,true,,48506,714,714,5648,0
+1475950837837,5684,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-126,text,true,,48506,716,716,5684,0
+1475950837962,5699,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-175,text,true,,48520,730,730,5699,0
+1475950837839,5942,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-127,text,true,,48518,742,742,5942,0
+1475950837839,6105,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-46,text,true,,48512,756,756,6105,0
+1475950838026,6032,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-188,text,true,,48506,766,766,6032,0
+1475950838030,6230,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-189,text,true,,48506,785,785,6230,0
+1475950838050,6229,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-190,text,true,,48520,786,786,6229,0
+1475950838077,6505,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-192,text,true,,48512,816,816,6505,0
+1475950838083,6691,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-195,text,true,,48520,831,831,6691,0
+1475950838067,6771,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-191,text,true,,48518,838,838,6770,0
+1475950838081,6774,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-194,text,true,,48506,837,837,6773,0
+1475950838079,7036,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-193,text,true,,48506,860,860,7036,0
+1475950838085,7037,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-196,text,true,,48512,859,859,7037,0
+1475950838088,7311,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-198,text,true,,48518,903,903,7311,0
+1475950838090,7346,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-200,text,true,,48506,904,904,7345,0
+1475950838086,7439,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-197,text,true,,48520,914,914,7439,0
+1475950838091,7709,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-201,text,true,,48506,945,945,7709,0
+1475950838093,7791,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-199,text,true,,48512,953,953,7782,0
+1475950838095,7903,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-203,text,true,,48518,952,952,7902,0
+1475950838098,8057,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-205,text,true,,48520,951,951,8057,0
+1475950838096,8168,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-204,text,true,,48506,950,950,8168,0
+1475950838100,8278,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-206,text,true,,48506,949,949,8278,0
+1475950838102,8309,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-207,text,true,,48512,948,948,8309,0
+1475950838103,8624,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-202,text,true,,48518,947,947,8624,0
+1475950838105,8697,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-209,text,true,,48506,946,946,8697,0
+1475950838103,8712,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-208,text,true,,48520,945,945,8712,0
+1475950838107,8902,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-210,text,true,,48506,944,944,8902,0
+1475950838109,9085,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-211,text,true,,48512,943,943,9085,0
+1475950838114,9177,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-214,text,true,,48520,942,942,9177,0
+1475950838111,9273,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-212,text,true,,48518,941,941,9273,0
+1475950838112,9357,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-213,text,true,,48506,940,940,9357,0
+1475950838130,9480,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-215,text,true,,48506,939,939,9480,0
+1475950838132,9635,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-216,text,true,,48512,938,938,9634,0
+1475950838134,9862,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-217,text,true,,48520,937,937,9849,0
+1475950838144,9857,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-219,text,true,,48506,936,936,9857,0
+1475950838138,9888,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-218,text,true,,48518,935,935,9888,0
+1475950838164,10244,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-220,text,true,,48506,934,934,10244,0
+1475950838165,10289,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-221,text,true,,48512,933,933,10288,0
+1475950838166,10331,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-222,text,true,,48520,932,932,10331,0
+1475950838170,10409,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-224,text,true,,48518,931,931,10408,0
+1475950838168,10498,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-223,text,true,,48506,930,930,10497,0
+1475950838217,10782,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-226,text,true,,48512,929,929,10782,0
+1475950838247,10787,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-228,text,true,,48518,928,928,10787,0
+1475950838201,10863,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-225,text,true,,48506,927,927,10863,0
+1475950838269,10983,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-229,text,true,,48506,926,926,10982,0
+1475950838238,11022,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-227,text,true,,48520,925,925,11022,0
+1475950838283,11224,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-231,text,true,,48518,924,924,11224,0
+1475950838269,11267,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-230,text,true,,48512,923,923,11267,0
+1475950838292,11484,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-232,text,true,,48506,922,922,11483,0
+1475950838313,11530,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-234,text,true,,48520,921,921,11530,0
+1475950838306,11575,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-233,text,true,,48506,920,920,11574,0
+1475950838352,11741,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-236,text,true,,48512,919,919,11741,0
+1475950838338,11917,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-235,text,true,,48518,918,918,11917,0
+1475950838363,11955,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-237,text,true,,48506,917,917,11955,0
+1475950838378,12038,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-238,text,true,,48520,916,916,12038,0
+1475950838393,12044,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-239,text,true,,48506,915,915,12044,0
+1475950838413,12405,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-241,text,true,,48518,914,914,12405,0
+1475950838409,12445,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-240,text,true,,48512,913,913,12445,0
+1475950838431,12496,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-243,text,true,,48520,912,912,12495,0
+1475950838423,12663,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-242,text,true,,48506,911,911,12662,0
+1475950838444,12657,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-244,text,true,,48506,910,910,12657,0
+1475950838457,12909,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-245,text,true,,48518,909,909,12909,0
+1475950838474,12934,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-246,text,true,,48512,908,908,12933,0
+1475950838475,12983,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-247,text,true,,48520,907,907,12983,0
+1475950838489,13061,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-248,text,true,,48506,906,906,13061,0
+1475950838498,13256,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-249,text,true,,48506,905,905,13256,0
+1475950838540,13371,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-252,text,true,,48520,904,904,13371,0
+1475950838515,13500,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-251,text,true,,48512,903,903,13500,0
+1475950838506,13641,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-250,text,true,,48518,902,902,13641,0
+1475950838549,13753,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-253,text,true,,48506,901,901,13752,0
+1475950838550,13900,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-254,text,true,,48506,900,900,13900,0
+1475950838571,13883,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-256,text,true,,48512,899,899,13883,0
+1475950838556,14125,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-255,text,true,,48520,898,898,14125,0
+1475950838595,14256,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-258,text,true,,48506,897,897,14255,0
+1475950838577,14337,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-257,text,true,,48518,896,896,14337,0
+1475950838631,14300,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-259,text,true,,48506,895,895,14300,0
+1475950838634,14430,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-260,text,true,,48512,894,894,14429,0
+1475950838637,14636,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-261,text,true,,48520,893,893,14636,0
+1475950838650,14698,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-262,text,true,,48506,892,892,14698,0
+1475950838673,14854,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-264,text,true,,48506,891,891,14854,0
+1475950838685,14901,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-265,text,true,,48512,890,890,14901,0
+1475950838650,14973,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-263,text,true,,48518,889,889,14973,0
+1475950838707,15105,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-267,text,true,,48506,888,888,15105,0
+1475950838690,15273,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-266,text,true,,48520,887,887,15273,0
+1475950838716,15339,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-269,text,true,,48512,886,886,15339,0
+1475950838712,15410,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-268,text,true,,48506,885,885,15410,0
+1475950838731,15649,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-271,text,true,,48506,884,884,15649,0
+1475950838722,15727,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-270,text,true,,48518,883,883,15726,0
+1475950838753,15812,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-273,text,true,,48512,882,882,15812,0
+1475950838737,15902,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-272,text,true,,48520,881,881,15902,0
+1475950838762,15901,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-274,text,true,,48506,880,880,15901,0
+1475950838769,16140,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-275,text,true,,48506,879,879,16140,0
+1475950838820,16259,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-279,text,true,,48506,878,878,16258,0
+1475950838780,16327,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-276,text,true,,48518,877,877,16327,0
+1475950838810,16312,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-278,text,true,,48520,876,876,16312,0
+1475950838797,16404,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-277,text,true,,48512,875,875,16404,0
+1475950838831,16596,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-280,text,true,,48506,874,874,16596,0
+1475950838839,16835,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-281,text,true,,48506,873,873,16835,0
+1475950838867,16855,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-283,text,true,,48520,872,872,16855,0
+1475950838888,16837,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-284,text,true,,48512,871,871,16837,0
+1475950838853,17052,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-282,text,true,,48518,870,870,17052,0
+1475950838889,17040,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-285,text,true,,48506,869,869,17040,0
+1475950839055,17090,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-298,text,true,,48512,868,868,17090,0
+1475950838898,17334,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-286,text,true,,48506,867,867,17334,0
+1475950838922,17447,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-287,text,true,,48520,866,866,17447,0
+1475950839204,17308,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-312,text,true,,48506,865,865,17308,0
+1475950839403,17225,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-327,text,true,,48512,864,864,17225,0
+1475950839129,17529,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-305,text,true,,48518,863,863,17528,0
+1475950839608,17246,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-348,text,true,,48506,862,862,17246,0
+1475950839892,17062,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-377,text,true,,48520,861,861,17061,0
+1475950840067,16973,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-394,text,true,,48506,860,860,16961,0
+1475950840486,16653,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-435,text,true,,48512,859,859,16653,0
+1475950839515,17723,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-337,text,true,,48518,858,858,17723,0
+1475950838948,18494,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-288,text,true,,48506,857,857,18493,0
+1475950839656,17864,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-353,text,true,,48520,856,856,17864,0
+1475950839894,17657,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-378,text,true,,48506,855,855,17657,0
+1475950840161,17537,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-402,text,true,,48512,854,854,17537,0
+1475950840496,17424,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-436,text,true,,48506,853,853,17424,0
+1475950840210,17785,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-406,text,true,,48518,852,852,17785,0
+1475950840518,17571,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-438,text,true,,48520,851,851,17571,0
+1475950840209,17883,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-405,text,true,,48506,850,850,17882,0
+1475950840760,17549,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-465,text,true,,48512,849,849,17549,0
+1475950839063,19461,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-299,text,true,,48518,848,848,19461,0
+1475950839330,19242,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-323,text,true,,48506,847,847,19242,0
+1475950842043,16551,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-594,text,true,,48506,846,846,16551,0
+1475950839330,19388,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-322,text,true,,48520,845,845,19388,0
+1475950839452,19336,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-332,text,true,,48512,844,844,19335,0
+1475950839855,19195,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-375,text,true,,48506,843,843,19195,0
+1475950842831,16328,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-675,text,true,,48518,842,842,16328,0
+1475950841904,17278,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-580,text,true,,48520,841,841,17277,0
+1475950841844,17365,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-574,text,true,,48506,840,840,17365,0
+1475950840414,19150,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-426,text,true,,48506,839,839,19149,0
+1475950843487,16148,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-744,text,true,,48518,838,838,16148,0
+1475950840519,19137,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-439,text,true,,48520,837,837,19137,0
+1475950843066,16608,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-698,text,true,,48512,836,836,16608,0
+1475950843671,16055,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-763,text,true,,48506,835,835,16055,0
+1475950843783,16277,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-775,text,true,,48506,834,834,16276,0
+1475950843060,17070,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-697,text,true,,48520,833,833,17070,0
+1475950843945,16303,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-790,text,true,,48518,832,832,16293,0
+1475950844263,16018,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-821,text,true,,48512,831,831,16018,0
+1475950841283,19265,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-515,text,true,,48506,830,830,19265,0
+1475950844777,15814,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-870,text,true,,48520,829,829,15814,0
+1475950841960,18797,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-585,text,true,,48506,828,828,18784,0
+1475950844860,15922,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-878,text,true,,48512,827,827,15921,0
+1475950843840,16967,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-782,text,true,,48518,826,826,16967,0
+1475950844133,16941,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-809,text,true,,48520,825,825,16940,0
+1475950845441,15859,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-949,text,true,,48512,824,824,15859,0
+1475950844120,17213,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-808,text,true,,48506,823,823,17212,0
+1475950844529,16815,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-847,text,true,,48518,822,822,16811,0
+1475950842402,18984,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-639,text,true,,48506,821,821,18983,0
+1475950842799,18683,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-671,text,true,,48520,820,820,18683,0
+1475950845159,16634,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-905,text,true,,48518,819,819,16634,0
+1475950844890,16984,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-879,text,true,,48512,818,818,16984,0
+1475950843387,18556,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-727,text,true,,48520,817,817,18556,0
+1475950842999,19009,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-692,text,true,,48506,816,816,19008,0
+1475950843267,18801,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-715,text,true,,48506,815,815,18801,0
+1475950845416,16933,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-947,text,true,,48518,814,814,16933,0
+1475950839390,23049,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-326,text,true,,48520,813,813,23049,0
+1475950845725,16806,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-981,text,true,,48512,812,812,16806,0
+1475950843412,19151,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-729,text,true,,48506,811,811,19150,0
+1475950843818,18818,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-779,text,true,,48506,810,810,18818,0
+1475950844469,18529,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-842,text,true,,48506,809,809,18529,0
+1475950840192,22821,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-404,text,true,,48518,808,808,22821,0
+1475950840289,22741,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-413,text,true,,48520,807,807,22740,0
+1475950840608,22470,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-447,text,true,,48506,806,806,22470,0
+1475950840387,22759,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-424,text,true,,48512,805,805,22759,0
+1475950840992,22463,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-487,text,true,,48520,804,804,22463,0
+1475950844772,18805,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-869,text,true,,48506,803,803,18805,0
+1475950844998,18621,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-890,text,true,,48518,802,802,18620,0
+1475950845023,18598,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-892,text,true,,48506,801,801,18598,0
+1475950845424,18332,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-948,text,true,,48512,800,800,18331,0
+1475950845457,18401,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-952,text,true,,48520,799,799,18399,0
+1475950842401,21660,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-638,text,true,,48506,798,798,21660,0
+1475950838998,25178,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-294,text,true,,48512,797,797,25178,0
+1475950840960,23328,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-484,text,true,,48506,796,796,23328,0
+1475950845583,18709,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-964,text,true,,48518,795,795,18709,0
+1475950842059,22478,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-596,text,true,,48506,794,794,22478,0
+1475950842032,22541,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-592,text,true,,48520,793,793,22541,0
+1475950842257,22528,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-614,text,true,,48512,792,792,22528,0
+1475950842511,22346,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-647,text,true,,48518,791,791,22346,0
+1475950842765,22220,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-669,text,true,,48520,790,790,22220,0
+1475950842068,22953,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-597,text,true,,48506,789,789,22953,0
+1475950842533,22519,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-649,text,true,,48506,788,788,22519,0
+1475950842037,23233,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-593,text,true,,48512,787,787,23233,0
+1475950842873,22593,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-678,text,true,,48518,786,786,22593,0
+1475950843092,22423,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-700,text,true,,48520,785,785,22423,0
+1475950843310,22306,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-719,text,true,,48506,784,784,22306,0
+1475950843249,22459,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-713,text,true,,48506,783,783,22459,0
+1475950842425,23362,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-641,text,true,,48512,782,782,23362,0
+1475950843813,22122,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-778,text,true,,48520,781,781,22121,0
+1475950843020,23061,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-693,text,true,,48518,780,780,23060,0
+1475950843920,22192,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-789,text,true,,48506,779,779,22192,0
+1475950843884,22330,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-785,text,true,,48506,778,778,22330,0
+1475950844085,22187,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-803,text,true,,48512,777,777,22187,0
+1475950844098,22483,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-806,text,true,,48520,776,776,22483,0
+1475950842773,23812,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-670,text,true,,48518,775,775,23812,0
+1475950844474,22266,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-834,text,true,,48506,774,774,22266,0
+1475950841424,25335,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-526,text,true,,48506,773,773,25335,0
+1475950844549,22433,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-850,text,true,,48512,772,772,22433,0
+1475950844092,22951,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-805,text,true,,48518,771,771,22950,0
+1475950844548,22558,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-849,text,false,,2244,770,770,0,0
+1475950842400,24709,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-637,text,false,,2244,769,769,0,0
+1475950842014,25096,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-591,text,false,,2244,768,768,0,0
+1475950845144,22157,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-904,text,true,,48506,767,767,22157,0
+1475950845443,22084,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-951,text,true,,48518,766,766,22084,0
+1475950845470,22104,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-954,text,true,,48512,765,765,22103,0
+1475950845462,22138,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-953,text,true,,48520,764,764,22138,0
+1475950845442,22296,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-950,text,true,,48506,763,763,22296,0
+1475950838950,28952,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-290,text,true,,48506,762,762,28952,0
+1475950839951,28060,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-384,text,true,,48518,761,761,28060,0
+1475950843732,24368,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-769,text,false,,2244,760,760,0,0
+1475950845819,22281,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-994,text,false,,2244,759,759,0,0
+1475950837922,30179,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-161,text,false,,2629,758,758,0,0
+1475950837738,30363,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-16,text,false,,2629,758,758,0,0
+1475950837837,30264,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-49,text,false,,2629,758,758,0,0
+1475950837770,30334,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-91,text,false,,2629,756,756,0,0
+1475950837705,30399,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-56,text,false,,2629,755,755,0,0
+1475950837935,30170,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-168,text,false,,2629,754,754,0,0
+1475950837743,30361,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-41,text,false,,2629,753,753,0,0
+1475950837723,30381,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-78,text,false,,2629,752,752,0,0
+1475950837717,30386,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-55,text,false,,2629,751,751,0,0
+1475950837718,30389,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-17,text,false,,2629,751,751,0,0
+1475950837753,30355,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-44,text,false,,2629,749,749,0,0
+1475950837878,30232,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-144,text,false,,2629,748,748,0,0
+1475950837912,30191,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-158,text,false,,2629,747,747,0,0
+1475950843431,24683,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-730,text,false,,2244,745,745,0,0
+1475950845851,22266,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-997,text,false,,2244,744,744,0,0
+1475950837756,30364,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-87,text,false,,2244,743,743,0,0
+1475950845680,22440,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-976,text,false,,2244,743,743,0,0
+1475950837709,30414,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-28,text,false,,2629,741,741,0,0
+1475950837710,30415,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-71,text,false,,2629,740,740,0,0
+1475950837877,30246,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-143,text,false,,2629,739,739,0,0
+1475950837794,30331,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-102,text,false,,2629,739,739,0,0
+1475950837823,30302,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-3,text,false,,2629,738,738,0,0
+1475950837761,30366,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-1,text,false,,2629,736,736,0,0
+1475950837910,30237,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-157,text,false,,2629,735,735,0,0
+1475950837735,30413,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-9,text,false,,2629,734,734,0,0
+1475950837822,30325,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-51,text,false,,2629,733,733,0,0
+1475950837917,30231,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-159,text,false,,2629,732,732,0,0
+1475950837716,30431,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-53,text,false,,2629,731,731,0,0
+1475950837704,30446,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-67,text,false,,2629,730,730,0,0
+1475950837715,30435,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-74,text,false,,2629,730,730,0,0
+1475950837805,30347,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-109,text,false,,2629,728,728,0,0
+1475950837761,30391,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-89,text,false,,2629,727,727,0,0
+1475950837803,30350,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-108,text,false,,2629,726,726,0,0
+1475950837819,30336,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-118,text,false,,2629,725,725,0,0
+1475950837849,30303,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-132,text,false,,2629,724,724,0,0
+1475950837819,30310,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-25,text,false,,2629,723,723,0,0
+1475950837852,30304,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-133,text,false,,2629,723,723,0,0
+1475950837892,30266,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-149,text,false,,2629,721,721,0,0
+1475950837758,30400,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-88,text,false,,2629,721,721,0,0
+1475950837754,30405,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-43,text,false,,2629,719,719,0,0
+1475950837830,30329,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-122,text,false,,2629,719,719,0,0
+1475950837834,30327,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-124,text,false,,2629,717,717,0,0
+1475950837819,30342,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-117,text,false,,2629,717,717,0,0
+1475950837854,30308,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-134,text,false,,2629,715,715,0,0
+1475950837809,30363,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-57,text,false,,2629,715,715,0,0
+1475950837858,30316,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-137,text,false,,2629,714,714,0,0
+1475950837883,30293,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-147,text,false,,2629,712,712,0,0
+1475950837829,30348,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-123,text,false,,2629,712,712,0,0
+1475950837824,30354,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-120,text,false,,2629,711,711,0,0
+1475950837843,30337,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-129,text,false,,2629,710,710,0,0
+1475950837923,30258,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-162,text,false,,2629,709,709,0,0
+1475950837749,30432,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-86,text,false,,2629,709,709,0,0
+1475950837743,30440,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-34,text,false,,2629,707,707,0,0
+1475950837801,30383,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-106,text,false,,2629,706,706,0,0
+1475950837792,30394,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-101,text,false,,2629,705,705,0,0
+1475950837785,30403,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-97,text,false,,2629,704,704,0,0
+1475950837749,30440,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-40,text,false,,2629,703,703,0,0
+1475950837742,30449,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-42,text,false,,2629,702,702,0,0
+1475950837713,30480,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-73,text,false,,2629,701,701,0,0
+1475950837866,30329,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-142,text,false,,2629,701,701,0,0
+1475950837932,30265,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-166,text,false,,2629,700,700,0,0
+1475950837719,30481,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-77,text,false,,2629,699,699,0,0
+1475950837816,30387,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-115,text,false,,2629,698,698,0,0
+1475950837826,30379,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-121,text,false,,2629,697,697,0,0
+1475950837812,30394,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-65,text,false,,2629,696,696,0,0
+1475950837817,30391,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-29,text,false,,2629,695,695,0,0
+1475950837752,30458,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-37,text,false,,2629,695,695,0,0
+1475950837808,30404,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-111,text,false,,2629,695,695,0,0
+1475950837735,30478,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-13,text,false,,2629,695,695,0,0
+1475950837745,30469,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-8,text,false,,2629,695,695,0,0
+1475950837880,30335,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-145,text,false,,2629,695,695,0,0
+1475950837940,30276,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-169,text,false,,2629,695,695,0,0
+1475950837806,30412,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-110,text,false,,2629,695,695,0,0
+1475950837900,30319,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-150,text,false,,2629,695,695,0,0
+1475950837787,30433,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-98,text,false,,2629,695,695,0,0
+1475950837845,30378,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-130,text,false,,2629,695,695,0,0
+1475950837719,30505,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-45,text,false,,2629,695,695,0,0
+1475950837885,30341,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-148,text,false,,2629,695,695,0,0
+1475950837716,30512,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-75,text,false,,2629,695,695,0,0
+1475950837942,30287,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-170,text,false,,2244,695,695,0,0
+1475950845716,22412,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-980,text,false,,2244,694,694,0,0
+1475950837942,30304,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-171,text,false,,2629,694,694,0,0
+1475950837902,30344,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-151,text,false,,2629,694,694,0,0
+1475950837703,30543,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-6,text,false,,2629,694,694,0,0
+1475950837824,30423,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-20,text,false,,2629,694,694,0,0
+1475950837816,30417,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-116,text,false,,2244,694,694,0,0
+1475950837718,30529,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-48,text,false,,2629,694,694,0,0
+1475950837833,30407,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-24,text,false,,2244,694,694,0,0
+1475950837763,30482,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-90,text,false,,2629,694,694,0,0
+1475950837945,30302,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-172,text,false,,2629,694,694,0,0
+1475950837790,30455,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-100,text,false,,2629,694,694,0,0
+1475950837788,30457,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-99,text,false,,2629,694,694,0,0
+1475950837718,30527,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-76,text,false,,2629,694,694,0,0
+1475950837930,30315,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-165,text,false,,2629,694,694,0,0
+1475950837743,30501,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-2,text,false,,2629,694,694,0,0
+1475950837747,30497,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-4,text,false,,2629,694,694,0,0
+1475950837926,30318,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-164,text,false,,2629,694,694,0,0
+1475950837926,30318,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-163,text,false,,2629,694,694,0,0
+1475950837920,30324,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-160,text,false,,2629,694,694,0,0
+1475950837826,30417,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-60,text,false,,2629,694,694,0,0
+1475950837825,30418,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-62,text,false,,2629,694,694,0,0
+1475950837831,30412,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-58,text,false,,2629,694,694,0,0
+1475950837859,30384,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-138,text,false,,2629,694,694,0,0
+1475950837862,30381,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-140,text,false,,2629,694,694,0,0
+1475950837803,30440,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-107,text,false,,2629,694,694,0,0
+1475950837840,30402,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-128,text,false,,2629,694,694,0,0
+1475950837847,30395,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-131,text,false,,2629,694,694,0,0
+1475950837705,30537,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-12,text,false,,2629,694,694,0,0
+1475950837704,30537,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-22,text,false,,2244,694,694,0,0
+1475950837809,30432,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-50,text,false,,2244,694,694,0,0
+1475950837809,30432,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-39,text,false,,2244,694,694,0,0
+1475950837825,30416,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-61,text,false,,2244,694,694,0,0
+1475950837933,30307,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-167,text,false,,2244,694,694,0,0
+1475950837783,30457,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-96,text,false,,2244,694,694,0,0
+1475950837905,30335,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-154,text,false,,2244,694,694,0,0
+1475950837814,30426,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-64,text,false,,2244,694,694,0,0
+1475950837810,30429,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-112,text,false,,2244,694,694,0,0
+1475950837795,30444,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-103,text,false,,2244,694,694,0,0
+1475950837708,30531,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-70,text,false,,2244,694,694,0,0
+1475950837706,30533,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-27,text,false,,2244,694,694,0,0
+1475950837813,30425,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-114,text,false,,2244,694,694,0,0
+1475950837872,30366,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-141,text,false,,2244,694,694,0,0
+1475950837818,30420,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-26,text,false,,2244,694,694,0,0
+1475950837828,30408,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-30,text,false,,2244,694,694,0,0
+1475950837860,30375,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-139,text,false,,2244,694,694,0,0
+1475950837707,30528,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-69,text,false,,2244,694,694,0,0
+1475950837798,30437,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-105,text,false,,2244,694,694,0,0
+1475950837707,30528,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-35,text,false,,2244,694,694,0,0
+1475950837813,30421,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-23,text,false,,2244,694,694,0,0
+1475950837824,30410,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-119,text,false,,2244,694,694,0,0
+1475950837833,30401,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-33,text,false,,2244,694,694,0,0
+1475950837909,30325,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-152,text,false,,2244,694,694,0,0
+1475950837831,30403,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-59,text,false,,2244,694,694,0,0
+1475950837723,30510,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-79,text,false,,2244,694,694,0,0
+1475950837708,30525,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-11,text,false,,2244,694,694,0,0
+1475950837736,30465,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-5,text,false,,2629,694,694,0,0
+1475950837782,30450,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-95,text,false,,2244,694,694,0,0
+1475950837836,30406,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-32,text,false,,2629,694,694,0,0
+1475950837796,30431,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-104,text,false,,2629,694,694,0,0
+1475950837811,30364,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-113,text,false,,2629,694,694,0,0
+1475950837855,30377,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-135,text,false,,2244,694,694,0,0
+1475950837780,30452,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-94,text,false,,2244,694,694,0,0
+1475950837836,30396,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-125,text,false,,2244,694,694,0,0
+1475950837808,30423,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-63,text,false,,2244,694,694,0,0
+1475950837706,30524,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-31,text,false,,2244,694,694,0,0
+1475950837908,30322,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-156,text,false,,2629,694,694,0,0
+1475950837856,30366,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-136,text,false,,2629,694,694,0,0
+1475950837753,30456,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-19,text,false,,2629,695,695,0,0
+1475950837811,30418,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-66,text,false,,2244,694,694,0,0
+1475950837821,30378,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-38,text,false,,2629,690,690,0,0
+1475950837733,30461,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-82,text,false,,2629,688,688,0,0
+1475950837881,30294,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-146,text,false,,2629,687,687,0,0
+1475950837904,30272,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-153,text,false,,2629,685,685,0,0
+1475950837705,30526,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:8888 failed to respond,Grupo de Usuários 1-68,text,false,,2244,685,685,0,0
+1475950837904,30327,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-155,text,false,,2629,684,684,0,0
+1475950837738,30492,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-85,text,false,,2629,684,684,0,0
+1475950837712,30513,Requisição GET ao Tornado HTTP,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Grupo de Usuários 1-72,text,false,,2629,683,683,0,0
+1475950839100,30930,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-303,text,true,,48518,601,601,30930,0
+1475950844295,25745,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-824,text,true,,48524,600,600,25745,0
+1475950838962,31122,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-291,text,true,,48518,599,599,31111,0
+1475950839042,31117,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-297,text,true,,48524,598,598,31117,0
+1475950839354,31180,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-325,text,true,,48548,597,597,31180,0
+1475950839426,31739,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-329,text,true,,48518,596,596,31739,0
+1475950839615,31553,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-349,text,true,,48518,595,595,31547,0
+1475950839639,31573,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-351,text,true,,48524,594,594,31572,0
+1475950839555,31713,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-343,text,true,,48524,593,593,31713,0
+1475950839919,31484,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-381,text,true,,48548,592,592,31483,0
+1475950840071,31766,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-395,text,true,,48518,591,591,31766,0
+1475950840175,31716,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-403,text,true,,48524,590,590,31715,0
+1475950840088,31818,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-396,text,true,,48524,589,589,31818,0
+1475950840413,31558,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-428,text,true,,48548,588,588,31558,0
+1475950840106,31929,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-398,text,true,,48518,587,587,31929,0
+1475950840697,31798,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-457,text,true,,48524,586,586,31798,0
+1475950840707,31821,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-458,text,true,,48524,585,585,31821,0
+1475950840670,31873,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-452,text,true,,48518,584,584,31873,0
+1475950840711,32059,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-459,text,true,,48518,583,583,32058,0
+1475950840882,31892,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-476,text,true,,48548,582,582,31892,0
+1475950841215,31886,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-508,text,true,,48524,581,581,31886,0
+1475950841133,32027,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-501,text,true,,48524,580,580,32027,0
+1475950841353,31848,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-522,text,true,,48518,579,579,31848,0
+1475950841545,31750,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-529,text,true,,48518,578,578,31750,0
+1475950841666,31819,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-533,text,true,,48548,577,577,31819,0
+1475950841665,31931,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-532,text,true,,48524,576,576,31930,0
+1475950841935,31904,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-583,text,true,,48518,575,575,31904,0
+1475950841842,32049,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-573,text,true,,48524,574,574,32048,0
+1475950842047,31864,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-595,text,true,,48518,573,573,31864,0
+1475950841138,32919,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-503,text,true,,48548,572,572,32919,0
+1475950842226,32070,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-611,text,true,,48524,571,571,32069,0
+1475950842445,31993,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-642,text,true,,48518,570,570,31993,0
+1475950842497,32038,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-646,text,true,,48524,569,569,32038,0
+1475950842671,31916,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-660,text,true,,48548,568,568,31916,0
+1475950841425,33260,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-527,text,true,,48518,567,567,33259,0
+1475950839648,35174,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-352,text,true,,48524,566,566,35174,0
+1475950844095,31007,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-804,text,true,,48548,565,565,31007,0
+1475950841338,33785,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-520,text,true,,48518,564,564,33785,0
+1475950843076,32053,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-699,text,true,,48524,563,563,32053,0
+1475950841664,33664,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-531,text,true,,48518,562,562,33664,0
+1475950843505,31837,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-745,text,true,,48524,561,561,31836,0
+1475950843699,31991,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-766,text,true,,48524,560,560,31991,0
+1475950843549,32245,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-749,text,true,,48548,559,559,32245,0
+1475950843579,32333,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-753,text,true,,48518,558,558,32332,0
+1475950844034,31893,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-798,text,true,,48524,557,557,31893,0
+1475950843772,32273,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-773,text,true,,48518,556,556,32273,0
+1475950841133,35076,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-500,text,true,,48524,555,555,35075,0
+1475950842531,33749,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-648,text,true,,48548,554,554,33749,0
+1475950844186,32283,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-814,text,true,,48518,553,553,32283,0
+1475950843531,33026,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-748,text,true,,48524,552,552,33025,0
+1475950844624,32003,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-858,text,true,,48518,551,551,32003,0
+1475950841672,35136,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-538,text,true,,48548,550,550,35136,0
+1475950844645,32359,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-860,text,true,,48524,549,549,32359,0
+1475950844714,32323,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-866,text,true,,48518,548,548,32323,0
+1475950845042,32164,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-894,text,true,,48524,547,547,32163,0
+1475950845104,32114,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-900,text,true,,48518,546,546,32114,0
+1475950845230,32185,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-936,text,true,,48548,545,545,32185,0
+1475950845567,32110,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-963,text,true,,48524,544,544,32110,0
+1475950845545,32145,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-960,text,true,,48518,543,543,32145,0
+1475950844566,33291,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-852,text,true,,48524,542,542,33291,0
+1475950845741,32205,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-982,text,true,,48518,541,541,32205,0
+1475950845763,32289,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-986,text,true,,48548,540,540,32289,0
+1475950845785,32520,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-989,text,true,,48524,539,539,32520,0
+1475950840998,37357,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-488,text,true,,48518,538,538,37357,0
+1475950844695,33679,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-864,text,true,,48524,537,537,33679,0
+1475950844704,33709,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-865,text,true,,48518,536,536,33709,0
+1475950845578,33133,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-965,text,true,,48548,535,535,33132,0
+1475950839923,38970,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-380,text,true,,48524,534,534,38970,0
+1475950845800,33127,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-991,text,true,,48524,533,533,33126,0
+1475950845229,33789,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-935,text,true,,48518,532,532,33788,0
+1475950843560,35593,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-750,text,true,,48518,531,531,35582,0
+1475950841993,37219,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-589,text,true,,48548,530,530,37219,0
+1475950840097,39336,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-397,text,true,,48524,529,529,39336,0
+1475950845746,33791,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-983,text,true,,48518,528,528,33791,0
+1475950844185,35471,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-813,text,true,,48524,527,527,35471,0
+1475950844620,35143,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-857,text,true,,48548,526,526,35143,0
+1475950845793,34088,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-990,text,true,,48518,525,525,34079,0
+1475950844649,35308,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-861,text,true,,48524,524,524,35308,0
+1475950844638,35429,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-859,text,true,,48518,523,523,35429,0
+1475950841016,39220,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-480,text,true,,48524,522,522,39219,0
+1475950845037,35386,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-893,text,true,,48548,521,521,35386,0
+1475950841671,38798,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-537,text,true,,48524,520,520,38798,0
+1475950841670,38937,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-536,text,true,,48518,519,519,38937,0
+1475950841133,39523,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-502,text,true,,48518,518,518,39510,0
+1475950845228,35563,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-934,text,true,,48524,517,517,35563,0
+1475950841673,39379,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-539,text,true,,48548,516,516,39379,0
+1475950841674,39467,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-540,text,true,,48524,515,515,39467,0
+1475950845752,35414,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-984,text,true,,48518,514,514,35414,0
+1475950841675,39525,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-541,text,true,,48518,513,513,39525,0
+1475950843781,37547,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-774,text,true,,48524,512,512,37547,0
+1475950842921,38561,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-682,text,true,,48548,511,511,38561,0
+1475950844475,37279,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-831,text,true,,48524,510,510,37278,0
+1475950844474,37391,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-835,text,true,,48518,509,509,37391,0
+1475950844475,37412,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-828,text,true,,48518,508,508,37412,0
+1475950842451,39498,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-643,text,true,,48524,507,507,39497,0
+1475950838945,43147,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-289,text,true,,48548,506,506,43136,0
+1475950843561,38811,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-751,text,true,,48524,505,505,38811,0
+1475950844474,37963,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-832,text,true,,48524,504,504,37963,0
+1475950843886,38588,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-786,text,true,,48518,503,503,38588,0
+1475950843884,38600,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-784,text,true,,48518,502,502,38599,0
+1475950844474,38072,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-833,text,true,,48548,501,501,38072,0
+1475950845234,37754,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-938,text,true,,48524,500,500,37734,0
+1475950845231,37763,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-937,text,true,,48524,499,499,37763,0
+1475950839958,43100,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-386,text,true,,48548,498,498,43100,0
+1475950838976,44128,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-292,text,true,,48518,497,497,44128,0
+1475950838981,44158,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-293,text,true,,48518,496,496,44157,0
+1475950839952,43546,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-385,text,true,,48524,495,495,43546,0
+1475950845761,37771,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-987,text,true,,48548,494,494,37771,0
+1475950845757,37853,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-985,text,true,,48524,493,493,37853,0
+1475950839627,44043,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-350,text,true,,48518,492,492,44043,0
+1475950841951,41765,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-584,text,true,,48518,491,491,41765,0
+1475950840679,43327,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-455,text,true,,48524,490,490,43322,0
+1475950840670,43493,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-453,text,true,,48548,489,489,43493,0
+1475950840671,43527,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-454,text,true,,48524,488,488,43527,0
+1475950841339,42876,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-521,text,true,,48518,487,487,42875,0
+1475950839902,44419,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-379,text,true,,48518,486,486,44418,0
+1475950840417,44214,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-429,text,true,,48524,485,485,44213,0
+1475950839011,45728,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-295,text,true,,48518,484,484,45728,0
+1475950841669,43095,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-535,text,true,,48548,483,483,43094,0
+1475950841668,43105,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-534,text,true,,48524,482,482,43105,0
+1475950839028,45877,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-296,text,true,,48518,481,481,45877,0
+1475950839094,46017,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-302,text,true,,48524,480,480,46017,0
+1475950839139,46185,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-306,text,true,,48524,479,479,46185,0
+1475950839069,46275,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-300,text,true,,48518,478,478,46275,0
+1475950839081,46321,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-301,text,true,,48548,477,477,46321,0
+1475950839146,46264,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-307,text,true,,48518,476,476,46264,0
+1475950839119,46669,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-304,text,true,,48524,475,475,46669,0
+1475950839191,46630,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-311,text,true,,48518,474,474,46630,0
+1475950839162,46689,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-308,text,true,,48548,473,473,46689,0
+1475950839177,46749,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-310,text,true,,48518,472,472,46749,0
+1475950839177,46784,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-309,text,true,,48524,471,471,46784,0
+1475950839228,46977,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-313,text,true,,48524,470,470,46977,0
+1475950839237,47189,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-314,text,true,,48518,469,469,47188,0
+1475950839251,47206,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-315,text,true,,48518,468,468,47206,0
+1475950839277,47274,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-317,text,true,,48548,467,467,47274,0
+1475950839265,47288,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-316,text,true,,48524,466,466,47287,0
+1475950839282,47510,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-318,text,true,,48524,465,465,47510,0
+1475950840134,46880,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-401,text,true,,48524,464,464,46879,0
+1475950839294,47739,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-319,text,true,,48518,463,463,47738,0
+1475950839483,47700,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-335,text,true,,48518,462,462,47700,0
+1475950840229,47020,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-409,text,true,,48524,461,461,47020,0
+1475950840126,47154,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-400,text,true,,48548,460,460,47153,0
+1475950840216,47220,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-407,text,true,,48524,459,459,47220,0
+1475950840343,47296,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-419,text,true,,48518,458,458,47296,0
+1475950840870,46903,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-475,text,true,,48548,457,457,46903,0
+1475950840857,46941,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-474,text,true,,48524,456,456,46941,0
+1475950840791,47137,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-467,text,true,,48518,455,455,47137,0
+1475950840945,47037,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-482,text,true,,48524,454,454,47037,0
+1475950840975,47169,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-486,text,true,,48518,453,453,47169,0
+1475950840792,47622,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-468,text,true,,48518,452,452,47621,0
+1475950841435,47007,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-528,text,true,,48548,451,451,47007,0
+1475950840813,47674,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-470,text,true,,48524,450,450,47674,0
+1475950840945,47576,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-483,text,true,,48524,449,449,47575,0
+1475950840932,47807,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-481,text,true,,48518,448,448,47806,0
+1475950842093,46800,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-599,text,true,,48518,447,447,46800,0
+1475950842111,46872,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-601,text,true,,48548,446,446,46872,0
+1475950842155,46963,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-603,text,true,,48524,445,445,46963,0
+1475950842241,47022,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-613,text,true,,48524,444,444,47022,0
+1475950840803,48479,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-469,text,true,,48518,443,443,48478,0
+1475950842158,47253,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-604,text,true,,48518,442,442,47253,0
+1475950842816,46726,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-673,text,true,,48548,441,441,46726,0
+1475950842844,46880,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-676,text,true,,48524,440,440,46873,0
+1475950842821,46919,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-674,text,true,,48518,439,439,46919,0
+1475950842890,46938,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-681,text,true,,48524,438,438,46938,0
+1475950842232,47604,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-612,text,true,,48518,437,437,47604,0
+1475950843400,46639,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-728,text,true,,48548,436,436,46638,0
+1475950843568,46695,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-752,text,true,,48518,435,435,46695,0
+1475950842150,48171,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-602,text,true,,48518,434,434,48171,0
+1475950840223,50237,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-408,text,true,,48524,433,433,50237,0
+1475950842810,47699,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-672,text,true,,48524,432,432,47699,0
+1475950844061,46667,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-801,text,true,,48548,431,431,46667,0
+1475950843911,46907,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-788,text,true,,48518,430,430,46907,0
+1475950844140,46683,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-810,text,true,,48518,429,429,46682,0
+1475950843476,47614,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-733,text,true,,48524,428,428,47614,0
+1475950844678,46485,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-863,text,true,,48548,427,427,46485,0
+1475950844744,46471,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-867,text,true,,48518,426,426,46470,0
+1475950844287,46939,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-823,text,true,,48524,425,425,46939,0
+1475950844670,46646,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-862,text,true,,48518,424,424,46645,0
+1475950844046,47510,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-799,text,true,,48524,423,423,47510,0
+1475950842002,49625,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-590,text,true,,48548,422,422,49618,0
+1475950845172,46632,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-908,text,true,,48518,421,421,46632,0
+1475950845243,46655,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-939,text,true,,48524,420,420,46655,0
+1475950845251,46705,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-945,text,true,,48518,419,419,46705,0
+1475950845621,46652,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-970,text,true,,48548,418,418,46652,0
+1475950844118,48168,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-807,text,true,,48518,417,417,48167,0
+1475950845133,47187,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-902,text,true,,48524,416,416,47187,0
+1475950845512,46813,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-957,text,true,,48524,415,415,46813,0
+1475950845586,46947,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-966,text,true,,48518,414,414,46947,0
+1475950845252,47571,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-946,text,true,,48518,413,413,47567,0
+1475950845135,47724,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-903,text,true,,48548,412,412,47723,0
+1475950845098,47779,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-899,text,true,,48524,411,411,47778,0
+1475950845586,47317,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-967,text,true,,48524,410,410,47317,0
+1475950845247,47919,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-942,text,true,,48518,409,409,47919,0
+1475950844068,49228,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-802,text,true,,48548,408,408,49228,0
+1475950844055,49310,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-800,text,true,,48524,407,407,49310,0
+1475950840350,53134,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-420,text,true,,48518,406,406,53134,0
+1475950840372,53127,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-423,text,true,,48524,405,405,53127,0
+1475950840364,53283,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-422,text,true,,48518,404,404,53282,0
+1475950841005,52851,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-489,text,true,,48524,403,403,52851,0
+1475950841014,52976,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-490,text,true,,48518,402,402,52975,0
+1475950841462,52561,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-530,text,true,,48548,401,401,52561,0
+1475950845170,48909,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-906,text,true,,48518,400,400,48909,0
+1475950845171,48992,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-907,text,true,,48524,399,399,48992,0
+1475950845248,49139,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-943,text,true,,48524,398,398,49139,0
+1475950845514,48927,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-958,text,true,,48518,397,397,48927,0
+1475950845503,49014,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-956,text,true,,48548,396,396,49014,0
+1475950842095,52558,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-600,text,true,,48524,395,395,52558,0
+1475950845607,49083,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-969,text,true,,48518,394,394,49083,0
+1475950842073,52748,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-598,text,true,,48524,393,393,52748,0
+1475950842857,52112,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-677,text,true,,48518,392,392,52112,0
+1475950842879,52271,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-680,text,true,,48524,391,391,52271,0
+1475950845246,49980,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-941,text,true,,48518,390,390,49980,0
+1475950845244,50148,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-940,text,true,,48524,389,389,50148,0
+1475950845250,50176,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-944,text,true,,48518,388,388,50176,0
+1475950842879,52563,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-679,text,true,,48548,387,387,52563,0
+1475950839314,56320,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-321,text,true,,48524,386,386,56319,0
+1475950839308,56486,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-320,text,true,,48518,385,385,56485,0
+1475950840239,55570,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-410,text,true,,48524,384,384,55570,0
+1475950840336,55551,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-418,text,true,,48548,383,383,55551,0
+1475950840359,55576,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-421,text,true,,48518,382,382,55575,0
+1475950843590,53659,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-754,text,true,,48518,381,381,53658,0
+1475950845708,53650,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-979,text,true,,48524,380,380,53650,0
+1475950844470,55670,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-840,text,true,,48518,379,379,55670,0
+1475950844469,55714,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-841,text,true,,48548,378,378,55714,0
+1475950839344,63497,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-324,text,true,,48548,377,377,63497,0
+1475950839412,63557,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-328,text,true,,48524,376,376,63557,0
+1475950839442,63720,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-330,text,true,,48518,375,375,63719,0
+1475950839471,63699,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-334,text,true,,48518,374,374,63699,0
+1475950839447,63731,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-331,text,true,,48524,373,373,63731,0
+1475950839463,63919,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-333,text,true,,48548,372,372,63919,0
+1475950839533,64007,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-340,text,true,,48524,371,371,64007,0
+1475950839528,64070,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-339,text,true,,48518,370,370,64070,0
+1475950839500,64321,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-336,text,true,,48518,369,369,64321,0
+1475950839527,64326,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-338,text,true,,48548,368,368,64326,0
+1475950839537,64319,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-341,text,true,,48524,367,367,64319,0
+1475950839542,64518,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-342,text,true,,48524,366,366,64518,0
+1475950839576,64549,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-344,text,true,,48518,365,365,64548,0
+1475950839591,64742,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-347,text,true,,48518,364,364,64742,0
+1475950839577,64780,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-345,text,true,,48548,363,363,64780,0
+1475950839584,64859,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-346,text,true,,48524,362,362,64859,0
+1475950839661,64946,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-354,text,true,,48518,361,361,64945,0
+1475950839667,65089,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-355,text,true,,48524,360,360,65088,0
+1475950839707,65141,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-359,text,true,,48518,359,359,65141,0
+1475950839685,65186,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-356,text,true,,48548,358,358,65186,0
+1475950839696,65267,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-358,text,true,,48524,357,357,65267,0
+1475950839729,65393,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-360,text,true,,48518,356,356,65393,0
+1475950839733,65560,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-361,text,true,,48518,355,355,65560,0
+1475950839696,65638,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-357,text,true,,48524,354,354,65638,0
+1475950839758,65664,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-362,text,true,,48524,353,353,65664,0
+1475950839765,65743,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-365,text,true,,48548,352,352,65743,0
+1475950839758,66004,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-363,text,true,,48524,351,351,66004,0
+1475950839775,66009,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-366,text,true,,48518,350,350,66008,0
+1475950839761,66101,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-364,text,true,,48518,349,349,66101,0
+1475950839779,66145,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-367,text,true,,48524,348,348,66145,0
+1475950839798,66304,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-369,text,true,,48548,347,347,66304,0
+1475950839812,66524,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-371,text,true,,48518,346,346,66524,0
+1475950839810,66526,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-370,text,true,,48524,346,346,66526,0
+1475950839799,66664,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-368,text,true,,48524,344,344,66662,0
+1475950839864,66645,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-376,text,true,,48518,343,343,66645,0
+1475950839820,66806,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-372,text,true,,48548,342,342,66798,0
+1475950839837,66905,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-373,text,true,,48524,341,341,66905,0
+1475950839850,66952,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-374,text,true,,48518,340,340,66952,0
+1475950839988,67052,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-388,text,true,,48518,339,339,67052,0
+1475950839937,67147,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-383,text,true,,48524,338,338,67147,0
+1475950839928,67302,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-382,text,true,,48548,337,337,67302,0
+1475950840008,67333,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-389,text,true,,48518,336,336,67332,0
+1475950839987,67364,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-387,text,true,,48524,335,335,67364,0
+1475950840018,67542,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-391,text,true,,48524,334,334,67542,0
+1475950840028,67606,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-392,text,true,,48518,333,333,67606,0
+1475950840014,67655,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-390,text,true,,48548,332,332,67655,0
+1475950840119,67757,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-399,text,true,,48524,331,331,67757,0
+1475950840041,67919,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-393,text,true,,48518,330,330,67919,0
+1475950840250,67799,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-411,text,true,,48524,329,329,67799,0
+1475950840296,67762,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-414,text,true,,48518,328,328,67761,0
+1475950840271,68122,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-412,text,true,,48548,327,327,68122,0
+1475950840329,68147,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-417,text,true,,48518,326,326,68147,0
+1475950840317,68174,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-416,text,true,,48524,325,325,68174,0
+1475950840315,68288,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-415,text,true,,48518,324,324,68288,0
+1475950840394,68246,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-425,text,true,,48524,323,323,68234,0
+1475950840428,68431,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-430,text,true,,48548,322,322,68431,0
+1475950840407,68471,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-427,text,true,,48518,321,321,68470,0
+1475950840460,68593,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-433,text,true,,48518,320,320,68593,0
+1475950840434,68688,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-431,text,true,,48524,319,319,68688,0
+1475950840450,68706,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-432,text,true,,48524,318,318,68706,0
+1475950840504,68886,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-437,text,true,,48548,317,317,68886,0
+1475950840472,68967,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-434,text,true,,48518,316,316,68966,0
+1475950840561,69080,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-442,text,true,,48518,315,315,69080,0
+1475950840564,69174,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-443,text,true,,48524,314,314,69174,0
+1475950840531,69220,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-440,text,true,,48524,313,313,69220,0
+1475950840594,69275,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-446,text,true,,48518,312,312,69275,0
+1475950840541,69456,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-441,text,true,,48548,311,311,69455,0
+1475950840570,69496,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-444,text,true,,48518,310,310,69496,0
+1475950840584,69735,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-445,text,true,,48524,309,309,69734,0
+1475950840617,69725,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-448,text,true,,48518,308,308,69725,0
+1475950840637,69746,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-450,text,true,,48524,307,307,69746,0
+1475950840646,69839,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-451,text,true,,48518,306,306,69839,0
+1475950840624,69964,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-449,text,true,,48548,305,305,69952,0
+1475950840769,70013,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-466,text,true,,48518,304,304,70013,0
+1475950840687,70164,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-456,text,true,,48524,303,303,70164,0
+1475950840728,70192,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-461,text,true,,48524,302,302,70192,0
+1475950840722,70410,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-460,text,true,,48518,301,301,70410,0
+1475950840733,70410,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-462,text,true,,48548,300,300,70410,0
+1475950840748,70532,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-464,text,true,,48524,299,299,70532,0
+1475950840905,70502,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-478,text,true,,48524,298,298,70502,0
+1475950840735,70841,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-463,text,true,,48518,297,297,70841,0
+1475950840841,70762,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-473,text,true,,48518,296,296,70762,0
+1475950840830,70875,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-471,text,true,,48548,295,295,70867,0
+1475950840832,70898,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-472,text,true,,48524,294,294,70898,0
+1475950840891,71129,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-477,text,true,,48524,293,293,71129,0
+1475950841022,71060,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-491,text,true,,48518,292,292,71059,0
+1475950840968,71164,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-485,text,true,,48518,291,291,71164,0
+1475950841023,71187,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-479,text,true,,48548,290,290,71187,0
+1475950841031,71202,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-492,text,true,,48524,289,289,71202,0
+1475950841055,71444,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-495,text,true,,48524,288,288,71444,0
+1475950841041,71536,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-493,text,true,,48518,287,287,71536,0
+1475950841044,71650,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-494,text,true,,48518,286,286,71650,0
+1475950841063,71694,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-496,text,true,,48548,285,285,71694,0
+1475950841074,71693,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-497,text,true,,48524,284,284,71693,0
+1475950841153,71927,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-504,text,true,,48524,283,283,71927,0
+1475950841081,72101,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-498,text,true,,48518,282,282,72090,0
+1475950841203,72031,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-507,text,true,,48548,281,281,72030,0
+1475950841164,72085,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-505,text,true,,48524,280,280,72084,0
+1475950841092,72207,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-499,text,true,,48518,279,279,72207,0
+1475950841176,72324,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-506,text,true,,48524,278,278,72324,0
+1475950841249,72416,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-511,text,true,,48524,277,277,72415,0
+1475950841242,72484,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-510,text,true,,48518,276,276,72484,0
+1475950841260,72493,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-512,text,true,,48548,275,275,72493,0
+1475950841268,72685,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-513,text,true,,48524,274,274,72684,0
+1475950841230,72755,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-509,text,true,,48518,273,273,72754,0
+1475950841310,72907,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-518,text,true,,48524,272,272,72832,0
+1475950841294,72972,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-516,text,true,,48548,271,271,72972,0
+1475950841298,73100,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-514,text,true,,48518,270,270,73100,0
+1475950841301,73100,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-517,text,true,,48524,269,269,73099,0
+1475950841395,73243,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-525,text,true,,48524,268,268,73243,0
+1475950841318,73370,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-519,text,true,,48518,267,267,73370,0
+1475950841379,73483,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-523,text,true,,48548,266,266,73483,0
+1475950841679,73212,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-545,text,true,,48524,265,265,73212,0
+1475950841383,73673,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-524,text,true,,48518,264,264,73673,0
+1475950841678,73400,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-544,text,true,,48524,263,263,73400,0
+1475950841677,73466,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-543,text,true,,48518,262,262,73466,0
+1475950841682,73750,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-547,text,true,,48524,261,261,73739,0
+1475950841687,73838,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-549,text,true,,48524,260,260,73837,0
+1475950841676,73871,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-542,text,true,,48548,259,259,73871,0
+1475950841681,73868,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-546,text,true,,48518,258,258,73868,0
+1475950841686,73957,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-548,text,true,,48518,257,257,73957,0
+1475950841797,74217,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-555,text,true,,48518,256,256,74217,0
+1475950841688,74331,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-550,text,true,,48524,255,255,74331,0
+1475950841796,74243,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-554,text,true,,48518,254,254,74243,0
+1475950841793,74352,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-552,text,true,,48548,253,253,74352,0
+1475950841783,74428,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-551,text,true,,48524,252,252,74428,0
+1475950841795,74613,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-553,text,true,,48518,251,251,74613,0
+1475950841798,74762,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-556,text,true,,48524,250,250,74761,0
+1475950841802,74838,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-559,text,true,,48548,249,249,74837,0
+1475950841803,74848,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-560,text,true,,48518,248,248,74848,0
+1475950841801,74887,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-558,text,true,,48524,247,247,74886,0
+1475950841811,75230,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-568,text,true,,48518,246,246,75230,0
+1475950841799,75269,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-557,text,true,,48518,245,245,75269,0
+1475950841815,75302,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-571,text,true,,48548,244,244,75302,0
+1475950841814,75367,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-570,text,true,,48524,243,243,75367,0
+1475950841809,75383,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-566,text,true,,48524,242,242,75383,0
+1475950841812,75669,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-569,text,true,,48518,241,241,75669,0
+1475950841822,75846,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-572,text,true,,48524,240,240,75846,0
+1475950841807,75906,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-564,text,true,,48524,239,239,75905,0
+1475950841808,75941,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-565,text,true,,48548,238,238,75941,0
+1475950841810,75969,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-567,text,true,,48518,237,237,75969,0
+1475950841806,76120,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-563,text,true,,48518,236,236,76120,0
+1475950841805,76259,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-562,text,true,,48524,235,235,76258,0
+1475950841804,76440,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-561,text,true,,48524,234,234,76440,0
+1475950841867,76437,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-576,text,true,,48518,233,233,76437,0
+1475950841855,76473,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-575,text,true,,48518,232,232,76470,0
+1475950841889,76560,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-578,text,true,,48548,231,231,76560,0
+1475950841916,76668,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-581,text,true,,48524,230,230,76668,0
+1475950841894,76850,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-579,text,true,,48518,229,229,76850,0
+1475950841872,76877,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-577,text,true,,48524,228,228,76877,0
+1475950841964,77013,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-586,text,true,,48524,227,227,77013,0
+1475950841974,77025,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-587,text,true,,48548,226,226,77024,0
+1475950841924,77100,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-582,text,true,,48518,225,225,77100,0
+1475950842186,76999,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-607,text,true,,48524,224,224,76998,0
+1475950841987,77385,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-588,text,true,,48518,223,223,77374,0
+1475950842279,77151,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-616,text,true,,48518,222,222,77150,0
+1475950842216,77258,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-610,text,true,,48548,221,221,77258,0
+1475950842176,77485,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-605,text,true,,48524,220,220,77485,0
+1475950842351,77417,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-620,text,true,,48524,219,219,77417,0
+1475950842369,77515,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-622,text,true,,48518,218,218,77515,0
+1475950842706,77181,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-663,text,true,,48548,217,217,77181,0
+1475950842628,77485,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-656,text,true,,48518,216,216,77485,0
+1475950842750,77371,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-667,text,true,,48524,215,215,77371,0
+1475950842639,77517,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-657,text,true,,48524,214,214,77517,0
+1475950843233,77140,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-712,text,true,,48548,213,213,77140,0
+1475950842379,78243,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-624,text,true,,48524,212,212,78243,0
+1475950842751,77897,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-668,text,true,,48518,211,211,77897,0
+1475950843372,77281,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-725,text,true,,48524,210,210,77281,0
+1475950843230,77440,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-711,text,true,,48518,209,209,77440,0
+1475950843520,77343,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-746,text,true,,48548,208,208,77343,0
+1475950842685,78350,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-661,text,true,,48524,207,207,78350,0
+1475950843714,77385,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-767,text,true,,48518,206,206,77385,0
+1475950843998,77165,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-795,text,true,,48518,205,205,77165,0
+1475950843950,77299,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-791,text,true,,48524,204,204,77299,0
+1475950844255,77223,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-820,text,true,,48524,203,203,77223,0
+1475950843964,77533,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-792,text,true,,48548,202,202,77533,0
+1475950843680,77923,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-764,text,true,,48518,201,201,77923,0
+1475950844243,77519,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-819,text,true,,48518,200,200,77519,0
+1475950844514,77296,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-846,text,true,,48524,199,199,77296,0
+1475950844788,77105,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-871,text,true,,48548,198,198,77105,0
+1475950843525,78415,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-747,text,true,,48524,197,197,78415,0
+1475950844913,77392,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-882,text,true,,48518,196,196,77391,0
+1475950844930,77395,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-883,text,true,,48524,195,195,77394,0
+1475950843903,78439,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-787,text,true,,48518,194,194,78439,0
+1475950844983,77378,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-889,text,true,,48524,193,193,77378,0
+1475950842292,80131,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-617,text,true,,48548,192,192,80130,0
+1475950844972,77799,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-887,text,true,,48518,191,191,77799,0
+1475950844499,78287,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-844,text,true,,48524,190,190,78286,0
+1475950844751,78159,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-868,text,true,,48524,189,189,78159,0
+1475950845779,77160,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-988,text,true,,48548,188,188,77159,0
+1475950845558,77382,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-962,text,true,,48518,187,187,77381,0
+1475950842199,81001,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-608,text,true,,48524,186,186,81001,0
+1475950845525,77734,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-959,text,true,,48518,185,185,77733,0
+1475950845811,77645,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-993,text,true,,48524,184,184,77641,0
+1475950843352,80150,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-723,text,true,,48518,183,183,80150,0
+1475950843372,80145,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-724,text,true,,48548,182,182,80144,0
+1475950844269,79472,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-822,text,true,,48524,181,181,79472,0
+1475950845804,77987,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-992,text,true,,48518,180,180,77987,0
+1475950844501,79447,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-845,text,true,,48524,179,179,79447,0
+1475950844020,79965,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-796,text,true,,48548,178,178,79964,0
+1475950844901,79198,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-881,text,true,,48518,177,177,79198,0
+1475950843982,80210,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-794,text,true,,48524,176,176,80210,0
+1475950845553,78737,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-961,text,true,,48518,175,175,78736,0
+1475950843662,80822,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-762,text,true,,48548,174,174,80812,0
+1475950843685,80903,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-765,text,true,,48518,173,173,80903,0
+1475950843657,80948,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-761,text,true,,48524,172,172,80948,0
+1475950844892,79772,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-880,text,true,,48524,171,171,79772,0
+1475950844945,79958,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-885,text,true,,48518,170,170,79958,0
+1475950844943,80067,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-884,text,true,,48518,169,169,80067,0
+1475950844949,80146,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-886,text,true,,48548,168,168,80146,0
+1475950842702,82429,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-662,text,true,,48524,167,167,82429,0
+1475950842723,82410,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-664,text,true,,48524,166,166,82410,0
+1475950842724,82620,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-665,text,true,,48518,165,165,82619,0
+1475950842180,83331,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-606,text,true,,48518,164,164,83331,0
+1475950842267,83297,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-615,text,true,,48524,163,163,83297,0
+1475950842209,83397,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-609,text,true,,48548,162,162,83397,0
+1475950842356,83411,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-621,text,true,,48524,161,161,83411,0
+1475950842333,83571,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-618,text,true,,48518,160,160,83571,0
+1475950842339,83594,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-619,text,true,,48518,159,159,83594,0
+1475950842616,83496,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-655,text,true,,48524,158,158,83496,0
+1475950844020,82163,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-797,text,true,,48548,157,157,82163,0
+1475950843340,82985,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-721,text,true,,48518,156,156,82985,0
+1475950843980,82373,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-793,text,true,,48524,155,155,82373,0
+1475950843345,83107,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-722,text,true,,48524,154,154,83107,0
+1475950843374,83085,Requisição GET ao Tornado HTTP,200,OK,Grupo de Usuários 1-726,text,true,,48518,153,153,83085,0
+1475950842376,120054,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-623,text,false,,1731,152,152,0,0
+1475950842387,120043,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-628,text,false,,1731,152,152,0,0
+1475950842389,120041,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-629,text,false,,1731,152,152,0,0
+1475950842390,120042,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-630,text,false,,1731,151,151,0,0
+1475950842391,120042,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-631,text,false,,1731,151,151,0,0
+1475950842393,120041,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-632,text,false,,1731,151,151,0,0
+1475950842394,120041,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-633,text,false,,1731,151,151,0,0
+1475950842395,120041,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-634,text,false,,1731,151,151,0,0
+1475950842397,120040,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-635,text,false,,1731,151,151,0,0
+1475950842398,120040,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-636,text,false,,1731,151,151,0,0
+1475950842383,120056,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-625,text,false,,1731,151,151,0,0
+1475950842385,120055,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-626,text,false,,1731,151,151,0,0
+1475950842386,120053,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-627,text,false,,1731,151,151,0,0
+1475950842404,120096,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-640,text,false,,1731,139,139,0,0
+1475950842468,120072,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-644,text,false,,1731,138,138,0,0
+1475950842480,120096,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-645,text,false,,1731,137,137,0,0
+1475950842589,120045,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-653,text,false,,1731,136,136,0,0
+1475950842545,120092,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-650,text,false,,1731,135,135,0,0
+1475950842562,120096,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-651,text,false,,1731,134,134,0,0
+1475950842573,120093,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-652,text,false,,1731,133,133,0,0
+1475950842595,120101,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-654,text,false,,1731,132,132,0,0
+1475950842655,120094,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-659,text,false,,1731,131,131,0,0
+1475950842653,120096,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-658,text,false,,1731,131,131,0,0
+1475950842738,120101,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-666,text,false,,1731,129,129,0,0
+1475950842939,120020,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-685,text,false,,1731,128,128,0,0
+1475950842976,120018,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-689,text,false,,1731,127,127,0,0
+1475950842968,120026,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-688,text,false,,1731,127,127,0,0
+1475950842924,120088,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-683,text,false,,1731,125,125,0,0
+1475950842933,120099,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-684,text,false,,1731,124,124,0,0
+1475950842982,120061,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-690,text,false,,1731,123,123,0,0
+1475950842943,120100,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-686,text,false,,1731,123,123,0,0
+1475950842991,120052,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-691,text,false,,1731,123,123,0,0
+1475950842956,120097,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-687,text,false,,1731,120,120,0,0
+1475950843024,120097,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-694,text,false,,1731,119,119,0,0
+1475950843033,120088,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-695,text,false,,1731,119,119,0,0
+1475950843043,120102,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-696,text,false,,1731,117,117,0,0
+1475950843108,120037,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-701,text,false,,1731,117,117,0,0
+1475950843127,120035,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-704,text,false,,1731,115,115,0,0
+1475950843144,120034,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-705,text,false,,1731,114,114,0,0
+1475950843103,120095,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-702,text,false,,1731,113,113,0,0
+1475950843119,120095,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-703,text,false,,1731,112,112,0,0
+1475950843162,120087,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-706,text,false,,1731,111,111,0,0
+1475950843178,120099,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-707,text,false,,1731,110,110,0,0
+1475950843196,120100,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-708,text,false,,1731,109,109,0,0
+1475950843211,120090,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-710,text,false,,1731,108,108,0,0
+1475950843204,120100,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-709,text,false,,1731,107,107,0,0
+1475950843257,120099,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-714,text,false,,1731,106,106,0,0
+1475950843281,120099,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-716,text,false,,1731,105,105,0,0
+1475950843294,120093,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-718,text,false,,1731,104,104,0,0
+1475950843292,120095,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-717,text,false,,1731,104,104,0,0
+1475950843323,120101,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-720,text,false,,1731,102,102,0,0
+1475950843443,120096,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-731,text,false,,1731,101,101,0,0
+1475950843451,120090,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-732,text,false,,1731,100,100,0,0
+1475950843474,120101,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-734,text,false,,1731,99,99,0,0
+1475950843475,120100,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-735,text,false,,1731,99,99,0,0
+1475950843476,120099,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-736,text,false,,1731,99,99,0,0
+1475950843482,120094,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-740,text,false,,1731,98,98,0,0
+1475950843479,120096,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-738,text,false,,1731,99,98,0,0
+1475950843483,120094,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-741,text,false,,1731,94,94,0,0
+1475950843484,120094,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-742,text,false,,1731,93,93,0,0
+1475950843486,120093,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-743,text,false,,1731,92,92,0,0
+1475950843480,120100,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-739,text,false,,1731,91,91,0,0
+1475950843478,120103,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-737,text,false,,1731,90,90,0,0
+1475950843604,120032,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-756,text,false,,1731,89,89,0,0
+1475950843627,120009,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-759,text,false,,1731,89,89,0,0
+1475950843617,120054,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-758,text,false,,1731,87,87,0,0
+1475950843608,120063,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-757,text,false,,1731,87,87,0,0
+1475950843632,120067,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-760,text,false,,1731,85,85,0,0
+1475950843598,120101,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-755,text,false,,1731,85,85,0,0
+1475950843748,120017,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-771,text,false,,1731,83,83,0,0
+1475950843759,120026,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-772,text,false,,1731,82,82,0,0
+1475950843740,120045,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-770,text,false,,1731,82,82,0,0
+1475950843725,120083,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-768,text,false,,1731,80,80,0,0
+1475950843799,120067,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-776,text,false,,1731,79,79,0,0
+1475950843798,120095,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-777,text,false,,1731,78,78,0,0
+1475950843834,120059,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-781,text,false,,1731,78,78,0,0
+1475950843846,120047,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-783,text,false,,1731,78,78,0,0
+1475950843827,120101,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-780,text,false,,1731,75,75,0,0
+1475950844173,120004,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-812,text,false,,1731,74,74,0,0
+1475950844159,120043,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-811,text,false,,1731,73,73,0,0
+1475950844217,120072,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-817,text,false,,1731,72,72,0,0
+1475950844208,120084,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-816,text,false,,1731,71,71,0,0
+1475950844206,120086,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-815,text,false,,1731,71,71,0,0
+1475950844230,120094,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-818,text,false,,1731,69,69,0,0
+1475950844306,120087,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-825,text,false,,1731,68,68,0,0
+1475950844473,120078,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-837,text,false,,1731,67,67,0,0
+1475950844476,120075,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-826,text,false,,1731,67,67,0,0
+1475950844476,120075,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-829,text,false,,1731,67,67,0,0
+1475950844472,120087,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-839,text,false,,1731,64,64,0,0
+1475950844474,120086,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-836,text,false,,1731,64,64,0,0
+1475950844473,120087,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-838,text,false,,1731,64,64,0,0
+1475950844476,120084,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-843,text,false,,1731,64,64,0,0
+1475950844474,120087,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-830,text,false,,1731,63,63,0,0
+1475950844477,120092,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-827,text,false,,1731,59,59,0,0
+1475950844535,120085,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-848,text,false,,1731,58,58,0,0
+1475950844566,120058,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-851,text,false,,1731,57,57,0,0
+1475950844596,120062,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-856,text,false,,1731,56,56,0,0
+1475950844573,120097,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-853,text,false,,1731,55,55,0,0
+1475950844589,120094,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-854,text,false,,1731,54,54,0,0
+1475950844591,120092,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-855,text,false,,1731,54,54,0,0
+1475950844797,120048,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-873,text,false,,1731,52,52,0,0
+1475950844794,120100,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-872,text,false,,1731,51,51,0,0
+1475950844817,120080,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-874,text,false,,1731,50,50,0,0
+1475950844818,120101,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-875,text,false,,1731,49,49,0,0
+1475950844826,120093,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-876,text,false,,1731,49,49,0,0
+1475950844836,120089,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-877,text,false,,1731,47,47,0,0
+1475950844977,120012,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-888,text,false,,1731,46,46,0,0
+1475950845069,120012,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-896,text,false,,1731,45,45,0,0
+1475950845071,120010,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-897,text,false,,1731,45,45,0,0
+1475950845007,120097,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-891,text,false,,1731,43,43,0,0
+1475950845050,120058,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-895,text,false,,1731,42,42,0,0
+1475950845078,120047,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-898,text,false,,1731,41,41,0,0
+1475950845112,120098,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-901,text,false,,1731,40,40,0,0
+1475950845199,120025,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-914,text,false,,1731,39,39,0,0
+1475950845198,120026,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-913,text,false,,1731,39,39,0,0
+1475950845192,120032,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-909,text,false,,1731,39,39,0,0
+1475950845195,120029,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-912,text,false,,1731,39,39,0,0
+1475950845201,120025,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-916,text,false,,1731,36,36,0,0
+1475950845200,120026,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-915,text,false,,1731,36,36,0,0
+1475950845194,120032,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-911,text,false,,1731,35,35,0,0
+1475950845215,120012,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-923,text,false,,1731,35,35,0,0
+1475950845217,120010,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-925,text,false,,1731,35,35,0,0
+1475950845202,120025,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-917,text,false,,1731,33,33,0,0
+1475950845219,120009,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-927,text,false,,1731,32,32,0,0
+1475950845211,120017,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-920,text,false,,1731,32,32,0,0
+1475950845216,120012,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-924,text,false,,1731,32,32,0,0
+1475950845204,120025,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-918,text,false,,1731,30,30,0,0
+1475950845205,120024,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-919,text,false,,1731,29,29,0,0
+1475950845212,120017,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-921,text,false,,1731,29,29,0,0
+1475950845222,120008,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-929,text,false,,1731,28,28,0,0
+1475950845218,120012,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-926,text,false,,1731,27,27,0,0
+1475950845221,120008,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-928,text,false,,1731,26,26,0,0
+1475950845214,120017,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-922,text,false,,1731,25,25,0,0
+1475950845194,120071,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-910,text,false,,1731,19,19,0,0
+1475950845223,120098,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-930,text,false,,1731,18,18,0,0
+1475950845227,120094,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-933,text,false,,1731,18,18,0,0
+1475950845224,120097,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-931,text,false,,1731,18,18,0,0
+1475950845225,120098,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-932,text,false,,1731,16,16,0,0
+1475950845494,120050,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-955,text,false,,1731,14,14,0,0
+1475950845639,120023,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-972,text,false,,1731,13,13,0,0
+1475950845634,120067,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-971,text,false,,1731,12,12,0,0
+1475950845600,120101,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-968,text,false,,1731,12,12,0,0
+1475950845662,120039,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-974,text,false,,1731,12,12,0,0
+1475950845647,120059,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-973,text,false,,1731,9,9,0,0
+1475950845671,120086,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-975,text,false,,1731,8,8,0,0
+1475950845701,120080,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-978,text,false,,1731,7,7,0,0
+1475950845696,120091,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-977,text,false,,1731,6,6,0,0
+1475950845854,120004,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-998,text,false,,1731,5,5,0,0
+1475950845875,120003,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-1000,text,false,,1731,4,4,0,0
+1475950845843,120067,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-996,text,false,,1731,3,3,0,0
+1475950845839,120090,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-995,text,false,,1731,2,2,0,0
+1475950845865,120091,Requisição GET ao Tornado HTTP,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to localhost:8888 timed out,Grupo de Usuários 1-999,text,false,,1731,1,1,0,0

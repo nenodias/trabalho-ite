@@ -1,0 +1,1 @@
+jmeter -n -t Trabalho-estático.jmx -l estatico-out-log.txt -j "estatico-run-log.txt" -r
